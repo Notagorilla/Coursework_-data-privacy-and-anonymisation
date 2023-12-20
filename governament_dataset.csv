@@ -1,0 +1,1001 @@
+id,gender,age_categories,region,education_level_categories,height,weight,avg_n_drinks_per_week,avg_n_cigret_per_week,n_countries_visited,cc_status
+3f1b594c67aa4617dbc7d33365d6c7fdbfde9280048fbe3b88348b1bd63c0df6,F,"[40, 50)",North of England,bachelor or higher,1.73,74.2,6.5,218.8,48,0
+a6bb541c55c529f2f9cb10997f659e9dcab4480986acee51d2d26259a4cd96ad,M,"[18, 30)",North of England,primary or secondary,1.74,69.4,0.7,43.6,42,0
+e21968597c54974ef66e64c9d84fb18b956c1a6250f4c02f7a81b22d38887c04,F,"[30, 40)",South of England,bachelor or higher,1.88,98.6,7.8,59.1,9,0
+060bd921422eb81c815297175acdaeb0f2a9435cb656b9dadca937d3117dcb79,F,"[18, 30)",Midlands,primary or secondary,1.56,62.0,4.6,284.2,32,0
+16154e7f7528007d69a5fa728a7c42d74c55f6f0930933fd9286aa4ef372810f,F,"[50, 60)",South of England,primary or secondary,1.81,96.3,4.4,348.8,34,0
+55589b53b52a7309e4e488d7d3e5bdd1a28e65dda9319c3637b9481ee1dc7cfe,F,"[50, 60)",South of England,primary or secondary,1.59,43.4,5.7,219.3,7,0
+7fda2b9f24c903ad7cb2940b1d77837f878c4f14cf916d295579f9c9e91a37d6,M,"[40, 50)",North of England,primary or secondary,1.55,77.5,2.4,79.5,34,0
+e5f602f9be6f5b1fc84fb22e5dff621747a6868cae29ba9ac48bd8c375c29311,M,"[30, 40)",Greater London,primary or secondary,1.89,59.0,8.4,48.0,24,0
+c4e2dbf94c66b3a5f388a79b37f9f892b344fc3e928851c1fd4da9a25a1eea9c,F,"[18, 30)",Midlands,primary or secondary,1.42,83.1,1.2,148.1,17,0
+d27b092f8b69124e488c3f4da8a2665cebcf12ee362ced2a43cfce9d111000db,M,"[18, 30)",Greater London,bachelor or higher,1.74,80.0,5.2,47.0,47,0
+e8324039e1da161f97a13f091ebc8313f87cccf531b6677828ba8b2c107ed42b,M,"[60, 70)","Scotland, Wales & Northern Ireland",primary or secondary,1.83,43.6,1.8,293.3,42,0
+e282f450bae078b92861c8d92fd04e8f3b2e89d778da6a281a366a8a57bcaf30,M,"[18, 30)",Midlands,bachelor or higher,1.84,52.6,2.5,288.1,29,0
+440f6282ce66724c657e662440846994defd199d0f72436a1f4922ef96f708c6,M,"[30, 40)",Greater London,primary or secondary,1.91,64.1,3.0,406.9,44,1
+8f1dfca469e104291de06135f218e5fb5c84d8fe01fe310e3c7a892fda1456a5,F,"[60, 70)",Greater London,primary or secondary,1.84,80.0,9.6,322.0,31,0
+841e614681ba4a9bc03d74b6f874730a2bb39f7bb08056dea971e0fb89cfae21,M,"[30, 40)",Greater London,primary or secondary,1.57,77.9,4.3,67.7,29,0
+4a0e32f22dba1b76437cd107500579c2c2c9bb7f35daf988fff6ca64b69170a3,F,"[40, 50)",North of England,primary or secondary,1.79,77.5,9.0,183.8,45,0
+867d212001c8215085fe7440c813b3e10e148a5668a5d298c12dc4e5a35ce9ee,F,"[40, 50)",Midlands,bachelor or higher,1.95,41.5,10.0,74.7,10,0
+de2dcc9cf54e042ee852c858db03bbce8b9ea5dfb95680f5aecbabf941ba6034,F,"[60, 70)",North of England,bachelor or higher,1.88,90.1,4.1,34.6,24,0
+73afbd8a1d91be8a44c831dc448a489249b7d5b5485b07f5a3c141cfbaa0eff6,F,"[18, 30)",Greater London,primary or secondary,1.91,98.4,3.6,365.0,27,0
+b720564c40479fde653dd21d864cccccc98f5d8bd4442fd211cfb31322c0288e,M,"[30, 40)",South of England,bachelor or higher,1.88,36.2,3.5,464.0,4,0
+c726f72af69893bf41164dc105a17f291ebce8d3c4890db542013f4886f2c9e5,M,"[18, 30)",Midlands,bachelor or higher,1.54,72.5,6.1,267.8,37,0
+a3e20aece900a1a596b2f105efae4d64dc08b058f3ac7a3f4ea30397200154bc,M,"[40, 50)",Greater London,primary or secondary,1.51,48.6,7.4,245.2,14,0
+cfeeda90e555def90aa31a14d033e26b5caa482471b24bf2f1e6e0070db4f2a5,M,"[50, 60)",Midlands,primary or secondary,1.82,55.3,1.8,12.3,35,0
+b0d204bcb0ff1c7f06e56674bde88cc0b5c0390006cce8c0b1c3046df14972a2,M,"[50, 60)",South of England,primary or secondary,1.99,93.3,6.6,131.7,38,0
+c8d021c0ba7cf59dc4e8603e09e9ac7d133d65ed238ab3f425d5826ad91fe1ab,M,"[60, 70)",North of England,bachelor or higher,1.9,73.2,8.7,136.8,11,0
+f1da789b169a3773aa7e25e01b33c53ae7dcb3e64ae6fc882ac1dd1043e72de0,F,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.97,49.0,2.5,106.7,3,0
+24be09f03e071b932de2e89796df2f493a7efa12f1ca25964e7fc14714f004aa,M,"[18, 30)",Midlands,primary or secondary,1.68,59.3,5.9,431.9,27,0
+530acd9bc550d1d53164b2d7590235339a890f98185dfc684d80f0a3f1188781,M,"[50, 60)",South of England,primary or secondary,1.74,60.7,1.4,244.0,47,0
+3ddb86c650e73af5dec4af4129af544bdd64fd0c8c2aeafd8bab664e7730831c,F,"[30, 40)",South of England,primary or secondary,1.45,93.7,5.8,481.0,14,0
+21794c54a44987296bae01c863de6bfbc7e053dbac57456a346fba43451f9e23,M,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.8,95.4,2.8,293.2,25,0
+9cbeaa98c858d42034f0f9a2946271bf29bccb4ac6b89fae6cad434cb53173fe,F,"[30, 40)",Midlands,bachelor or higher,1.98,57.0,9.5,470.7,32,0
+744a6fbed4e841ab06360d5b212c1035569c555827e42eacec94bd761335d9a8,F,"[18, 30)",South of England,primary or secondary,1.77,90.2,3.5,74.1,25,0
+cf868e861cacd2d212bd9a9ef16980663f762b02b72a883af007c7537f219ea2,M,"[40, 50)",Midlands,primary or secondary,1.48,59.0,1.9,255.7,7,0
+af6396333d879d492a5695b7c4c05a46db82d7938822a3473c1d33b2b91ee8dd,F,"[50, 60)",South of England,primary or secondary,1.94,97.5,3.3,40.6,13,1
+6c9f4b63ac9a78d680faff3e55a66a83c2ad329ccba4ca2a483fb28d1fc8f894,M,"[50, 60)","Scotland, Wales & Northern Ireland",primary or secondary,1.41,82.2,1.5,39.8,34,0
+32da3a3b99976475e1b8087e76af2e528d3cf0e22ebc1e74d27a5799542be396,M,"[40, 50)",Midlands,primary or secondary,1.92,71.2,2.7,65.7,16,0
+4b73c9a263459f3db76c725eadfbae14ffb3f13a529e633f026f89702aac58b7,M,"[60, 70)",North of England,bachelor or higher,1.82,79.4,3.8,90.6,5,0
+4a07af37d19f65e7e9fd854a2a60a480b02a020b7a274b6e1bbe2601fa6fa7f4,F,"[60, 70)",South of England,primary or secondary,1.56,85.5,5.9,136.4,11,0
+58af34dc73063376c9ddc4849160c65c0f3d4fbf3633e9cfcc1de12873cf3622,M,"[30, 40)",North of England,primary or secondary,1.45,87.0,3.1,288.8,33,0
+d1d7a90b1b0b63635948fa89c66e63f63eb803e71e01ceb79080059eca82e89e,M,"[30, 40)",Greater London,primary or secondary,1.72,68.2,2.8,64.4,48,0
+449a3c8ed78dde4ff820d700cf7c56d50ddb836aeefb0a561c4d2b6ed2055fcf,M,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.67,70.3,4.6,362.1,45,0
+84f55456ee0a5b88604b5b2fc56e8f64198ba9962fe7566fbd99d0151ab07a0d,F,"[40, 50)",North of England,bachelor or higher,1.85,56.3,2.4,80.3,48,0
+cf4337469815e091b5e11d536c2647365f4f9c9cf683943633660920bb04b7ec,M,"[30, 40)",South of England,primary or secondary,1.67,90.8,5.8,410.4,41,0
+92a3681c98b9c5686944b70371d0a13a493488db16b6cf34dfcaa886ac3404c2,M,"[60, 70)",South of England,primary or secondary,1.44,60.9,2.6,424.5,48,0
+00a6b36a9407051d86ea85ea8153a11771c14b104537d2f274fdd9f9094aa586,M,"[50, 60)",Midlands,primary or secondary,1.51,36.1,9.3,49.8,44,0
+841b3923f396bb41b736fd9268a5f639cc2367ce8b456b30ec925cd8a06bd50b,M,"[18, 30)",South of England,primary or secondary,1.77,50.1,0.2,214.4,14,0
+d21839cfbec18601168811359dc3fe2efaa9c8d006215d88881dbac8413e8191,M,"[30, 40)",Greater London,primary or secondary,1.41,43.5,6.2,487.1,22,0
+9bc3f15c205874b0c191aca1c67c55e8245d17fc51048dd1b01fd4cfc6ca6dc5,M,"[30, 40)",Midlands,primary or secondary,1.99,66.9,7.8,144.2,34,0
+981f196e36781c263e637f6fcfc788b24ca4c2ec9fa95870588b06a3de9c01bb,M,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.65,68.6,2.9,353.3,19,0
+a2ecb1f0f4f5e287cff9b9bea1819b681cefbbd7f89775768c5dea8b1004d67a,F,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.54,38.0,8.1,492.7,45,0
+e9688679d9a317993ae98fd9c350a47fbc37fe3bfa88db2e323e6644cd14e38e,M,"[40, 50)",North of England,primary or secondary,1.46,51.2,2.3,344.9,37,1
+f24180f2ac35bf15c507a5bbdda2c1cbf642357a87b7724d0130fc0618de5895,F,"[40, 50)",Midlands,primary or secondary,1.62,59.6,2.4,85.9,17,0
+f1fa03a3363db75b40b5442fd2e6fa47dc86d2e17a3633e1bb06a8f3a8f23938,F,"[60, 70)",South of England,bachelor or higher,1.97,67.7,8.7,470.1,36,0
+2ae2ebe372ba066440179741c772ae578f30feb32a3566e6ef3da64e32d7fc69,F,"[40, 50)",North of England,primary or secondary,1.44,64.4,1.5,208.7,31,1
+845878cd768759647541556e5a23af769250910c5e77f3796106f788147e4698,M,"[60, 70)",Midlands,primary or secondary,1.73,97.9,5.9,448.4,28,0
+1028307e3ab4c824e3fd05bf2f6a28103f8c4f8d0e2489d186f09482bfae1eba,M,"[60, 70)",North of England,primary or secondary,1.55,61.1,3.1,186.5,38,0
+54e29aa53e70b49af16ee837a2b9dd7408d37c5b3653436901ff8f1d7008edb6,M,"[18, 30)",Midlands,primary or secondary,1.43,91.1,4.5,52.3,38,0
+113e5d80e5eac18ec1b40d04a4d8885ba570df1e55b3aca44d5809da10bbca3d,F,"[30, 40)",Greater London,primary or secondary,1.52,81.2,6.8,439.6,16,0
+e09dffc5f6dfa31e54b7f42882cfa2ae81cb65969f88ae83d0b06eda234915b3,M,"[60, 70)",South of England,primary or secondary,1.62,35.5,9.2,44.7,3,0
+59588f2fe778e21b49cd844de1dc2c9bfb3cb66f577ce524ada1541e77c9df9c,M,"[40, 50)",Greater London,bachelor or higher,1.53,53.1,5.8,347.6,48,0
+bd3ea9cea4bbec5eb4884785216a6bc66134037233006840e333298f5e9f734c,M,"[18, 30)",Midlands,bachelor or higher,1.75,74.0,0.2,348.2,26,0
+f06679a3ca23d081016872e7b5d0253da9ab7ce2081bfd3e00d3b054cc7c28be,M,"[30, 40)",South of England,primary or secondary,1.67,41.3,6.9,45.4,22,0
+d92cc1612a64e64ec8842e4dd3c5163b03e1bb62a968b63c94a3d5c63d010e56,F,"[30, 40)",North of England,primary or secondary,1.48,75.2,8.7,251.4,28,0
+fe54244a97dcc761cb111eae99be7f873d38897d70d5c09948ce122d62097d3a,F,"[60, 70)",North of England,primary or secondary,1.95,97.9,1.7,194.6,16,0
+feb2a93d5a3657eeb68714d863ccfd4ba8ad35f0820512f96f5b5b4af8cf55c3,M,"[40, 50)",South of England,primary or secondary,1.94,64.0,6.6,220.1,35,0
+e022212e7dbd68e35ef6a69bc7a2f9156fdff5d7bd157a5116cfd4502a8b513d,M,"[40, 50)","Scotland, Wales & Northern Ireland",bachelor or higher,1.44,38.9,7.4,449.0,27,0
+20783d53739cd1baa25140c28ccc5b5c3b86eb199a9d3b6f6bc45f8629db4442,M,"[30, 40)",Midlands,primary or secondary,1.68,58.5,9.8,87.3,35,1
+628002f2577a25d4b5bd47bfe1a2039c11f01b2193c81b04606ceddf46e30140,M,"[60, 70)",North of England,primary or secondary,1.57,66.0,5.1,184.0,18,0
+44b0780e464e18b150f296f0430c593e1e8a1b2ee2f9d217476956f2735412cb,F,"[40, 50)",Midlands,primary or secondary,1.61,41.3,6.6,198.6,19,0
+162e33c8c4a9768347fa39758f2b0a8c3230f9ae8d8a174fdd845dcaf9d44138,F,"[30, 40)",South of England,primary or secondary,1.99,87.8,7.6,349.1,9,0
+5020110b2de073e56cb4ebea584da9e0e540c9ce57d304b39109845929d51b51,M,"[50, 60)",South of England,primary or secondary,1.71,63.1,9.6,58.7,30,0
+fc2c9ca761b1e8ada2c3226362042135b1110461925bd58d18a5ff79278b36d9,F,"[40, 50)",Midlands,bachelor or higher,1.99,95.8,3.8,73.9,34,0
+e3bf65f1030bcb0855499aabbbacba503515796a7b3982c54bee40b029b8fb23,F,"[18, 30)",South of England,primary or secondary,1.75,67.4,1.7,429.8,25,0
+7164adf5084dd3943a9159a4c6f8a825fc550c8bb461d54f6d341ab16d0058f2,M,"[50, 60)",Greater London,primary or secondary,1.65,98.7,1.2,135.6,21,0
+e7c11d227c9fbb924f67bfedccb253a228faacc68fe81bcf0a3b6ea432c9cf70,F,"[40, 50)",Greater London,primary or secondary,1.78,81.4,4.3,307.3,41,0
+b31e30df2db40cccbd965170c1f323ca3e17e7187fb3dbd2eb77ae9284f93c69,F,"[30, 40)",South of England,primary or secondary,1.47,69.9,4.1,160.5,37,0
+964845b1105df51b23f5ef9f80b565dd19c60d131c87165234b546c7e48e4443,M,"[40, 50)",North of England,primary or secondary,1.78,80.7,1.0,433.6,28,0
+083093214b1ac9ffdff5b3c79a3eb79c18863491a4f591984d0172a85a5378d5,M,"[50, 60)",Greater London,primary or secondary,1.51,58.7,5.2,421.4,13,0
+57221f37cb4f7a658865ac577480d95b13c1d28d2a37fe4bad96dbfa75846a29,M,"[60, 70)",Greater London,bachelor or higher,1.46,49.4,0.7,32.8,10,0
+1c35474b159d55bf2201bdcd0673f6d14901a8360ecc69b4d775d760d9e23c33,F,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.49,64.7,4.3,264.1,40,0
+6d8fb1bfb0e744dbe8fafede475a223a305a6616fb82a4a180c02b175ef54d5b,F,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.94,36.9,8.8,345.4,38,0
+be0aca07f1e00e754ca1240b12a2c3d96a44ee6649b6d96a387529d5d2657b3c,M,"[50, 60)","Scotland, Wales & Northern Ireland",primary or secondary,1.62,59.5,5.0,340.9,27,0
+e83bee53d352666c1a12c43ec8e67fa8d20f259b318679ed0d873c83622b51f0,M,"[50, 60)",Greater London,primary or secondary,1.98,38.0,1.8,306.4,44,0
+a0f664ac987e412d657588bd454ca151547bf55c44df007ba5568a23bc823f3f,F,"[50, 60)",South of England,primary or secondary,1.58,68.0,9.3,260.4,44,1
+4b8ceda53838290f8da12ceff03b1c40b5a26bf586c3357dfc0053a2f5282adb,M,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.59,51.1,4.6,222.3,44,0
+da03505e98b48bb8c3a243c572b2a58189cdca6f057c6c17cc882b86b383d3eb,F,"[18, 30)",Greater London,primary or secondary,1.98,59.5,6.8,122.4,10,1
+c6cf3cb1b24a6bd2960fc54054c20fc92feb767f0e63ea8f505b83c66a35615f,F,"[40, 50)",Midlands,primary or secondary,1.7,64.5,8.4,69.5,42,0
+b52aa853446d16c226f98c9126f7edb2330e4073848635b6dcdd93d35e705e01,F,"[50, 60)","Scotland, Wales & Northern Ireland",bachelor or higher,1.58,45.2,4.2,53.8,14,0
+b148e2d9d49942055e937308813cfa2a5fc3409c48e4db7d11d7393d9c6c5761,F,"[50, 60)",South of England,primary or secondary,1.96,98.4,2.4,125.2,4,0
+e4de245a3cb3a37692803c2e84899a1b19032e4e4426299dcbca61d612022765,F,"[60, 70)",Midlands,bachelor or higher,1.89,59.5,9.5,176.0,39,0
+9cc714078ba454aaaece2d7365b34cd014e69b077ada307f9ac1d04791ea71a1,M,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.92,53.8,2.1,91.5,38,0
+dcf3921ef8f6b1a290fd44be6e25dc6c8050c67e539fd9b89d9f990126c47f02,F,"[60, 70)","Scotland, Wales & Northern Ireland",primary or secondary,1.66,35.0,2.1,466.2,43,0
+87c3a240d341719a936c8c859674e595390a4bf5e63fe566cb45202df2033247,F,"[60, 70)",South of England,primary or secondary,1.47,74.4,6.4,406.0,46,0
+40b5bbd616b58b7f36cd1dadbe659219558835e8c23dcc57c10e47da41767a73,M,"[50, 60)",South of England,primary or secondary,1.65,81.5,1.1,408.7,44,0
+eda1723e364528fc0d514fb3f8ee6f4e0117f17ee6b2868447be515c6b195c99,F,"[50, 60)",North of England,bachelor or higher,1.71,59.3,7.4,2.6,46,0
+aef482aef3e1e58240c82d34caaa82e9b4fce760b447bcb625f382f05ae1ce75,F,"[30, 40)",Greater London,primary or secondary,1.48,66.4,9.4,461.7,18,0
+a0f4e94944497f64d38dfcc86fcbb57dbb3add0112d0839f61fc62cdaeb60e02,F,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.55,44.6,4.9,449.5,28,1
+fffb1ca07cb89d2e4ab10c18160ed5146f7010cdf6e7c1fc846becfaa8cc5741,M,"[30, 40)",Greater London,bachelor or higher,1.66,64.0,9.1,365.9,16,0
+11e0da7c6f2c4826b59850749293d61367cb23c29adb35daf80ae4917ec006bc,F,"[18, 30)",North of England,bachelor or higher,1.61,86.7,7.4,70.8,23,0
+eafd2acf3e5d1f5922dee1ed74ffba8b921724d54f544f23de09cc99ece29811,M,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.77,71.9,8.7,313.9,22,0
+7684bbaf7daf40658201a7258a9af323e60c50489f46b54a3d555ce26a931c75,F,"[40, 50)",Greater London,primary or secondary,1.44,48.7,9.2,60.1,10,0
+bab8e1ff8bef0a65ecfe7debedd82f9c2f3eb36b578196a516c6645b9d67a12a,M,"[40, 50)",Midlands,primary or secondary,1.99,38.7,8.6,283.3,18,0
+9d37fe17c8d7005d6b188c2cbb054954e8925835419087288502a82795943ef8,F,"[60, 70)",North of England,bachelor or higher,1.71,77.7,9.0,277.3,37,0
+234e5343b33392c3c88e159c2f71da6038550c1c483fb7d6e3f545c25132d41a,M,"[50, 60)","Scotland, Wales & Northern Ireland",primary or secondary,1.94,49.1,3.3,49.9,41,0
+dfb59bab2914cd057a794c30464e35b29a9c31552b623fdb02be54409afbd0ad,M,"[30, 40)",South of England,bachelor or higher,1.89,56.5,2.3,34.4,21,0
+c50adf51a5e717e84f2f535cdaa11fe450954a20f4ed4a84a31f84d33a496176,M,"[18, 30)",North of England,primary or secondary,1.84,56.8,2.2,486.9,16,0
+2c06002dfc3e57c653a806525156ce28615b7cc70f6970b0e1a9545efb8d8925,M,"[60, 70)","Scotland, Wales & Northern Ireland",bachelor or higher,1.71,66.2,8.9,110.1,7,0
+273ce570babe3855dc918f9c37e383af71c1acffd3955c630f9fa53705d89046,M,"[40, 50)",Greater London,bachelor or higher,1.69,55.6,0.7,439.6,10,0
+c3e0fb8006f216f41110c2b3d433329c2660940708ac07cec90127d2cb9f6d48,F,"[60, 70)",South of England,bachelor or higher,1.52,100.0,2.9,152.1,46,0
+434de08ea40d043925ce4e80543e8505f3b024d753166d15aac9f4676326a789,F,"[60, 70)",North of England,primary or secondary,1.95,71.3,8.7,417.0,39,0
+2006e44724450e61b077adccca54209457a9e634788953e16589537ee31fa5dc,M,"[50, 60)",Greater London,primary or secondary,1.7,49.9,1.0,257.5,13,0
+aabe88ef3a05ff5148b4fa4b35ce55b5ce56e3a74248e6f4a947163c53386296,F,"[50, 60)",South of England,primary or secondary,1.69,35.7,0.4,439.8,3,0
+e7e50b6fba6782ee4a94589b36e265ee78fb97292cb1087140e9d7f61d57012a,M,"[60, 70)",North of England,primary or secondary,1.46,72.9,4.6,10.5,25,1
+8087d84750699eae62348a7c10c7c9f1e8ca262f81848587b796a7f59ee476ec,M,"[60, 70)",Greater London,bachelor or higher,1.54,84.0,6.4,474.3,43,0
+56900aa42885521e08d5b5a264a2ec529495bc4edb77bbe75f8a2446a777503d,M,"[60, 70)",North of England,primary or secondary,1.48,99.7,0.7,471.9,37,0
+6fab9d31cd02b726c728fb23edc4d8abb99955bfc4d66eaa4dbdc8f49ada913e,M,"[50, 60)",Midlands,bachelor or higher,1.48,52.2,1.4,158.4,37,0
+6c6afcaec14baabb95906a29da18dc6345ea72a335924e53da670849c17dac25,M,"[18, 30)",North of England,primary or secondary,1.91,77.4,9.7,132.8,25,0
+483d7e0d8fb2bc5641fd88a0c2c673a9bf55b1b8b3bb3bee625fe832ff4b3414,M,"[18, 30)",South of England,bachelor or higher,1.59,50.1,7.2,279.0,22,0
+e0e878538955281dd738c9a26a8cc033246ffad24037e27a8ebd993aa262c7ec,M,"[30, 40)",North of England,primary or secondary,1.45,68.2,9.7,429.5,2,0
+0b1b1757fa92bebaa068c23ef12466d71fecff18973a307e5795fd867f5e149d,F,"[30, 40)",North of England,bachelor or higher,1.81,47.1,2.6,487.5,27,0
+12f54eff449b53ba181d00e2af46c27597fe8fa2389d3901c910309cf73d63fb,M,"[30, 40)",Greater London,bachelor or higher,1.98,44.2,6.2,21.5,46,0
+721eae068ded6ac2d442945f5407d96ceef2fb568a9e202e5e5c0b39bc28cc2a,F,"[60, 70)",South of England,primary or secondary,1.85,42.8,1.0,379.5,48,0
+74f3acd03895521f75a5f784fedf3ce9cc6252e934993270e0ffdde082ed940a,F,"[18, 30)",North of England,bachelor or higher,1.96,54.2,8.3,492.6,27,0
+10c9623bf8f418a7a31f65e603f7281627e567875cef77aa5596dfa06fa5f620,M,"[40, 50)",North of England,primary or secondary,1.52,63.5,3.6,81.8,15,0
+0883cce30db66010f98129266edd8ba7e999418156681422f5697e66053c9595,F,"[50, 60)",North of England,primary or secondary,1.89,93.9,8.5,481.2,32,0
+0afb8d26d74f973e7addeeba1dad94043588b4139f4ceff11be4d5d48df34072,F,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.48,74.2,0.0,99.5,18,1
+7cb6438e4f8b86b585e2d21114f2de695127609bc34b233d4aa466ac9e41dd1a,F,"[60, 70)",South of England,primary or secondary,1.84,96.6,7.9,54.1,13,0
+87b6b7c64657e006594911c4832401fffc9099fbc201f570cc11886c9fa01a91,F,"[50, 60)",North of England,primary or secondary,1.57,60.8,3.5,353.2,32,0
+541f6fc0e437c96823d500722271c81a4ca3c9bce2f87addd03b3e41936fdc09,M,"[30, 40)",Midlands,bachelor or higher,1.97,87.0,8.3,52.0,38,0
+e612849ccc07a28109c979dafcb288a9a2b2042acfba6a94c030bd6e3462e692,M,"[40, 50)",Greater London,bachelor or higher,1.46,93.0,5.9,217.8,46,0
+c06c82d252de385aed65973c4fb3d5499f16a49ab7347c405fbde4ecc60e6c12,M,"[50, 60)",Midlands,primary or secondary,1.75,66.6,7.0,194.8,47,0
+13ba5c5e97c88059ff73eaaf5f1b1d44dc54b5f264d5107f64fbbbfce8d481e6,M,"[18, 30)","Scotland, Wales & Northern Ireland",bachelor or higher,1.8,95.2,2.0,183.7,33,0
+26ca076b89e6b3129f808f3dc62433062db650ed2e8f0fb93e5617ad8cfb5556,F,"[30, 40)",Midlands,bachelor or higher,1.95,88.0,3.7,189.9,34,0
+0577991f5d50bf7adb99414133dee1c24083d0be5861a0ff8aa87718701e60dd,M,"[60, 70)","Scotland, Wales & Northern Ireland",bachelor or higher,1.59,60.9,8.9,430.2,19,0
+1fa379ebaaf84d29b10201aadf4c114e0680633adef52db9ae21b8e80648fc9d,F,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.88,41.4,8.2,403.8,32,0
+16fcaff12c129329165d953e8bacacb2fddd231312dfb7f9cd62cafa23f4ab7a,F,"[40, 50)",South of England,primary or secondary,1.86,44.6,9.8,491.1,8,0
+9acfab2716becfe5cb5096c32ec9bea1c2e923b4578f3f758b68f0cedf2dd868,F,"[50, 60)",North of England,primary or secondary,1.85,64.8,5.7,92.9,8,0
+b37f5564dcc541866043f6de5c90e1398879b0cf8e24151f58185087c9fcc582,M,"[30, 40)",Greater London,primary or secondary,1.8,62.6,0.9,31.3,10,0
+5b199fecfe27787e2516b798575207c87196ddd669d0f621e7cc53abe4ed8bf3,F,"[18, 30)",South of England,primary or secondary,1.75,87.4,5.1,485.9,40,0
+509149cf546c225a96518e9cfc3982c22f84e472cd1537ad857fba26ec80195b,F,"[40, 50)","Scotland, Wales & Northern Ireland",bachelor or higher,1.76,97.1,4.2,390.8,46,0
+a2e3ae9a6f14063dad4daf50f1047a1594a3843baa03e0121822728b3ffa3a72,M,"[50, 60)",North of England,primary or secondary,1.74,64.9,9.8,430.8,45,0
+5737c7f13d669ed0f8e766d32ae63084e83baa10cf40fe8102dadc29a2894c15,F,"[18, 30)","Scotland, Wales & Northern Ireland",bachelor or higher,1.86,37.3,7.9,374.0,16,0
+ed5406f74a165762fee27dbb9a41c596341f2481d229a88757f40e73a4aadf8b,F,"[30, 40)",Greater London,primary or secondary,1.81,65.8,1.0,146.1,9,0
+4c99b19149661af5f131ba35b9d0f53e12154a0163abe38dbb8d4623bb8fd738,M,"[40, 50)",North of England,primary or secondary,1.59,56.5,8.5,191.4,42,0
+0f4459c4d93bdddb3d6b30982bf14f56ddf0f2a95155449d2b0b754d9ce49b66,F,"[30, 40)",South of England,bachelor or higher,1.46,99.7,2.9,217.7,35,0
+da5d0c5e56ceb3b5a61785361de0c6f005e562cfe43aed17fcdc7097908965fd,F,"[60, 70)",Midlands,primary or secondary,1.93,41.4,7.1,26.9,10,0
+066b88d75056c655dc83d1643f03d5724cdff848f0cf52366af4b119b1a5d29a,F,"[60, 70)",North of England,primary or secondary,1.98,92.4,9.9,307.4,3,0
+9f7c477056edf69d0fcc9b23b193609df5e9e12e4922c0e5cd8b5ad9c07dbc23,M,"[18, 30)",North of England,primary or secondary,1.98,91.3,0.4,456.6,29,0
+3ae103d22647137b280f20f938f1eaf287ddab92e6260e2105b6bb6951fbdecc,F,"[40, 50)",North of England,primary or secondary,1.64,78.3,5.3,118.8,14,0
+3ecbe5ce20ec1f9c200215f78b4e11b0bb027c7cd172ffd62cd59c6341796660,F,"[50, 60)",Midlands,primary or secondary,1.82,96.7,1.7,187.0,35,0
+5831e3cfa7235e00a4488c07c1ded19acdad98650d8bfc54207829c9f816af81,M,"[50, 60)",North of England,primary or secondary,1.89,58.1,0.8,39.1,39,0
+7df9bb88d5216c1649fbef5921a4d7f118e23d76baf5d33dd74ce923d9b19df5,F,"[18, 30)",North of England,primary or secondary,1.57,84.9,5.4,369.8,15,0
+92b0cf25a9542bfe99a5ee94b9d2e3409a817e2a91f8f1e4545037cd65f05aef,F,"[40, 50)",South of England,bachelor or higher,1.86,72.7,0.4,73.7,6,0
+3ce06a91ff00b7d8fcf29150f09a357707b724362daa6bd787921c2804d8f2ae,F,"[50, 60)",South of England,primary or secondary,1.82,52.8,8.7,222.2,28,0
+7dea517cd13545e9a119273b4767a5dc09548c45dba508f437fe79ad3cd19715,F,"[60, 70)","Scotland, Wales & Northern Ireland",primary or secondary,1.59,41.6,5.6,159.0,48,0
+a815a2642c041777a61bf35d3358bbb7df0236fb84d345e7265403ad368be9df,F,"[18, 30)",Greater London,primary or secondary,1.93,99.0,3.1,182.8,25,0
+5f4eedb87053d3fc8fa0b83519739bef851a1afd3cef4d913791ca9429bc116d,F,"[50, 60)","Scotland, Wales & Northern Ireland",bachelor or higher,1.42,42.7,5.4,100.1,33,0
+f50f61d02a1e4c491fdd612c5764ffeb048946bb02ba25051a84c3d9899fe7d9,M,"[18, 30)",South of England,primary or secondary,1.53,38.9,1.9,342.7,7,0
+8a5340fe079c932fc36ea800c9fa8f044aa73bfc23ac02299242f16bf3dcddcf,M,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.55,54.4,10.0,267.0,21,0
+31a161a70c6f1e04f4572a37f458a51b04b5c178357a21f3ef2b3b0218b8419d,M,"[60, 70)",Greater London,bachelor or higher,1.7,54.2,4.6,467.6,36,0
+36b34c119aed53eaabc6af941355ca0e2db2151ebab102c9692730bc69a1e5ce,M,"[50, 60)","Scotland, Wales & Northern Ireland",bachelor or higher,1.82,60.8,1.0,453.9,32,0
+794335fba690265671eebff61755b55f14e380521070172c9a3a9894013e5220,F,"[40, 50)",North of England,primary or secondary,1.93,66.4,2.7,303.8,28,0
+f010375d6bc5fb2fdba38ea607658ff44fb8f94087684643df8cf2fecb7d3df0,F,"[18, 30)",North of England,bachelor or higher,1.94,98.9,8.2,384.5,17,0
+46164e2fa0397009080126850dbe420e05a2ccc28e0b30cf64528f6b19835575,M,"[60, 70)",South of England,primary or secondary,1.41,89.8,4.4,449.0,25,0
+df29ac8a39883961e5cf0abab125899803f98aa748790b6530739b00ca2559ff,F,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.9,81.3,2.9,19.0,34,0
+e8c172987ddef02c905edf5dc9bc7c1c630245f3a4adffedeb0a6a838fa90d20,F,"[50, 60)",Greater London,primary or secondary,1.62,87.1,3.8,328.9,45,0
+d63881a3794108fc9f5d7a7483fedb047edc8616cbd7216fe1faf2d777b72df6,F,"[60, 70)","Scotland, Wales & Northern Ireland",bachelor or higher,1.47,47.6,2.3,223.4,13,0
+92e90d363a3cc2e0799acf7905c7a3f66c267f915594f60a682f028894a07c1b,M,"[50, 60)",Midlands,primary or secondary,1.88,78.4,9.8,294.3,12,0
+e59568696d086fc7c2d07d45492a19a6959ee7c0e3dc97ae99fa8ffb7f856161,M,"[40, 50)",Midlands,primary or secondary,1.65,85.2,7.9,158.6,33,0
+47d8acfd3f750c91ec626bb7223ce758a4e5535476ee569b8701a83b184b6d7b,F,"[40, 50)",Greater London,primary or secondary,1.86,83.2,1.5,279.1,46,0
+b0c82d5709dd18324f22edd32074f15b11972f5194472a7fa65600ffa8fb025e,M,"[18, 30)",Greater London,primary or secondary,1.44,91.9,7.2,369.1,40,1
+d3faddab527e9e06faed1348105f7f6a2603d1155b6ca86350e3cf34c10c38f4,M,"[50, 60)",Greater London,bachelor or higher,1.48,80.6,4.8,149.1,30,0
+c31349eec8a33dd8473ce0f80ff5b26886ed7a206eacf4e2acfd4d89d0b28189,M,"[30, 40)","Scotland, Wales & Northern Ireland",bachelor or higher,2.0,87.3,4.1,63.7,5,0
+5bf4a46944ed5fd66f9f65b4cc4c930b9996ea5fe209a9a304463f5e00d0e493,M,"[60, 70)",South of England,primary or secondary,1.78,97.4,0.4,257.2,18,0
+5cf51fc8bba300fd8f6bc7939206d3a332b72c6a7a4ea15473fda4c44e72c1c1,M,"[18, 30)",North of England,primary or secondary,1.66,58.3,7.2,158.8,3,0
+e5e47f0b908197b4438da979ef421c1a82da643249f80154d8437db5dd8cb59b,M,"[40, 50)","Scotland, Wales & Northern Ireland",bachelor or higher,1.78,83.1,7.7,428.3,49,0
+bd1a64b58714d664a432ea0dd328a024b8377a32afa8329db249161fd2a1e619,F,"[18, 30)",Greater London,bachelor or higher,1.42,73.2,1.3,370.2,20,0
+c0e4339285d7aa0c5710b03010a084b356238b58a899d7ae303348540a028472,M,"[18, 30)",North of England,primary or secondary,1.67,83.7,9.2,73.3,22,0
+0a27cf634aa4cc768cb8e486c1e27a9cbe3a8e6de58381dddd7a69d74a4a54b6,M,"[50, 60)",North of England,bachelor or higher,1.52,99.4,1.1,325.5,35,0
+69a7b330165097d6b0e7557182c3b7b7f2f111dbd641af24b23d1af855084ddc,M,"[60, 70)",South of England,primary or secondary,1.75,60.6,9.3,26.8,7,0
+e477aa9025ea10c7fd65a9211f2ade47ad15292cc49afc37eb0ee41af84182d3,M,"[50, 60)",South of England,bachelor or higher,1.78,67.9,8.9,494.5,43,0
+aa9273abd96ef7712dbf6d8f7073bd92c5080743dbc555cedc2a8781f7900798,F,"[50, 60)","Scotland, Wales & Northern Ireland",bachelor or higher,1.43,91.9,2.7,231.0,7,0
+c001a37edf9d3fe9369f5d86a2f56e5c52c6039e735ae3718061736585ab6f0c,F,"[40, 50)",Midlands,primary or secondary,1.65,47.0,4.5,399.9,40,0
+c028864db4c9836e0e31fdbd5e3a8da897ef3e54837207c03e5c6885aa4e057c,M,"[60, 70)",South of England,bachelor or higher,1.54,39.3,2.0,264.2,25,0
+9131ecaa35734d7158290d321b8073e8efe5786dcd3a506975f4a5d92b910520,F,"[50, 60)",South of England,primary or secondary,1.92,84.6,4.6,298.1,29,0
+8aabd7808a8eecbdbc95a79d25fe05d9609f2185d3f9b9c3b41c9a273e83dbd0,M,"[30, 40)",Greater London,primary or secondary,1.46,80.2,8.5,385.5,20,0
+cd4b404f7ea4c9e55ddbf495001b03ad90cc80e8a1b03c1e1fa5fa771e9851e8,F,"[50, 60)",Midlands,bachelor or higher,1.53,74.9,4.3,336.3,43,0
+2f7af6c11255917c39e75d26a8516e4132f5a67c4d749053c6f0b6f3aec6d02e,M,"[30, 40)",North of England,primary or secondary,1.51,57.0,7.7,258.4,9,0
+ba9249fb11e3493887c2d47691caae9e65351f1b173c532d0e6c73dca6ee7ad6,F,"[60, 70)",Greater London,bachelor or higher,1.82,45.6,5.7,210.1,45,0
+9405591e5b59e930022975aacf628abb96d75d7846619899ff9f4f7b4fb74770,F,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.59,37.1,4.2,115.6,47,0
+ca675c1a47737fa20f0107679764a2b97d02afd76a60c768981a269513944c1e,M,"[30, 40)",South of England,bachelor or higher,1.91,35.2,2.0,127.6,12,0
+416bb3557559969eafdd9e3f3f4df19a89756f98a56fa02b0e20a977d4a962e1,F,"[60, 70)",Greater London,primary or secondary,1.47,95.3,7.4,98.0,10,0
+95c6db941d5a7b0c6fb9228d420593d6df46f6d7ffe92799b98d6a83d5e77b79,M,"[18, 30)",North of England,primary or secondary,1.59,42.1,0.2,194.2,26,0
+5002a341b32fef634b308c7a2e060252fea5d0f3c5b79424e7f531aec43955a7,F,"[50, 60)",South of England,bachelor or higher,1.76,40.2,2.4,381.0,41,0
+8fc069e853c2dc0c253e09cc6875dc7ca91b9837820d124ee4d282a4cb3d9d18,M,"[50, 60)",North of England,primary or secondary,1.56,47.5,3.8,351.7,9,0
+840dd235493949a28b40d5da8f442068ff65197042f8eea8185ae1d47c3d32e0,M,"[18, 30)",South of England,primary or secondary,1.52,97.3,2.7,443.6,34,0
+f90f82eb18ff75a477f3d5e95a0a6f2d5171fbd2b824dccb8d723d470b01b2b1,M,"[50, 60)",South of England,primary or secondary,1.91,80.5,4.8,310.9,25,1
+c5719fba556e9a48793378384258cf3589b14f7b1ad5587ceaec98071450cf47,F,"[60, 70)",North of England,bachelor or higher,1.66,46.1,0.7,422.2,28,0
+8097fe6f65036bba0608a1fb8efeb58864457ab140de2b4adc721cf0b9bceb1e,F,"[18, 30)",North of England,primary or secondary,1.56,84.8,2.2,394.5,42,0
+32acef9f949a4424e82207cf147a90bea90ad6ac0e3a38aa0ddd60048c9672b6,F,"[60, 70)",North of England,bachelor or higher,1.78,87.7,7.5,280.6,15,0
+d7926d41ee0e39922771a82656cee1a27fd4fef4446d3d72c4c6250e111704a1,F,"[60, 70)",North of England,primary or secondary,1.54,97.9,3.3,251.3,29,0
+ddf0469928c6652018ce176c42d5b2c1f9b9a0d2070d3b15e600cfa07d91b937,F,"[50, 60)",North of England,primary or secondary,1.97,75.5,8.2,303.9,3,0
+677210dd69fca34ca6d271108189a029c4e8925d3fe272a277e24e6b1720f6c6,F,"[18, 30)",Greater London,primary or secondary,1.6,88.2,7.8,372.0,44,1
+6e20d32239df2d6db4e574b95a9c310c8a1381a6eee695791ff3976fcf5cb3fb,F,"[50, 60)",South of England,bachelor or higher,1.59,66.4,3.0,430.9,17,0
+6aeca05c827f79fda6eda17b797439964fe276941c5b312a528fe2a04bad1c55,F,"[60, 70)",Greater London,primary or secondary,1.51,94.1,9.7,87.6,35,0
+c1727a2d7d79c7ae10b1d2ddfe7cdf610fb3d366a1517763861ff4c56c9a291c,F,"[40, 50)",South of England,primary or secondary,1.53,74.6,1.1,160.7,23,0
+517e3966a9256c64b1669c89c5329441d2c3aa1c9e0a414eeb768f70871e5978,F,"[40, 50)",South of England,primary or secondary,1.77,61.1,1.3,458.9,25,0
+7015f6342680225e934775601d363998cc2d8a6b9eda38f0c637cbe102ddd590,M,"[40, 50)",Midlands,bachelor or higher,1.67,57.6,9.6,259.5,31,0
+745ad39e35b55195dba49ba491a52dae91577e2826870e8a3619ed103a165b9d,M,"[40, 50)",North of England,primary or secondary,1.71,61.9,1.5,300.1,42,0
+e664abca7944bd8e11ab99593ea579e898f10553150e6115a4be3749b98a8356,M,"[50, 60)","Scotland, Wales & Northern Ireland",primary or secondary,1.96,40.4,1.4,431.3,34,0
+ab21c1be0cdc6f2a0fddd71f087fae04402d5f9c9886c4d179343fdb06813094,F,"[18, 30)",Greater London,bachelor or higher,1.83,97.2,5.6,359.1,3,0
+00316a05710c51f7d3533d743193edc4cac94191e4efcc9cc7d3a7fdd103d24d,F,"[40, 50)",Midlands,primary or secondary,1.71,83.5,5.5,352.3,32,0
+e430ae595b2a798069b0341e3d4522c405e9caa73a84ce2d2ee77962db8205d9,F,"[50, 60)",Greater London,primary or secondary,1.7,39.4,2.9,178.0,30,0
+5aded6d24bf0373344d67cefebe4235ee03b375ebb353e35b8c29f13f10b7cc2,F,"[50, 60)",North of England,primary or secondary,1.44,43.4,1.9,4.6,28,0
+82a028f4a5163ceef8c2a6103135e556e59e7d4465e724093160a6775e6d8be7,M,"[60, 70)",Greater London,bachelor or higher,1.67,98.9,1.2,190.8,9,0
+62fcf58ef8240a422b3526a41c3097b9049f5162be2bb14a3fd3b291fd1e2c45,F,"[18, 30)",Midlands,primary or secondary,1.79,64.7,6.1,472.2,37,0
+29879ceb4efcb8dbd4f4d8981d421b4d46b49cfb9647f8330c06992f4fd0e657,F,"[50, 60)",Greater London,bachelor or higher,1.41,35.4,9.4,322.1,26,0
+813758befb03162c4cf665c33130afcfa1cbc0a1c72c2eb428bced9f36f2caa1,F,"[18, 30)",Greater London,primary or secondary,1.86,92.0,3.0,113.5,48,0
+60e24cde224816c16568d79cdc5e58e80416a1c227e520702fb3baaa9672ebcb,F,"[30, 40)",Midlands,primary or secondary,1.65,70.9,1.6,481.7,47,0
+ea562c5d692b944534b796046693ebc3143414188da8edb06414a7a6a2f4245f,M,"[30, 40)",Midlands,bachelor or higher,1.4,43.4,1.1,361.0,10,0
+89db5ba75ac543b1183a648d3f20b714e853a629d9771523f3ec2062c3c9ef37,F,"[40, 50)",South of England,primary or secondary,1.83,54.4,3.4,187.8,32,0
+72e84ef1bf93a5d8e9a3fead864a489df398eb1068341e7fdef5aa6489c3c4cb,F,"[40, 50)",North of England,bachelor or higher,1.42,91.9,4.1,395.6,25,0
+f1367eb5122f9825f8c75d41411e36e4679d4792d4404397c53874bda709e026,F,"[60, 70)",Midlands,primary or secondary,1.69,87.7,2.5,302.5,30,0
+cf9761666b18bd7ddfc67125b07fa1d06cd85e008e85f89ee8fc22aa2511b2e7,M,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.66,62.1,1.3,19.6,15,0
+d890eb35949242ca81ca42631a4514d175adb90f6b12af0699846f78ad0805dc,M,"[40, 50)",Midlands,bachelor or higher,1.94,65.9,1.8,169.3,43,0
+1bb62f2e9348eabcb99ec32049585756b982aeaca62f7e9d4d3ea35cf7ece035,M,"[18, 30)",Greater London,primary or secondary,1.89,39.0,5.7,491.8,9,0
+b8664633ebfc73c9ec7fbd5a3d28e38b9b6f612938a48d58dcf80f95c7336783,F,"[60, 70)",Midlands,primary or secondary,1.72,85.0,4.0,301.0,22,0
+c992539a11d2c1b1c529584111a6661811f57be7377f2003d6b56af55b059170,F,"[50, 60)",South of England,primary or secondary,1.81,96.3,7.7,41.6,4,0
+a3b83703b75655b8f77e291cb3ffb58c201c65bd87ed9597a1f32f1d66a63778,F,"[40, 50)",South of England,primary or secondary,1.4,84.3,7.5,266.2,21,0
+c015d3f1cb7e42c66fb8652c10efe073f5fb96a41dd4ae7fdb4261b6e15acd29,M,"[40, 50)",Midlands,bachelor or higher,1.9,78.4,3.9,72.0,36,0
+3e8b9cef5e4d8db057a35247d85fd3720e2a7af7189cd22b89631c84dfd8847e,M,"[60, 70)",South of England,primary or secondary,1.5,78.2,3.2,297.8,35,0
+cccf0075fda9efd74a6760dfbcb9994d2e31334112c18cedf10e1bfb1f37e39c,F,"[40, 50)",North of England,primary or secondary,1.91,43.7,7.4,352.3,16,0
+64f0a9250e99be9006e987f3c7d75dd1e6db985305b3c7842ada0ab8983625f9,F,"[30, 40)",South of England,primary or secondary,1.54,60.7,9.5,146.3,30,0
+bb2ada6e68f0cbd2a2ea6f945229b6778bca53b50e91c65307c198f70ab46466,M,"[18, 30)",Greater London,primary or secondary,1.54,89.2,6.1,272.8,35,0
+32f1203c67073ea5ab072af251db6418676c5a7df95805ffa01c49d546846b3c,F,"[30, 40)",Midlands,primary or secondary,1.61,61.9,1.8,118.6,38,1
+7c135bd5903f08fb5fc26794ba926a45e7852944655a9adeeacbe1cb3825bd53,F,"[40, 50)",North of England,primary or secondary,1.54,88.3,7.1,196.4,23,0
+33a3f89e7c087b035718a39b5f9fdc0ec16d4526b10727d0a34b510e2623f2be,F,"[30, 40)",Midlands,bachelor or higher,1.99,56.6,3.7,51.0,36,0
+49508b2bb21ba6e1969a4b02f528046a6fcb676f77bbbbc68e8b1b0a8511c02e,F,"[18, 30)","Scotland, Wales & Northern Ireland",bachelor or higher,1.83,42.5,1.8,159.9,28,0
+de598482b02e18cebc657994482166ac3f5ae8e2c4761552cec496e250f567c1,M,"[40, 50)",Greater London,bachelor or higher,1.72,79.5,2.2,423.9,36,0
+36182cfbd65971d03995522233d618ceaf51cdbb316f8ed365f7d5acd7074caf,F,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.4,92.3,5.9,155.7,15,0
+8b42ce8a36c43b80c4e70755fa56ae564bfe3c21f9d4389d9cf74edb92c3f7fd,M,"[30, 40)",Midlands,primary or secondary,1.87,72.0,8.4,207.3,46,0
+bef310ee41505c2dd1bc00b2fcc48d0e7b0c5b3d7fefdb63af3dab01e10ac830,F,"[50, 60)",Midlands,bachelor or higher,1.61,70.2,0.1,306.1,16,0
+e020488998b5e8d8ee18b1057199f5b07b27e457c58a7db6ed56b11a38cca9ab,F,"[50, 60)",Greater London,bachelor or higher,1.41,94.5,2.9,424.5,28,0
+45cd5de3114803fe4f2b7c510b718dcdea17e6f74bb8066aeabd82d7f2bf8ee0,M,"[60, 70)",South of England,bachelor or higher,1.97,76.1,9.7,480.8,26,0
+01200b74eec6b179c56d7e7a11eb4c03b72f5280daf00d0d09e0ee59c360dcef,M,"[50, 60)",Greater London,bachelor or higher,1.47,36.8,7.6,169.8,31,0
+0d311de8b0aecf3d5556d294fa5c92728fa939040182b90beff1fe996b4c8bfd,M,"[40, 50)",North of England,primary or secondary,1.96,76.9,6.1,33.9,27,0
+a2f679b8ba9e342b183b112670e081c5332bfde6bd00e1d41ff20403cce19b05,F,"[30, 40)",North of England,primary or secondary,1.55,62.4,7.9,311.9,3,0
+bf12ba158ca415a697c1c540ef91ea698b696dd78c2f7c194dfac742a48c2b26,F,"[50, 60)",Greater London,bachelor or higher,1.42,49.1,9.5,455.2,17,1
+15efb29301a33cf1232a0a6d984d0e9118aad78a298d435527a757260d59dd7a,M,"[60, 70)",North of England,primary or secondary,1.48,67.0,2.8,61.8,46,0
+53e0538896735d6b72fcc1a72c1cb1653dfd03b05b8e50b39bff4689edadf2f8,F,"[50, 60)",North of England,primary or secondary,1.57,35.4,7.8,483.5,35,0
+efad8c8c543355dab279db5afd743612a6a6c1b7fdab232f122c2c6bc91910a5,F,"[50, 60)","Scotland, Wales & Northern Ireland",bachelor or higher,1.45,76.4,9.1,100.5,35,0
+d82456458a2716a7892a0538299ecee6c9158117f58fe8cf6cb7834767aa44cc,M,"[50, 60)",North of England,primary or secondary,1.83,70.3,1.3,386.7,48,0
+7c89a1cc683ae4193e926cf3079efc77ad7a181f26e544e35f03d31d5166b3ae,M,"[50, 60)",Midlands,bachelor or higher,1.74,56.7,1.8,139.8,24,0
+17dc95ebec0fa3b4c75498345bbec9a305c914751fe340deda266b1459d76657,M,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.69,95.1,8.0,259.2,33,0
+677ced2bab71e03ff1556744b101817ffa6cc20dcd4d5d9348094dd5f840810a,F,"[50, 60)",Midlands,bachelor or higher,1.95,38.4,0.2,172.4,25,0
+9645664f6686904c0f4f8c4168ccac57ba4804d38338eb8e3f8be8f0f5285fc0,F,"[18, 30)",North of England,bachelor or higher,1.89,56.2,6.8,402.9,22,0
+3042553e86eb7884396332f4142a52fd59769f56d9e3b5db477764d014c60cd5,M,"[50, 60)","Scotland, Wales & Northern Ireland",bachelor or higher,1.65,93.3,5.0,310.4,29,0
+a2f5246873d51528afb1893c4f5873dbe920d345cd2cb7005ea12acda7eeb286,M,"[40, 50)","Scotland, Wales & Northern Ireland",bachelor or higher,1.83,51.0,4.8,122.0,7,1
+c94e5c688e8d0983213e65c83be1465e847fb35d8a85d9a4adb0066e21b70610,F,"[40, 50)",Midlands,primary or secondary,1.65,69.7,5.0,439.7,26,0
+2c72c66edfb220d48d72f3d00b6e23fe953a984e78263790803d7fd5a844ba70,M,"[30, 40)",Midlands,primary or secondary,1.99,47.4,7.3,49.1,45,0
+f79f701fa555819f74f1f32425e7fa1441a75b3cf9d2d743ae0cbe7a1d4a1ba2,M,"[40, 50)",Greater London,primary or secondary,1.77,75.7,9.4,71.0,23,0
+4c081d25dc2c0983da03d03ef1e6bec87f22bd4b3086dfd692e28e79607c8fbe,M,"[30, 40)",South of England,primary or secondary,1.69,49.7,8.8,162.1,49,0
+d8db6b6c4d618b3660d94946ef69ba0f217d69de26c08f0f0f20d5597500aa82,M,"[18, 30)",Greater London,bachelor or higher,1.87,54.0,3.8,239.3,50,0
+32aca351f36e8857fe1b8d42aa7a3a7c0473b9b0755a17a3a23c03eddba5a1b8,M,"[40, 50)",Midlands,primary or secondary,1.62,52.1,3.6,443.9,20,0
+bc5d07acd43180b45ec8d8048d5a1e08861c430e883f143916ea2154f381595e,F,"[50, 60)","Scotland, Wales & Northern Ireland",primary or secondary,1.87,68.6,4.6,59.1,9,0
+6a48509c5cc8e19382c8413e47892629cc5b3c801f98c851c4ab86a2650f4874,M,"[60, 70)",South of England,bachelor or higher,1.56,96.6,8.1,407.8,16,0
+cbe28930f4b438921308728d7d70f0df24087071c3bf9529ea180dc3751e44ca,M,"[40, 50)",South of England,bachelor or higher,1.66,47.2,5.3,443.3,4,0
+c370bd746e365fa382c4217d32ebc909f54689f290e7b42c9156130b68feabe5,F,"[50, 60)",Greater London,bachelor or higher,1.41,97.5,2.0,26.8,39,0
+c5530c04c74728afbe2f7e278e50841a76ece562092677fcb656b78b7ccf61ad,F,"[40, 50)",Greater London,primary or secondary,1.43,61.5,1.9,107.6,15,0
+3d9f09890370fe1b32431dee449d7230778ae952c489bfb8ce57d7a61ba024c8,F,"[18, 30)",South of England,primary or secondary,1.51,93.1,0.6,231.4,41,0
+2d19653e172e1d97121b79a0fffdee6fffa9858abb8ab71bd9cc8876c7ed5975,F,"[60, 70)","Scotland, Wales & Northern Ireland",primary or secondary,1.86,95.7,9.1,148.1,7,0
+97f23d3e797ab499f16736a6db0168b42278a8d478ef231782157631e8fbcc5c,F,"[50, 60)",North of England,bachelor or higher,1.81,66.5,1.5,377.0,29,0
+ffb97d420d46393b1ac0c423176c30606753f992fa012bd4bb2b5fe498654738,F,"[30, 40)",Greater London,primary or secondary,1.63,74.0,3.1,288.3,44,0
+7832e4359c2b2dbe6b0c896c7dfa19826b01fc8a3a0908273c5ea77f933e226c,M,"[40, 50)",Greater London,bachelor or higher,1.65,83.7,0.3,476.1,32,0
+9be0a7211bcf9c7a4088981cbf2e7e7682144047a570b8cc79d4979484b09088,M,"[40, 50)",North of England,primary or secondary,1.81,98.6,4.6,483.4,3,0
+dd94aec5a2aad7ca21b156697b10601738f35fc2421d74ee9c5f442792836c16,F,"[60, 70)",North of England,primary or secondary,1.64,41.4,0.2,279.5,40,0
+150c5925e02a96e44f74654d16dd3cafd87f7b5ff7b618a0be8cc00966a691ce,M,"[40, 50)",North of England,primary or secondary,1.94,83.2,6.0,347.3,40,0
+1bf918836682d58721db1fd3846e8a0cfd60e3aecb6f6df326570d90168247e8,M,"[50, 60)",Greater London,bachelor or higher,1.82,65.7,1.9,331.1,13,0
+7c9afa85d66081f1cd21bc3460f613ab569b787dfc012bf274452972ad63d53d,F,"[40, 50)",South of England,bachelor or higher,1.56,97.1,3.1,129.0,37,0
+e35606acf9557b989c19f6e5cfb84c238f4f852756dea5fb8440465c7ed8b118,F,"[30, 40)",South of England,primary or secondary,1.97,91.0,6.5,250.3,16,0
+808e3f6bc5fc0064ad0047d442f5a957796679b9ee962e44f2d3ccc201aa01c1,M,"[40, 50)",Greater London,primary or secondary,1.92,93.6,3.7,469.5,29,0
+02dbce0107e314cd0bcabb922a37c23839cdf81d74845767c7e05d8bce0fd5b6,M,"[40, 50)",Midlands,bachelor or higher,1.8,74.3,8.7,496.7,24,0
+5ee97641c10c3599eb64d317262a5d0316e98bb418aef3ff290bc9bedb62cbcb,F,"[50, 60)",North of England,bachelor or higher,1.71,79.4,9.7,169.2,44,0
+fa748aca90e95d72668185b2d4857fce347375aef0fa68f8a35ac1811c05733c,F,"[30, 40)",North of England,primary or secondary,1.61,88.2,8.8,426.7,38,0
+9a1163e61be262cac8f219204e6f09a87af4832a0ed70673b594465017cb5a1e,F,"[60, 70)",Greater London,primary or secondary,1.41,65.6,8.6,123.7,26,0
+774f81e35b403ce3c6fb8002798b071461238fb22a2db1772d3af041288814b8,M,"[60, 70)",North of England,primary or secondary,1.56,62.4,4.5,488.1,9,0
+4dc2b828b6a6a0abc413b35a56c4864910946f5be928ef28286dbd780f682c55,F,"[60, 70)",South of England,bachelor or higher,1.5,68.0,7.4,212.3,37,0
+91ec52db242c565b091f0c0d11f6cb2066d85fc082054da79f9f977f2864a29f,F,"[60, 70)",Midlands,primary or secondary,1.59,87.1,4.0,205.5,27,0
+dccbd06f2cf16308c1dfa507774df5403c9170da8f0ce2249842f230ac169842,M,"[18, 30)","Scotland, Wales & Northern Ireland",bachelor or higher,1.67,39.0,1.5,391.9,9,0
+fbb95b79a2fb44a93331313ce095a2a379f8f36cbc06f4b405816bfd75487188,F,"[50, 60)",Greater London,primary or secondary,1.46,85.3,7.2,431.1,24,0
+2d133c98cb97176206594746864a8be237fe930edcae302f401b7499132210ae,F,"[60, 70)",Greater London,primary or secondary,1.6,71.3,4.6,46.3,44,0
+ed4e8bf2d9de03903fdb14ce3d2c52febc09df0f1cef994c5d9025a415559ec4,M,"[30, 40)",Greater London,bachelor or higher,2.0,74.7,6.2,457.2,26,0
+e7a22a49ee52c981f2d15d64773fea9896a303e14bccb116a3402d4360df410f,F,"[18, 30)",Greater London,bachelor or higher,1.43,90.0,4.5,330.4,28,0
+a379782bbc955d1aad19c8e4b8ed999b53ae4019c6ca53b3b62403b83dc9fced,M,"[50, 60)","Scotland, Wales & Northern Ireland",bachelor or higher,1.81,40.0,8.0,194.9,17,0
+b6860c4b5ce3fcd35389f2b641b54dd12a4b46b7bd45c884aca99313f903d442,F,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.56,83.0,6.6,34.4,50,0
+0a703d6375654980813eff5fbfe8286baeb63bd749ec86815f955e5947021cc7,M,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.96,48.5,5.0,278.8,31,0
+91779cb97e1afe6ca485fccb47947e18ccc9bf786a308ca57d5873547e5a1d0b,M,"[40, 50)",Greater London,bachelor or higher,1.62,77.7,4.2,254.1,23,0
+bdb623ce4736c04faf31b344d0643f6799fd0117fcb8d68ada9797e1d6dfdcd9,F,"[30, 40)","Scotland, Wales & Northern Ireland",bachelor or higher,1.97,88.7,5.8,346.8,48,0
+6f3e1bc97c7d94fbc8a7dc96fa09cf1394d30e677044388c0647444c49734680,M,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.88,94.7,5.7,372.9,23,0
+4a53c4d031392f79ccd432ffec999a2e35e743fba1ad4bbe217416081ca044b6,F,"[30, 40)",Greater London,bachelor or higher,1.4,83.9,3.4,304.6,6,0
+0466d73fc694fbf385784ce80e0e39fdcdc24c6d9b4e1bcede437c098fd1bedd,M,"[60, 70)","Scotland, Wales & Northern Ireland",bachelor or higher,1.75,83.0,5.0,68.1,31,0
+d2aaca68969e7d172e5449fd7b4c495b485ba8da9586f867b7d7d5320ae79c88,F,"[30, 40)",South of England,bachelor or higher,1.48,96.0,1.5,122.5,31,0
+e08a89599489cca5acc5cf9c00a5cf2abf6c3bf01c6e268c22ef975a9c94b028,M,"[30, 40)",North of England,primary or secondary,1.67,66.3,4.7,379.2,28,0
+5682dc5638bbb17b24d3fcd405f53fdfbb86d879a888fcfdbd2e767783be1efe,F,"[60, 70)",South of England,primary or secondary,1.77,65.2,7.6,39.5,24,0
+e4c0bc99bc7ed0b7c00060d1dd0e47918e18be2f737813fa1a5d0363e1a51fdb,M,"[30, 40)",South of England,bachelor or higher,1.8,63.1,3.1,418.0,12,0
+856fb5e74bc399fa1f27c0aa46b36219208c353155fb8a8a32b600003f115286,M,"[18, 30)",South of England,primary or secondary,1.51,53.7,3.1,62.4,23,0
+353c85e829c101f1647eb5c319b550040592c41f4d4f1faf11f5bdba0f8f41f2,F,"[50, 60)",North of England,bachelor or higher,1.46,40.9,4.5,75.3,28,0
+e9077475e3e843dee0dff370dd4cecc13f19c00904e4f745f95989910b4986a4,M,"[18, 30)",North of England,bachelor or higher,1.54,57.1,2.9,111.1,9,0
+b6c282ca40daadae155c3423107d7953adc9218911c30e35a96734925af826bb,M,"[50, 60)",South of England,primary or secondary,1.53,52.8,3.3,56.3,8,0
+ed133735546d8bc0522cb019628996e24283c530163d3020e8e95acec4cb2343,M,"[40, 50)",North of England,bachelor or higher,1.78,59.0,1.4,324.5,6,0
+03cb8f6b80ab2089a3c99551b0cea6ada05ab81e656983d3ed518471073a9569,F,"[40, 50)",Greater London,bachelor or higher,1.46,91.3,6.9,11.0,43,0
+f3affcfd939da0fe1543c615e7b3263b18d7f7bfbbe3d5b4e6197cc40396381b,M,"[50, 60)",Midlands,primary or secondary,1.4,53.1,9.8,433.6,48,0
+2c4becda19408cd7c1378c0fc8ef76b6bb2442f12c4e5211c6d3ea34e374c813,M,"[60, 70)",South of England,primary or secondary,1.94,44.9,3.3,351.7,7,0
+b04e80f5bc236578a3e129862c864575dade45d555833e843846c0bf58e7f0f7,M,"[60, 70)",South of England,bachelor or higher,1.89,43.0,2.3,296.4,18,0
+40c25ff3303caf8ede3d0b609e31d0f1fbc59b78e78057a0f7bbb8c6226bbe2f,F,"[40, 50)",Greater London,primary or secondary,1.86,97.7,0.2,328.8,8,0
+b6aa850b2289f9f7693e263b18c902e4dad836c7b3baf381f2be6d8a5a53e175,F,"[30, 40)",Midlands,bachelor or higher,1.58,52.5,4.6,432.9,43,1
+f49883372b048d292c2951b339adc4c191bb839ce497dac698c4ab18022eecf9,M,"[50, 60)","Scotland, Wales & Northern Ireland",primary or secondary,1.57,94.7,4.0,145.1,19,0
+e1b645464557550aa87ba28b142bb757ca690fff8243efef4005afe492d7aff8,M,"[50, 60)",North of England,primary or secondary,1.85,64.1,8.2,465.5,37,0
+84c68b3835113648071dea3bcdb0131ffd7ec42b047ee3cc95a650f5be590183,M,"[50, 60)",Midlands,primary or secondary,1.82,58.8,8.6,395.4,18,0
+edde2e3e8fe3000f1412c7ecd98840cc399a3cff85d05d8921dbc10186c7e556,F,"[50, 60)",Greater London,bachelor or higher,1.61,56.6,0.4,36.9,21,0
+5d9ea81fbe52e05ed393df24d45b9c2b0a0753097fd1634bef3cea37188ad243,F,"[50, 60)",Midlands,primary or secondary,1.86,94.1,7.8,484.8,37,0
+b70fd76e352a5c92da3cfe2356562f398c5d145a13879ad9b2e80b08d7bbb512,M,"[40, 50)",Greater London,primary or secondary,1.98,53.5,6.1,347.5,20,0
+0ad3ba724f0f31505472229ee9115c1dd1abd77cf4ba85cc335263199e37e994,F,"[60, 70)",Midlands,primary or secondary,1.64,37.7,6.5,481.1,46,0
+873d9042badad9bbd185957cbd3af9b01c23b794c9c843c24c5b1264a6e16a86,M,"[60, 70)",South of England,primary or secondary,1.47,62.9,7.4,11.5,3,0
+9221ff732668ecb09b6645d5c06201648c611f4ff7db69896732000f281d4f09,F,"[50, 60)",Midlands,primary or secondary,1.86,46.0,9.3,460.8,30,0
+3fc5d97aa89623de429828aaa87d62174e9149e2885f5ae7a05029f20c7488b2,M,"[60, 70)",Midlands,primary or secondary,1.49,55.7,5.0,494.9,16,0
+c0f36426113cf642f928fa358635c172a2fa655e85f9b27c06d386f46c71e279,F,"[40, 50)",Midlands,bachelor or higher,1.8,88.7,4.9,102.4,29,0
+2610a6ca2d2d5ad03c3ba2cbe901abf30efe81b51dea3e1d83de0480e03cb719,M,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.61,97.3,0.8,332.2,9,0
+baa5c3abaad22afe3cecd1fc765a58e2b918b434c5da39b6c829d98ba783f905,M,"[60, 70)",Greater London,primary or secondary,1.8,37.2,3.4,437.9,13,0
+161318752b7f5bb5b4f08cfc616039f5d3b7c72ef2158bdf73d0fe194db4f24f,F,"[18, 30)",Greater London,primary or secondary,1.42,74.5,0.6,452.5,43,0
+56e1c9c12e0cb0e69cd4399d2bd8edc1ad68bfbccc0d28fb6a3e3a17214ca0a1,M,"[60, 70)",North of England,bachelor or higher,1.56,58.7,2.8,235.7,24,0
+c166bb5f8f37667ce9a37ee82f8379b3e8196b3f072b71efe78bede4e7851378,F,"[30, 40)",North of England,primary or secondary,1.65,36.6,2.3,349.3,3,0
+66eab39bcc5292b51d71981a3d14a1985aebb67b7ab76ccac7aea99932803901,F,"[18, 30)",Greater London,primary or secondary,1.69,40.4,8.8,142.5,28,0
+1d17cad3abe8b8e82f990b592ec6115a880ad5229e6c4947f52db30f666d1df5,M,"[40, 50)",Midlands,bachelor or higher,1.65,80.3,7.8,425.8,10,0
+b1e6c9af4fa28d1bea86c6eb8a147c5503a9d0c03c19afcbfdccd3bf629b1455,F,"[18, 30)",Midlands,primary or secondary,1.77,48.0,6.0,154.0,17,0
+e2dd3b35cf8ea88e8bf27126f16d1c7e30400e9d34bfe473ab019fc5ee040812,M,"[18, 30)","Scotland, Wales & Northern Ireland",bachelor or higher,1.77,97.6,9.6,194.6,32,0
+e0e8bd7b7ce9de492033fb9507199eff535d183f4208d23f3172223f45b007fd,F,"[30, 40)",Greater London,bachelor or higher,1.45,44.6,9.0,246.5,5,0
+ad34ebaa1aa98392dd70e1fd87f7451909145bf2906c9b324f1564317d422095,M,"[40, 50)",North of England,bachelor or higher,1.52,74.1,3.0,338.6,18,0
+28c6229ae5cf6174a3ad72bf71552f1282c8eaa1ad546bebc71ecfde92121f4b,F,"[18, 30)",North of England,primary or secondary,1.74,51.9,4.5,77.9,14,0
+0b1db5fb7884007d59c4217aab5d596125a20c0ced4706de0b714d7369f695e6,M,"[60, 70)",South of England,primary or secondary,1.86,95.9,5.9,373.2,19,0
+1f025019d766b981a51b6b9acfb19034e790b5e9ac38099f324fdefa5b97591e,M,"[30, 40)",South of England,primary or secondary,1.59,89.5,6.1,392.0,38,0
+f9ccb2211c9b531292106a7bbb6304796e6581fc96459a523314eb57aba4bfe8,M,"[50, 60)",South of England,primary or secondary,1.67,70.8,8.9,191.4,20,0
+3fb1a001791851432debd34eb087791acaae315e44529b4fec64bb29b342c9c9,M,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.52,86.9,2.5,171.0,5,0
+ed4fe077dbadcb4301e301a528945fa1a9bd9ef0fb3846d0ec16b95bccf9827e,F,"[30, 40)","Scotland, Wales & Northern Ireland",bachelor or higher,1.91,67.0,6.6,489.1,15,0
+a4dc778b943c26f36b7127681994ffb256301c5ddc45d8992a4523709255e2f5,F,"[40, 50)",Midlands,primary or secondary,1.45,61.0,8.0,124.2,35,0
+d272b0819efb9ea5b06ca4c4559ee6f7850f6fa7c7e9bd44ff2f442a434479bc,M,"[60, 70)","Scotland, Wales & Northern Ireland",primary or secondary,1.98,74.7,2.7,354.8,44,0
+aec5256168a76eacb8c36e4eb05e31bedd88f6041e1908a4174f7e1c9a1735c6,M,"[40, 50)",Midlands,bachelor or higher,1.76,38.1,2.7,458.8,5,0
+1a68ec32abc5256a60f03e3f25f82283d0f7de7dd7653c060823e5e25c093936,F,"[30, 40)",North of England,primary or secondary,1.6,48.2,0.5,74.9,20,0
+9f582429bd7d60fccd541a831cabe68df9ea8bd5a94fb39252947c4bca654483,F,"[50, 60)",Greater London,primary or secondary,1.85,45.6,8.9,484.4,6,0
+9b2b4386dc47e40a4ff468faff51e69df136db7fc75fa34a506980f5aae2e0f9,F,"[18, 30)",Greater London,bachelor or higher,1.93,47.6,3.2,421.1,31,0
+ca6d9714d7fd61f570950be003eb2604c1e015912142805284fb8f648a00ec95,F,"[60, 70)",Midlands,bachelor or higher,1.77,54.6,1.8,206.5,32,0
+b28fbae200cbea3519380d75c38947a1d9fc9ba7e00382b02fc731481cc3a78b,F,"[60, 70)",Greater London,bachelor or higher,1.5,44.2,1.9,299.0,45,0
+9be293dc4a10f4f4ecdfcda642ab9f8f99d562af62bbab190f527ab2e1f6df47,M,"[40, 50)",Greater London,primary or secondary,1.59,87.6,1.7,238.3,24,0
+f31f4cf20fa6a6f1bbd5b0df6df90d6b104365429284935290a0641c05328646,M,"[30, 40)",North of England,bachelor or higher,1.48,50.8,2.4,367.1,30,0
+d3c20eee9b72e0aeb510f36499a8213c37576122f45f820b9e56477ebd5f1a4b,M,"[50, 60)",North of England,primary or secondary,1.41,40.2,2.4,297.3,37,0
+650b8e798a7781c46be4a797cc4522ec05f068f0b7d7ff24d7f09982d3aa9d66,F,"[60, 70)",North of England,bachelor or higher,1.75,76.2,8.7,194.0,33,1
+d9a6cdd372792ec5f344d5fe44440d92cfd61e4fa6bb204bab36ceccaaaddaa2,M,"[40, 50)","Scotland, Wales & Northern Ireland",bachelor or higher,1.82,48.6,2.7,217.2,8,0
+90d0449a3700b0259d88a690efff4522dc8a8f5981efd9d4e8ae8520d1c9c437,M,"[50, 60)",Greater London,primary or secondary,1.71,70.3,7.6,33.6,22,0
+63e0ebd96681b237cab5eb82e2323aedcd052f91f84354504bf7f6e85ff41d4b,F,"[30, 40)",Midlands,primary or secondary,1.96,46.2,3.7,364.5,13,0
+ade0913fe1b65e02559714452c9c75d86a25a33ea748450aa102b7a5ada5e0a4,M,"[60, 70)",Midlands,bachelor or higher,1.42,94.2,9.6,296.4,41,0
+fee63614f6e260f920a0812a1d351ce43dae793ed1b27f4bcc03576a576cab43,M,"[18, 30)",South of England,primary or secondary,1.9,97.9,1.6,238.3,47,0
+88b6cdff1e2f5da4c28ff1d47d43500eab22282bb1b736bb39a4f946573454c6,M,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.99,35.4,9.7,183.9,17,0
+b2ed91419696aa9069b0aab59a01742f0389eb0929eeaa7c6d340913e4f2d706,F,"[30, 40)",North of England,primary or secondary,1.75,91.2,9.9,92.6,4,0
+b38a442c6de4984e4558f9838c580de844f1e16b3fc208a9f218903af32a339e,M,"[30, 40)",Midlands,bachelor or higher,1.49,97.6,4.9,430.1,39,0
+8a21714122e840b1833d0478c9f0c06617811978924d552d76a1e824c97cfcd5,M,"[60, 70)",North of England,primary or secondary,1.84,82.8,1.0,181.8,20,0
+de82e8fc4088ad9e67a5b060b998bc3ad88a7f0ee4d212741e8232d9a7eff55f,M,"[50, 60)",North of England,primary or secondary,1.82,71.9,4.4,1.0,41,0
+8f6f834693ecbb4e279279033ca566b1eb3ef62413aec3ca2b477b14d7eeb096,F,"[60, 70)",Midlands,primary or secondary,1.95,54.1,6.5,140.2,26,0
+efbb00032b6dc459b2a0cdbfc4a74b216eb22ac3d78162fb1237e319ccaedbbf,F,"[30, 40)",South of England,bachelor or higher,1.81,48.6,3.2,279.6,10,0
+f4aad019c4619a4ae3e81b62fe9c07ecf4fb486a687320ad51210ea9ec5b5c07,F,"[50, 60)",North of England,primary or secondary,1.51,98.7,1.7,5.1,21,0
+7eb1f49685618ea8944ac31207bde0af926d4755b1fab384736dd74604a65067,M,"[60, 70)",South of England,bachelor or higher,1.66,76.3,6.1,161.3,26,0
+c25e8571889bf4c03468738cf029b45ebc9d48055efa60ce4c93e888ef669fd6,F,"[60, 70)",Midlands,bachelor or higher,1.74,58.9,6.3,496.2,20,0
+6c8cc45e6e9deac6f5b50bd339b93753a0e121597ba086187a1bab62868fb969,M,"[50, 60)",Greater London,primary or secondary,1.58,60.3,4.9,478.4,16,1
+833aabc99dd4b7e196f95d8a869e3f82ce6e3ef22593515a3fb7fed229149828,M,"[40, 50)",Greater London,primary or secondary,1.5,35.5,0.3,50.5,37,0
+53e359a0f48b6f2bc857a4828a115495d98b1153ba7e45006d4e11bbf78cc6ab,M,"[30, 40)",Midlands,bachelor or higher,1.92,54.9,5.6,500.0,18,0
+5cee821bdb61d622b229c27778910ec13141faae63bd46d06bb8ebbee3aac842,F,"[60, 70)",North of England,primary or secondary,1.82,59.3,9.0,48.1,28,1
+23f8094b7b6c602cf8b921e5d1413be181d681bb2e6e9a52e21855e972427572,M,"[18, 30)","Scotland, Wales & Northern Ireland",bachelor or higher,1.83,71.0,5.5,406.1,36,0
+ba808b556fae735da49b468e28a1847f1ed10078204b47ce4772877536717ad4,F,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.68,40.6,6.1,470.8,7,0
+f6eb78dd84ad0d53b346519d533eb7b96be2c156ae364653d9dbb2886aa5f52c,F,"[18, 30)",Greater London,primary or secondary,1.55,85.8,8.1,394.0,49,0
+533ec7b83bdacd877ffc43eaac216e6762b9e7a0db934c7fd1c4bcec143ccfe5,M,"[40, 50)",Midlands,primary or secondary,1.85,54.7,4.2,10.2,43,0
+e9d1f0dc5732c8fd3be094b921a51dc11b072eba45198bf6c909dddfdf56053d,F,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.42,36.5,4.7,454.9,16,0
+7eae477ec2d874558bd9b13f0901ab07bf9d078da2952d6497c594f63589be16,F,"[30, 40)",South of England,bachelor or higher,1.91,83.0,1.3,272.0,48,0
+20ddc2f0c465ca1eda18741b433c004cd9cd3358a2ad0b3f25d8beae9810d669,M,"[50, 60)",Midlands,bachelor or higher,1.81,68.5,7.2,190.2,11,0
+2f9ae3db2ffa4aabf20a585b246a39789dd4969088378bea3c13adb47af42cd2,M,"[50, 60)",Midlands,bachelor or higher,1.8,56.8,1.9,150.4,24,0
+9596c62efe0b45a32417f3bfeea5381c60a5c2cf9c03db29e6fa37cee0d20a6d,M,"[60, 70)",Greater London,bachelor or higher,1.85,35.2,6.0,12.6,11,0
+b6154e24c8d847fd50b71f27d8232e56d6af4ae3f4bcb8de0b20651400b54fd8,M,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.56,94.8,4.1,147.1,40,0
+660917cd4c469ab64d63a870abd1d89d3de58b664adbc6e8311be877cb52fa41,F,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.68,88.6,4.9,118.5,14,0
+f10027ab4aa8e7eb87df8e2791153557e5ca5d8eb9ad9f9a1ca8f042a241fb6a,M,"[40, 50)",Greater London,primary or secondary,1.86,88.1,0.1,487.9,43,0
+898ff71e813281f46f632ee8020352b910bf2385fcae1445a957f70a5b63cb17,F,"[50, 60)","Scotland, Wales & Northern Ireland",bachelor or higher,1.6,85.3,3.8,101.5,42,0
+7abc396b31a5f44dae686f9c4411432cbcfdb889da4c9db8b21da24ea9bc82cd,F,"[18, 30)",South of England,primary or secondary,1.75,37.4,2.0,184.0,32,0
+26deef6bebfcb1dd175e32186ddd1d8679cdeb907b9122be612e9b67c7d78aea,M,"[18, 30)",Greater London,bachelor or higher,1.79,38.0,2.4,106.9,25,1
+151fc51f59f14eb0d5a6d8cc054e81f56d1ff656416eaaadd6db45a5f2f45cda,F,"[30, 40)","Scotland, Wales & Northern Ireland",bachelor or higher,1.41,95.0,6.8,208.2,23,0
+d7ad6c28710c10b1a62851605a463d2ef5171bd49f0c0f48d50bef979d193783,F,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.83,42.8,1.2,281.0,24,0
+8b997deecf628a26ffcde1b30cd79a38d50074d54aa8f8478948917bb20df567,M,"[18, 30)",North of England,primary or secondary,1.45,45.3,8.5,12.3,40,0
+7a4cade26fe980345708e28f870734d1ab3e6b62e91b942926e85199b311da2e,M,"[18, 30)",Midlands,primary or secondary,1.79,82.3,1.7,397.3,8,0
+3cdb35be95b63bede5b9eea2bf1f07b8b22cf9fe3f439bc8303ecc0c7fe245ea,F,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.57,55.3,3.4,348.2,18,0
+75c73d44f6caada32e1871831cb40755fd7f51dbc1673bad3f4e1828c248bd32,F,"[50, 60)",Greater London,bachelor or higher,1.46,74.8,6.3,157.0,40,0
+a03f806b33feaf3856f12aeb873c411bc58fc167cefbed70bf693759d0c57f7b,F,"[50, 60)",South of England,primary or secondary,1.94,80.3,9.6,385.7,32,0
+57d7dec724ac95d053898505eef5e9b83b1893a0d07a14ee5fc79e4d7ad6b0df,M,"[18, 30)",Greater London,bachelor or higher,1.8,88.6,1.4,188.7,10,0
+e3fe8a869c79313c56e5274f2a3961a25c5208e26ae579bc92fe12b76846e040,M,"[30, 40)","Scotland, Wales & Northern Ireland",bachelor or higher,1.87,51.3,0.2,8.6,32,0
+1a5482caf83e9bc2990fa51be520df5a7a2dc5c5d83a14ba7478446d71b78249,M,"[60, 70)",South of England,primary or secondary,1.6,50.6,1.2,481.5,23,0
+56b477a088cc29d5457d3bb115967a4cf5bac8a3d7b0c02cef397aeecf5f01be,M,"[50, 60)",Greater London,primary or secondary,1.83,88.2,4.1,389.7,34,1
+4e3e0558a5a6ea57e408b86f4080152be166033d98f83a6d611d7a75f69ac976,F,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.63,41.1,2.4,100.4,3,0
+d30b6d0c1b354b1e4d46c6792a8cae234905ab7721e023bc2cc06545df480d23,F,"[50, 60)",North of England,primary or secondary,1.81,38.4,1.1,415.2,7,0
+91dac21a3e69f986f99aff627a59054ed87ea3573a8d51385585ce1fc383f4f0,M,"[30, 40)",North of England,bachelor or higher,1.4,77.6,7.0,76.1,12,0
+d4956ea2095c41f42e1d89e64ddcb2517a033eaf601e032417a3d4173f3d80fd,M,"[40, 50)",Greater London,bachelor or higher,1.81,54.7,1.0,180.3,49,0
+4bb52bba54bff8c25c916a21d5a5b8d04fbef33bd0769fb69f4415787481830d,F,"[50, 60)","Scotland, Wales & Northern Ireland",primary or secondary,1.9,57.5,7.8,388.9,18,0
+c63dea2872bb0c33d12aa59693ff0dea97615a7226fb80ec09945127293d3e31,M,"[18, 30)",North of England,primary or secondary,1.65,93.4,4.0,268.0,16,0
+dc4ded9589851f5d492c8081e6d663ed009446bb50625fa8bb4d24c59a8c4c35,M,"[40, 50)",North of England,bachelor or higher,1.52,67.8,4.9,389.7,49,0
+15f6453d610ae0c5433263f7ebf5a01ed476b04830fc6fab99ccdddb87b9ade0,M,"[50, 60)",North of England,primary or secondary,1.9,35.1,7.7,235.3,3,0
+d00e74a17f514c3f48c1f5fc8726d2c92f6ad8c905c5c1eab323b6980a67c5dc,M,"[18, 30)",Greater London,primary or secondary,1.45,40.5,2.2,313.3,42,0
+4569496c4a7e19fbdf050213148a676f086d985b8a0793f1728f067da2fccbfb,M,"[50, 60)","Scotland, Wales & Northern Ireland",bachelor or higher,2.0,96.8,4.6,72.7,22,0
+d1467ee391529f57d8792b3495a8657568a386b28b6b050fdd3a6442f651e990,F,"[60, 70)",North of England,bachelor or higher,1.6,37.8,6.9,316.3,31,0
+bec692286c5759bce20644b2ac063374ca1009f66d92a0df31189cd09f90d2a6,F,"[30, 40)",Greater London,primary or secondary,1.85,69.7,4.8,200.7,17,0
+a5bd5658577ba41576b65412a2ddb64235b2ae4a174a071bf8f55a9d169b0468,M,"[40, 50)",South of England,primary or secondary,1.46,60.4,2.5,113.7,9,0
+df653ecf7570964add2ac136c15a6801635028eb5621eae0d58e2bd43fcd4886,F,"[50, 60)",Midlands,primary or secondary,1.76,43.0,0.6,81.6,35,0
+56850f2103ad9ab196fb607166e3fd1ac056a41fa34c5d26259291ff47088f26,F,"[60, 70)",Midlands,primary or secondary,1.6,86.6,0.3,196.9,41,0
+3c3399a0629940aa31ce8db0ea2e9898403925553c6510f2a51e6032464e446f,M,"[30, 40)",Midlands,primary or secondary,1.48,53.0,6.0,445.3,42,0
+7e6210f4e57439e5eea2cff55094406be6c28d8d068b423c3c0d90cb5f5b9ffc,F,"[60, 70)",Midlands,primary or secondary,1.6,93.8,10.0,476.2,42,0
+724c0aa94ad49ad6c8496c222acea232c53d1e937fd48b1ba4fb74d57ed50153,M,"[30, 40)",South of England,primary or secondary,1.94,90.2,2.9,98.8,34,1
+02346fd738f7b755bddda0ae8344f682ba8d50c1e9fd4dbfe21bb06fb066c340,F,"[18, 30)",North of England,primary or secondary,1.66,69.8,5.5,138.0,12,0
+05fdce9cdf5ef0b0deb679eaf0e905cf3c3d62b0f2011ebe8f81a64248ca8a01,F,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.47,74.7,2.7,478.3,31,0
+54d0b25f571ffb8e016cd7b3d49758e4d07f71d831f7a956d7d9e301198b3c10,M,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.55,87.3,0.4,376.3,42,0
+14b74d173befcdf333507917d585139b5393f277ed4ccab153af25f03ce8ac0c,M,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,2.0,49.7,1.6,402.9,5,0
+c56b7841fe9550992dcb8f924d41d5191f942533ade85aad728dfc3a8e97810a,M,"[18, 30)",Midlands,primary or secondary,1.81,99.7,8.1,331.2,13,0
+daff8f4709d7aca0c8404829b3f045a6bfc0ebbc6b1a66378f411aac670e0bd1,F,"[60, 70)",Greater London,bachelor or higher,1.63,64.1,7.0,270.0,15,0
+fa2bb3a03e62d9d5d23143fbc6588e1f6707a08e4bc575eb0da950c2b6219afd,M,"[18, 30)",Greater London,primary or secondary,1.79,62.3,6.6,262.6,7,0
+d9863f86dd33c41f0b2482b8599bf8f29c6b3bef4051335a3c5303648c12229c,M,"[30, 40)",Midlands,primary or secondary,1.84,72.8,3.0,198.5,44,0
+199f55ac31191e2c8804aca23a6e5d54f3d0cb201b58ec8973589ee88581ec80,F,"[30, 40)",North of England,primary or secondary,1.73,38.7,1.2,390.8,26,0
+d9cf00db2b477e0e89f7ab1de00a04d1f89f06d3157f130d8fe484de1e212b60,F,"[30, 40)",Greater London,primary or secondary,1.43,67.0,8.8,207.8,26,0
+1400c4768b986f1491276f9b7e222a0d23825583cdffb41da489f99595b04cb3,M,"[40, 50)",Midlands,bachelor or higher,1.59,40.3,7.6,270.4,10,0
+d2d00c9a0f188a9cfea8019b29d1d3246032718699611646aa54cd7ca7536ac3,F,"[50, 60)",Greater London,primary or secondary,1.54,49.2,8.1,124.0,32,0
+eeec315e1c79e98ce7ae84b81ab46f0aa1b5f8b027623caada1018eaf647e3db,M,"[60, 70)",South of England,bachelor or higher,1.86,67.3,8.6,305.8,24,0
+6465a99cf73d88c086f982b163e24b163f79827ed4a6ab94746981f3c15cc1eb,M,"[18, 30)",North of England,primary or secondary,1.66,39.1,6.0,337.8,15,0
+2a266f45ee9e097cf188ce8ebd3e4fe2fc621b891bb4c69da3bdf4c5062ca976,M,"[18, 30)",Greater London,primary or secondary,1.74,53.2,1.2,173.8,18,0
+76ab7277160cbf04802792b38ac0f39ae566edccad2b6eaa6215ad9b624c3c31,F,"[60, 70)","Scotland, Wales & Northern Ireland",primary or secondary,1.45,85.0,6.7,301.5,23,0
+8e1b30da161c3b2ff5dad02743976a0da0690bfe17583e4fc8c9c81e9dab0a5f,M,"[30, 40)",Greater London,primary or secondary,1.8,43.4,2.7,373.7,9,0
+00d59a7e09f8147ed927863ac3790927a267f871aaea56dfd2f96a244e78abd6,M,"[60, 70)",Greater London,primary or secondary,1.71,67.0,1.1,166.9,36,0
+83d02305168996ed69d1ca1582fd3fec13d99b938b21f4ccbe9ace90ccfe5448,M,"[40, 50)",North of England,primary or secondary,1.42,59.5,0.9,161.0,43,0
+4fcfe04f0f304c9318b46afcc9abee12ad7e6a836c918837d70e01c12e5b8205,M,"[40, 50)",Greater London,bachelor or higher,1.86,63.0,0.4,58.6,22,0
+c3b924538b4e6519ec59fa7fde38e8e0592bbcc38fd1edcea95ac25a4989d5f1,F,"[40, 50)",Greater London,primary or secondary,1.82,66.8,3.2,76.3,9,0
+543b2c6df2a7b8b2262dea81e0e69b4fe6a9b7ed2dd70040bb3b7c534e09fab5,F,"[60, 70)",Midlands,primary or secondary,1.83,46.4,7.7,228.6,4,0
+fb15b686b08d436ff098773ad4a2cc16b520488dccae91a281b28f4050704947,F,"[40, 50)",Midlands,bachelor or higher,1.7,96.9,0.9,475.4,27,0
+e94a4a76b6e6bec5b68b62b4121f64da4ae60c9c9148ca1c66fba8f8f6f05b80,M,"[40, 50)",South of England,primary or secondary,1.62,63.1,0.8,20.2,3,0
+0b953701a8b7ee7232dda51744fb83ffae82c75920c5628680cccdbbe1df7028,M,"[60, 70)",North of England,primary or secondary,1.63,39.0,1.9,202.3,19,0
+340fad14ab41967c53f3e59253c1e271a3a725420578af6eb4c2036928251c99,M,"[30, 40)",Greater London,primary or secondary,1.59,95.6,5.7,68.7,5,0
+509204f2b03562ffbe247b9f86e1224f317c45e0af7ee2f5879eb29b30ef9183,M,"[50, 60)",Midlands,primary or secondary,1.78,71.5,2.0,103.6,44,0
+bf4517761c954ce38bb2e827381402aaf995f98119b90151759ae254937c6f3c,F,"[50, 60)",North of England,primary or secondary,1.92,48.6,2.5,254.2,35,0
+7a30134ec9768d9028f8e6d47c61208dac728c6ad05be5ce3f0839d320f882fe,F,"[40, 50)",Midlands,bachelor or higher,1.99,52.5,3.1,364.3,18,0
+a95b1178ac70e441b7981cd223aae51accd77a67f90becdeb0f3d5cbe1991ca7,M,"[18, 30)",North of England,primary or secondary,1.78,40.1,2.3,27.6,37,0
+5596b46360ab480a64eaa06cff58b10153661ca41af3272a3fa5461fb4fe3a3d,M,"[18, 30)",South of England,primary or secondary,1.49,35.9,2.4,477.0,14,0
+5887f3a25f669b2d983a8c153b781e269a3164f8de5c333d7d1ea49edc76602f,F,"[40, 50)",Midlands,primary or secondary,1.82,52.4,8.9,420.8,40,0
+2d1f566f01f312cc88c94dfdb9bc24306548a6beb46c078bf48b9587c9e7dc9d,F,"[18, 30)",Greater London,primary or secondary,1.81,71.9,6.5,237.4,45,0
+b2f77a1a71ce9068b34f0f41d38b8ef4f18dbc852e3e263e9c5e7405c02d7341,F,"[30, 40)",Midlands,primary or secondary,1.43,89.4,7.0,332.4,22,0
+6eac2522d7a64e034bf628759ab80b4c95cbdf42bc485f971f03a4edf045c226,M,"[30, 40)",South of England,primary or secondary,1.75,71.4,4.5,236.0,9,0
+0f3a716516938f34401d4e4a38d4dc809803814f84575019164813fb1cfcca14,F,"[30, 40)",North of England,bachelor or higher,1.47,77.3,4.3,41.9,13,1
+2a99413eda6a5644b40877fad8a1145f9384fbf6454b651ca8d8117885e4515c,M,"[60, 70)",South of England,bachelor or higher,1.66,76.8,2.2,250.2,2,0
+592a6ee9d4f212a044bcf9e5c07f4f627f3ede3ed51385664b89d3980caaad4f,F,"[30, 40)",Greater London,primary or secondary,1.9,74.3,5.0,387.0,9,0
+29ca80257b93b6f4b8355d91dee00c176bb7c6a89a28ee1897578583147e8f5b,F,"[40, 50)",North of England,bachelor or higher,1.91,82.9,4.9,278.1,21,0
+3c47d72e3021e83e949ec6285f8966766ddba6877c2bd612c10ee503c7160ad8,M,"[18, 30)",Greater London,bachelor or higher,1.43,98.3,9.4,64.6,17,0
+a37811de76ad01314caec8814109016353755e2293c264d7a2358c1b6651a3c2,M,"[30, 40)",North of England,bachelor or higher,1.61,94.1,1.8,394.9,17,0
+cff0ec4736b56188efaf25b11f28f867c8d9525e2ce31563d88f726930dd0c2b,F,"[30, 40)",North of England,bachelor or higher,1.91,36.0,4.1,261.3,37,0
+dab1b91853d7612678f98d79da76fb877a93aeccbb6b6418d55322e007c37c99,F,"[18, 30)",South of England,bachelor or higher,1.54,93.5,6.8,351.1,15,0
+d24e417358d5eedabc0859da6d2d1672a3354848cea8da39ea1f1ee5153c1019,M,"[40, 50)",North of England,primary or secondary,1.7,52.7,5.1,114.7,37,0
+8725284cc40cfbf384157c51e8c49335428bd2acc23749bf225e5cdb9b5225f8,M,"[30, 40)",South of England,bachelor or higher,1.64,90.8,7.1,140.0,32,0
+1f96fc0393c3a46420e0d65b68087acbbf19d79de6a8e7c239883737f50e5ee0,F,"[50, 60)",Midlands,primary or secondary,1.96,53.5,4.5,367.4,22,0
+8f7b3cb1fa499538fccbdcc99ea92607a8be25879fa03fdc2612fe0f59c4fad4,M,"[60, 70)",North of England,primary or secondary,1.78,52.1,8.5,385.7,30,0
+0163c5a0b3bfe1e65fa12ff56b50a0fa7aa81283adb9bc76dcc27fbd9b3f9e32,F,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.7,42.4,3.3,291.3,13,0
+d1da731271911e7234d85520d5cf64ea1de100bedbc54e982cc4fc629aafe068,F,"[50, 60)",South of England,bachelor or higher,1.99,87.3,8.1,84.2,48,0
+92f57c03fe6608da3327dee75b53f5fab1be5c513c1e7283131f2f7ccb8db604,F,"[18, 30)",Greater London,primary or secondary,1.95,45.5,5.0,216.7,39,0
+7af0557c7f02693842df158f0d6440cb7536be4f8106d8934c998a81b9b51e55,F,"[30, 40)",South of England,bachelor or higher,1.51,97.2,6.9,357.5,18,0
+93de01947c5213201a208f6f98a77e4a05a0ec043f909dcdf7f6fca9a0fb2984,F,"[50, 60)",Midlands,primary or secondary,1.68,53.1,3.0,453.9,7,0
+b4d817e31fb2d72aa61dd81f1522ceb6d3f15d6daa6d4c1ca2a0e812dfc031e3,F,"[50, 60)",Greater London,bachelor or higher,1.73,57.5,8.0,75.9,37,1
+7c969c355ebc5a61e0263069bcead990660c821ce42025ace82739deaeafeb06,M,"[18, 30)",Greater London,primary or secondary,1.7,36.8,6.3,463.4,43,0
+a2ab5acd232d1946883db052d3e925a49a2dea7de209361f62e5baec01ae58c7,M,"[18, 30)",North of England,primary or secondary,1.83,87.5,6.4,400.4,45,0
+22a9f1ae2bce436f6a2aaf22b5bacbecafb2cb5a0308d835c87070eaff957d0f,M,"[40, 50)",Greater London,primary or secondary,1.77,38.7,2.3,267.6,29,1
+cdb5fae888efef470f0a4b8279549ea7c22204e186e93eebd7d4d05ebd4fd496,F,"[40, 50)",Greater London,primary or secondary,1.78,56.1,4.2,169.2,20,0
+cc94e1d7d25c95fb69943a303c3116805799c1b970cc147ce639947aab12f49b,M,"[30, 40)",Greater London,primary or secondary,1.68,40.2,0.9,329.4,44,0
+bc081d6370ff0e79419dd52c2814d71dbb341ebc60217480a9c68913983095a8,M,"[18, 30)",North of England,primary or secondary,1.73,60.9,9.7,67.4,8,0
+6ac302e303bdefcb09757b20ed8f3150b7621b92646babd1c51138d1195059f9,M,"[40, 50)",Midlands,primary or secondary,1.76,98.9,0.6,157.3,2,0
+bfd0756497d6c28bf1064e19b6ea655f101a9917e5d9647e5354683e9437452a,F,"[18, 30)",Midlands,primary or secondary,1.93,99.7,6.3,157.3,8,0
+1c05fa00fda636d75491288643a224645cdcd4fd1169e978e21e718c2e21e365,F,"[30, 40)",North of England,primary or secondary,1.59,64.0,3.8,450.7,47,0
+e8ba8d2e788a9f0f2eb813d2346e0e6786594737a40704adee21cc0fb5701ee3,F,"[60, 70)",North of England,primary or secondary,1.56,67.6,6.5,31.4,45,0
+b822a19c4b42878ff9aaed0b3e067bcb7e0df827e453d28d1b013dca872412c5,M,"[40, 50)",Greater London,bachelor or higher,1.92,42.4,9.5,268.7,49,0
+a0405e2b21f445734aa339387c9fdd0952e32bc5db36aba062384211a3c95933,F,"[60, 70)",Midlands,primary or secondary,1.43,58.8,4.1,411.5,38,0
+39f774bb375187235b0fae2911e955c5098242961c2d6ccfcb69c6eaaa479670,M,"[60, 70)","Scotland, Wales & Northern Ireland",primary or secondary,1.65,78.4,1.8,292.8,38,0
+8ca78dacf918ec0d40bc2f67d1008ed3e15dd083fde6981f8870de28979d1064,F,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.65,77.2,6.2,181.9,25,0
+9a2a68ce30ee144b2c9e225563458230b6726ac24ee82207c87ce6c8674246f9,M,"[40, 50)",South of England,bachelor or higher,1.7,69.2,8.8,357.0,14,0
+c3a47377eb51c973a66721dbe18c6393b9870543bb7027082c0ba68177a55bb9,M,"[50, 60)",Greater London,bachelor or higher,1.52,55.8,5.3,194.9,37,0
+687bd6a85336e09c2f4b9b986f2a95a2bc0ecc032ed20a16ec55f10b4374a522,F,"[60, 70)",Greater London,bachelor or higher,1.66,37.8,4.5,2.2,14,0
+6653652ee6c3730364646b000958c33121c76bed11d3491a7bcc1708dfd5780f,M,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.42,94.8,5.9,271.5,7,0
+7469aaca4f459d17850aa9ca01d7e3a8a9c40a1a4bb5337fcfa95ba9c0763ff7,F,"[18, 30)",Midlands,bachelor or higher,1.49,43.1,3.3,12.9,4,0
+d1bfaddb6182f59ee616af040480091ae604cc52c936339e6cc9a8d95a920dc1,M,"[18, 30)",North of England,primary or secondary,1.86,44.3,1.5,223.5,38,0
+506661d4b1544f2b0b767c58881cfe4ce88dfa8145178e49a3145fbae67476b1,M,"[60, 70)",Greater London,primary or secondary,1.91,37.5,9.3,163.0,3,0
+6865e29fba06421c24d6b2047b832f25dc0c7aeb209befdb4531ad4267527378,F,"[30, 40)",South of England,bachelor or higher,1.8,94.6,2.6,85.2,23,0
+7e497a08f776d857d166a519ef39dbf0659750b32a38e6e93060255ba5c99b6d,M,"[18, 30)",Midlands,primary or secondary,1.75,87.1,1.2,336.1,35,1
+694bec17ea8f178a5a96277cb617d242fda6b2f3e3aeae14d608720e943dd8eb,F,"[60, 70)",Greater London,bachelor or higher,1.85,71.8,2.8,20.3,9,0
+c2192454620b36fe6067cb9c5f0861c954aa4f2748fe8c26533ca9f1a509ffb4,M,"[60, 70)",Greater London,primary or secondary,1.77,92.9,4.7,333.8,37,0
+66c0190d42cdfeb3e3d782ea98edc4d477d6890f781063b422302c2422ea7fb3,F,"[30, 40)",Midlands,bachelor or higher,1.53,90.8,8.9,352.1,13,0
+ac1328cfe04d00532ea1c3287718291aa36af7e87d77c73b2724e165c8d21b9f,F,"[60, 70)",North of England,bachelor or higher,1.71,77.8,6.2,368.2,5,0
+5d3aef63bdb73a00b29a738bb77b47bba6eee69b5fe48ccc38982ff296926f6b,F,"[30, 40)",North of England,primary or secondary,1.95,46.1,4.2,300.0,22,0
+97e0f6bf907c187ea97eed37c7abb5d52b3e13098f7dff3d12f7c0095e70e5dd,M,"[30, 40)",Midlands,primary or secondary,1.85,63.1,3.9,220.0,2,0
+babe4b7bfdb05a01f5759d15db87c121b6d6a5c5498ad985e7f9927e32508849,M,"[50, 60)",North of England,primary or secondary,1.45,84.5,0.2,267.1,43,0
+c416337b304674b983c7c21e486ba2e5e70abb8ce5dc4985a10ecd47b8c05063,F,"[50, 60)",Greater London,bachelor or higher,1.94,76.7,1.2,332.5,32,0
+00d50afbd4d729171f5cbcb53f553744049e4fd581e64351a116de1056a37fe0,F,"[30, 40)",Midlands,primary or secondary,1.52,58.1,4.1,42.1,8,0
+d8cc43b56897620795921257243bc9c15d99d763d6794e51fecd368e74550a37,F,"[18, 30)",Greater London,primary or secondary,1.89,56.2,5.2,472.2,44,0
+246185fc12b090c8026ac93f6ec3051b6bc539d1d0a034cdb325364aad31ce50,F,"[60, 70)",North of England,primary or secondary,1.94,57.5,2.5,259.7,14,0
+7dc588736ffc7d597acc518b742d7b43fd2970b5ad31326e3375c43da568894d,M,"[50, 60)",Greater London,primary or secondary,1.59,85.8,7.9,8.2,17,0
+cba60ffbebae788f823d9b389860c05ce1ad2b9454aab034a22747da9638134f,F,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.91,37.6,5.9,478.5,15,0
+ec8870a552753cf9c83f82d4d5bd29d057c4a454bcf3dbddae062dd47f67eb57,M,"[18, 30)",Midlands,primary or secondary,1.84,72.7,4.3,462.1,41,0
+097dd91d5baaa03b3ce285378b66d8391083ed410c9575d08c160b4482a3592f,M,"[60, 70)",North of England,bachelor or higher,1.77,82.8,6.7,385.5,23,0
+19adf80caa21450f462d32b85b9a1c6fb3029314dd60d77db1e0c2560b5ce045,F,"[50, 60)",North of England,primary or secondary,1.69,95.3,9.4,1.0,42,0
+336dcebb15be692c663e3be6da4519f7613faae2623a3bf07b73f711a696cf3c,M,"[60, 70)","Scotland, Wales & Northern Ireland",primary or secondary,1.64,73.2,2.7,156.5,48,0
+331a217bd2c9840d3e724e4d0f042fceb0cf6bf76a543da84eb48994b384bc28,M,"[60, 70)",South of England,primary or secondary,1.78,77.8,2.7,373.1,3,0
+8c450fc52be79af7795561f9ba5e12a8aa70b64fca0567c2b95d2c7a7f1a1058,F,"[40, 50)",Midlands,bachelor or higher,1.94,92.1,4.7,122.2,40,0
+c89899d250c99f0853779f9224b2938eefc8cf9a46c59e51c5a5fc2dfd41d3c2,F,"[50, 60)",North of England,bachelor or higher,1.82,41.4,9.2,264.3,7,0
+b13ff326fc290dc7a20ca282ece3f8a37718f0c19fa46abc73b8fb81daca22da,M,"[18, 30)",North of England,primary or secondary,1.69,92.2,0.6,482.3,10,0
+e6d0e8b6201e35508be98a862c62c6f9cc09779f9cde142995c7a3d386527112,M,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.52,44.0,8.7,61.2,33,0
+cec25bf46ce495ca6d4155990560394f377f8655440545abd2f75690c78d6cda,M,"[40, 50)",North of England,primary or secondary,1.52,80.6,2.8,76.2,9,0
+1a85334475268e4db1e5e503d22c239fa8f5cc3b9a3b3cff56baf56765740a29,F,"[50, 60)",Greater London,primary or secondary,1.74,96.1,1.6,241.7,39,0
+d7f24629d62bdc28b4ae5d524b3d458633e91bbd4ce7123c98837a3c02731b2b,F,"[18, 30)",South of England,bachelor or higher,1.49,87.9,0.4,184.6,9,0
+be7fbd892eebe6ca993a768a591b0ba0461a864cbda7565f1a7c25e002cc3b34,F,"[40, 50)",South of England,bachelor or higher,1.68,94.1,1.5,137.8,14,0
+e2ae5270543ab61809c8b6482bab0ff9a9324b87396e8839f22702f98f88edc7,F,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.77,48.1,7.2,224.6,44,0
+065b070fe70c70d9666d8b2e2e519d4392c890e3499f9d538823db76c784f7b0,F,"[30, 40)",Midlands,primary or secondary,1.52,78.6,1.5,308.3,47,0
+6dac2d7fa8cd204086288bd9ba96245d67587aaa82c9409ec0d44d85ebba8a02,M,"[40, 50)",North of England,bachelor or higher,1.69,43.4,7.7,278.5,43,0
+03f698754c858b6baf2e4aebfabd7c5c08556c3c56504ff015fd425e76adcd4f,M,"[60, 70)",Greater London,primary or secondary,1.73,36.9,7.4,496.3,38,0
+5566897d83be681a4150ec0ff52819e602c610fdae5a4322aadc2f1eb55be98c,M,"[18, 30)",Midlands,primary or secondary,1.67,76.8,3.2,338.0,24,0
+b1e41ffdb25461354af44c66583e3c7935435a819e2f13387a280b27ad7f4246,F,"[18, 30)",North of England,primary or secondary,1.91,75.0,2.4,25.5,10,0
+0c211f47331f316e9026c4fa921d57d2a740a0e5ba4a67392de30c3edfe7dae7,M,"[18, 30)",North of England,bachelor or higher,1.79,68.9,2.0,284.7,35,0
+e0b3e1c9b464a37020f04a3ee8cb9ac78feb4a0add972cd76afd9a3207def0b7,F,"[30, 40)",Greater London,bachelor or higher,1.69,67.7,6.9,67.1,4,0
+8716457db1784115a849c56b4afee672cd1b78df34e28c32e16c87fdd1b8130f,M,"[30, 40)",South of England,primary or secondary,1.79,62.6,8.7,38.8,16,0
+6faa32a9fe567d1420df7bb18923271a44dc903eb56817f1b1656e766f6fabe9,M,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.87,90.4,6.9,37.3,2,0
+1e6efbd982923ebdd7368f8d272a2ba7aa2c3960b6f1021ae673b369569f567d,M,"[60, 70)",Greater London,primary or secondary,1.43,47.9,2.4,399.4,49,0
+ab84c40d5a917ec8fd28c2ad5bd3c702f6687f4c52e02a1cd6f8802d3cdf425b,F,"[50, 60)","Scotland, Wales & Northern Ireland",bachelor or higher,1.87,77.9,2.6,332.2,26,0
+e84f3afb54b71ebb2dd9b2c8f8e3c85c38983b11549a4e219f38a475f2c4ce38,M,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.65,70.7,5.5,215.9,6,0
+90a997cb7a65f84eca0bbb0ebe1c483b0958ba69747040b5c314e406c9da7221,M,"[60, 70)",South of England,primary or secondary,1.86,90.5,8.7,31.3,33,0
+d36425228116a1c1348d91a9005668baade778eb7ebf4b6f6feb75f3098beae4,M,"[18, 30)",Greater London,primary or secondary,1.69,51.7,4.2,46.6,44,0
+dbf2afa8dc848a877c6e3d5462f3d775c1194cf210fa59ed9043879546382c15,M,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.91,78.2,6.5,236.1,22,0
+0d310eaa727091ddd7d1c0e2b255e1255c760e56cabe96fa42d88aa6c72afc2f,M,"[60, 70)","Scotland, Wales & Northern Ireland",primary or secondary,1.6,84.5,4.0,158.1,46,1
+f28c7c792c7f941d9bc46ca5d7c5a08ab6a554cfdfcd2610d29fb54702983f10,M,"[60, 70)",Greater London,bachelor or higher,1.72,45.2,5.9,339.9,13,0
+ae9a62842a22e151b438d1b56fe1991cb0dc8bff6ade323692f5ca95910fee6d,M,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.96,75.6,9.7,298.9,27,0
+5c3d4c968d079a57f5561f1b6d5d3a6f94d807788512e7c8d5d6f5d27c599b01,F,"[50, 60)",Greater London,primary or secondary,1.51,76.5,2.4,366.5,34,0
+ced1964a43fbbefc517d221a7fe5966e437b2b4deb6e80c16b5e6bfe3a028f2d,F,"[60, 70)",North of England,primary or secondary,1.64,65.6,1.5,393.2,41,0
+126b1e38fb595552ed77a72eb28335d07d88dd25653676c71617af79c6050c40,F,"[60, 70)",Midlands,bachelor or higher,2.0,46.4,4.2,444.0,50,0
+a09e2c9216a41b5c1d18a73c4163d630f0a959ff6aea6385b87bbeb1d6088af7,F,"[40, 50)",South of England,primary or secondary,1.84,83.3,8.8,70.4,33,0
+3e5df293c360ffaf1358c74cc7a8031cd9b50da21dc5b4a7cc242c28899aa3ef,M,"[50, 60)",Greater London,primary or secondary,1.45,99.8,8.2,141.1,23,0
+5174e748da08c5eb3b1d55e993ef4e5af07ad1c8bae97d15517f1391f7ff0ccd,M,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.7,48.8,8.8,333.4,44,0
+27d893f7c1f6aead34823b9a4c8575636f443cca421ebe9c1ccc813e1ae788d8,M,"[50, 60)",North of England,bachelor or higher,1.98,43.7,5.3,101.1,11,0
+06e679f5f5cfed707a450d68d3b62a06365a4f3173be1f8659e593a059415ba6,F,"[18, 30)",South of England,primary or secondary,1.8,96.0,9.6,262.0,10,0
+da793f9e99a4adbd922dca5d72abcad4c3872b745e05fc7e6f3389a0c1ae66df,F,"[30, 40)",North of England,primary or secondary,1.55,49.5,5.0,23.6,37,0
+d54e35cf1404b3d8bdc8ac16f1da200f70e62db758ce4e5a2b1acb20e056cb41,F,"[50, 60)",North of England,primary or secondary,1.41,83.4,4.4,180.7,34,0
+f6121f474eaac54622f33b04d5b34638dd0bfed7aa3ed471b332089cd24874a3,M,"[50, 60)","Scotland, Wales & Northern Ireland",primary or secondary,1.85,41.2,1.7,81.2,39,0
+5a0bb410e7046dc7955b86c938aca09fdb8ae84ea32466607d4d226ecb08d719,F,"[40, 50)",Greater London,primary or secondary,1.63,54.9,1.2,14.8,27,0
+f35525ca904047056c289fd5139c395c33297326709d75939c8b59a3d71d4b01,M,"[40, 50)",Greater London,primary or secondary,1.67,80.4,9.1,138.2,46,0
+707aed6fcb77c3b6909d8f2d5737809029b65f08b5053d8a466381c0916e2928,F,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.95,87.0,2.3,409.6,36,0
+97cf199cb77569ee02788deb36d84489b5b3b8601d784f0da761d950064cddc7,M,"[18, 30)",Midlands,primary or secondary,1.49,39.4,2.2,117.7,35,0
+df3abf48e096b599191e094e902477bba6109927cdce61a4c7d0662587a71997,M,"[50, 60)",South of England,primary or secondary,1.64,47.8,3.7,148.8,19,0
+239afc77ee11f42c0ae72c6592f7868536ce6e0e18680b160748596718d5dfc4,M,"[40, 50)",Midlands,bachelor or higher,1.49,42.3,2.9,423.2,30,0
+3e70409157b8822889115073760d783bc3d83060c274c3231b15f2dcf4ae4ce8,M,"[60, 70)",South of England,bachelor or higher,1.84,73.5,5.1,444.0,28,0
+a660ce2285668937cd60342d84771f470ff67017f6b6d62d05755376bc6f5f77,M,"[18, 30)",Greater London,bachelor or higher,1.77,48.1,0.3,180.2,35,0
+ab6fd4bde4f400d006cc9de90294dd8c816d012dfff7ff142136649374706276,F,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.69,74.9,5.7,318.3,29,0
+8427d77d7f28116780ee1c42ac3ae2eef739af5247252a561a931f548436ca71,M,"[40, 50)",Midlands,primary or secondary,1.47,45.3,9.1,299.0,5,0
+5a035c87f81d3d17e5579ccb2d474d3ecba081cf49c2cc07b4d6f62ec48af964,F,"[40, 50)",North of England,bachelor or higher,1.7,85.6,4.0,351.2,29,0
+9403e61159059dbbbbd93445dde7da22ecfc7098c157012eabbad32ee3694385,F,"[60, 70)",Greater London,primary or secondary,1.58,72.6,5.2,195.9,9,0
+28a42e51fad0277ea7721c45493a29c999ae81c8585af11cc1433435e8f4b8ca,M,"[40, 50)",Greater London,bachelor or higher,1.82,68.5,1.4,279.6,22,0
+3dbab04368f592e38fc8e33af78db9b550df50935affd049f3de19defffdd636,M,"[50, 60)",Midlands,primary or secondary,1.47,87.6,10.0,341.1,40,0
+168031975ce7b7dd284422f684bee847f59be0e2edc2a9f85ceb2bf0ebd1b993,F,"[40, 50)",North of England,primary or secondary,1.61,86.4,7.1,499.2,2,0
+56c885bbad9094acb930edc245d6874090622fe706452826e27fb6ce968ff91a,F,"[40, 50)",Greater London,primary or secondary,1.85,79.9,3.6,385.2,32,0
+77d742d2e925345e0e0f7c5352dcd9a23c77ff1daa4154dca032eea99772814a,F,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.55,35.6,5.7,473.1,15,0
+8a551618c6076c4199a929adf7a7d806cc0a940897e9a4792999f77767223363,F,"[18, 30)",South of England,primary or secondary,1.8,88.3,2.8,27.8,4,0
+153b3586dce2938848a9a4429bb9daa5f5ca709ba3de0b7841cb7061c9801d77,M,"[30, 40)",North of England,bachelor or higher,1.53,80.7,8.4,30.0,47,0
+84488e3297b577a530d324dc33d5ddf9c53e9465bcc13b0ea97d656d1b20aa35,M,"[50, 60)",North of England,primary or secondary,1.88,64.4,2.8,0.7,45,0
+d68928c44a39b4937920a8eb0ce181d4b0025e77c33effccec6681d79aa71ce3,F,"[60, 70)",North of England,primary or secondary,1.42,90.9,9.7,193.5,25,0
+6f649970a89838deb77ebe3b241d0d0f5dc99cc00a8211dedd28ddd2b17f6106,M,"[60, 70)",North of England,primary or secondary,1.53,71.5,3.3,66.2,14,0
+df494229b620d32ed54623ba6778264df977e323a933da3513bca673f84ccb6b,M,"[30, 40)",South of England,primary or secondary,1.58,51.4,8.1,29.9,7,0
+f018e6ec4f33b05ea807d16acd7951c5d7c5dbe6d833ebe8284d67060536d838,F,"[18, 30)",Greater London,primary or secondary,1.69,66.1,2.7,368.9,47,0
+eae6cb7c8a2f3b9c4d59c534a86c8f263ce037bd4ba5092ce20098584b7375ff,M,"[18, 30)","Scotland, Wales & Northern Ireland",bachelor or higher,1.62,46.3,1.4,144.6,43,0
+5cabf10d0cbce5a5325ab4975f3301c03964414e58163a90703f04790a962d1a,F,"[30, 40)",Midlands,bachelor or higher,1.49,42.1,0.0,242.2,12,0
+2ae263f096e5eea06558ee49bdb3eb5ee539a50b28e12cc6eeddbf4043ed88f9,M,"[40, 50)","Scotland, Wales & Northern Ireland",bachelor or higher,1.93,51.9,7.5,4.3,13,0
+6458130e378f71b4a54faeda257dc9610322552d46e9a783021b11e841091b7f,M,"[18, 30)",South of England,bachelor or higher,1.67,72.2,9.3,119.6,3,0
+f6eea1a921e4327d71f67f27913aa45b3f2a2eb31accbe1cd0d2311d94657e6c,M,"[50, 60)","Scotland, Wales & Northern Ireland",primary or secondary,1.79,69.9,4.4,62.7,46,0
+7f8439914af3b832ca25e66567c8b757899d99063485fe5b802161b4c3878a6d,M,"[60, 70)",South of England,primary or secondary,1.41,78.3,8.9,208.7,24,0
+557c158f9cff47c7b0fd44c7c1cbbae1784c7ef4632bb2ef415911487e725bff,F,"[40, 50)",Greater London,bachelor or higher,1.83,83.6,9.8,353.1,4,0
+20ca81db7e75fc09adbe803816a940bedc17ba2bda8443c38a94d5fcd327180a,F,"[30, 40)",Midlands,primary or secondary,1.65,94.2,8.9,230.4,22,0
+8b1c71a2693ed3ea868a27f58ac9c35908999861f5c3b9c899ab801c1d74cf98,M,"[60, 70)","Scotland, Wales & Northern Ireland",bachelor or higher,1.41,89.6,2.7,82.2,42,0
+293110afcae1ac5fd49962f65a16cf56f9d861475ada7b775a9f3ee831629bee,F,"[50, 60)",North of England,primary or secondary,1.71,83.8,9.6,209.7,16,0
+fa5dfeef24c5e59e2169598a3e0c4137eebee7434e1e4a675600c6e500b751a4,F,"[40, 50)",Midlands,primary or secondary,1.68,53.6,9.5,123.6,27,1
+18658a67524a74c3720ca7bb7e56a194d27a7d7f3f7dfc5392378a310f846830,F,"[50, 60)",South of England,primary or secondary,1.98,45.7,8.7,421.7,43,0
+ac398d8e6dfa18576f615d52391a12643463f057cb631672600f6def6dc48511,F,"[30, 40)",Midlands,primary or secondary,1.85,46.1,1.1,199.8,34,0
+38fd62142f811556d2f65e0fabaa2ddd5ed7a53da8414138e2209a109f69cac8,M,"[40, 50)",South of England,primary or secondary,1.82,87.0,9.1,123.9,38,0
+fb8932f2765c2a035365971b22d1f6de52b7096d83a28adc849aec5b3f5b0db1,M,"[30, 40)",South of England,primary or secondary,1.87,79.5,4.5,358.1,17,0
+7c74fe3f83bee805aae50187bd8186cc3fd8221aaf7df8c376e29b4cb1711739,F,"[18, 30)",North of England,primary or secondary,1.48,97.1,3.2,366.5,38,0
+412defef8077d3c271d55eb3cf3ee8d624b82b21b0cd1d0c6512f52c7dd9693d,F,"[18, 30)",South of England,bachelor or higher,1.97,45.7,2.4,204.2,47,0
+7bbd26bcb14fd93dd9b7cd638d8b94734ad9d0aedfe1eac9b30c2ffc62562723,F,"[18, 30)",Midlands,bachelor or higher,1.75,91.7,4.6,397.3,34,0
+2a3f897badd3aa8cf5d4b161500c5244abcb2b7d83c1e2947d359e77165fd42b,M,"[50, 60)",Greater London,primary or secondary,1.63,36.7,5.1,128.0,40,0
+fa9b31e2ea9b353545ca2edb376c1a9b0a2e21c37e7981509e72786f92eee09b,M,"[18, 30)",Greater London,bachelor or higher,1.49,35.8,4.7,25.4,24,0
+6160385014e1f866ba11a7ddcd7eb989e7904af14ab5ca3296af27920b3faac1,M,"[18, 30)",South of England,primary or secondary,1.78,74.9,4.9,52.4,22,0
+344fcdbdf0eafbb0590989451d525606a961a3fa2a7afa3bd65ecd2e9a36c631,M,"[40, 50)",Greater London,bachelor or higher,1.63,48.8,3.3,332.3,47,0
+9d73993ebbdd246efff6bafc85f7f1ed98d0e7544dbf4d69c7650ed922b7605a,F,"[60, 70)",North of England,primary or secondary,1.77,64.0,2.7,89.0,17,0
+2067e00e7b658624c3c975f5724b416af56644f0e3c87a2adb8adec26dc4c478,M,"[30, 40)",North of England,bachelor or higher,1.43,79.3,2.1,82.4,49,0
+b3b5b2cd2d54db8b5a71f56fef411e0c0aa728e64b11a2ebd778e92e0fcc1a7a,M,"[40, 50)",Midlands,primary or secondary,1.71,39.0,3.8,64.7,21,0
+6ed718f69c2a5584ea10cafa518f8f756037b73ae1f73643f8da5f4797283521,F,"[40, 50)",Greater London,bachelor or higher,1.58,65.1,0.9,225.1,32,1
+80481270633a26fee5dc0926699976b66499288d1a9c690831febbdeab1f6a30,M,"[18, 30)",South of England,primary or secondary,1.7,78.3,2.6,426.0,15,0
+4d8ae0e3f16423204fafcb39adf1055c035e570213f09709444599805ce8ee45,M,"[60, 70)",North of England,primary or secondary,1.67,86.6,0.1,351.0,39,0
+ea636fb914bc516ea1899f94b3af2563c9be55ff0cc3035488c86bb3514c05c8,M,"[30, 40)",North of England,bachelor or higher,1.64,62.5,7.9,393.0,2,0
+222ed4c35caceb8541d1744b36df14877560e813bde65c473788ed8f50bfdba5,F,"[50, 60)",Greater London,bachelor or higher,1.78,36.9,6.7,195.5,19,0
+4c2ffbd8c481b19275e8e842f407b91ea9ffd0f283c1378083e73fe08d18f239,F,"[50, 60)",North of England,primary or secondary,1.46,82.3,9.0,412.7,42,0
+b29758f6f3348d86d4fdc48db804435ed00d74c4dbf8b270705f016ed3e10824,M,"[18, 30)",Greater London,primary or secondary,1.42,91.3,8.6,222.9,24,0
+599b607dee52ebee4d78bfc71ee95e77b045da16f7f39866586c4314092c0294,F,"[60, 70)",North of England,primary or secondary,1.96,93.9,0.9,149.7,10,0
+02488dfb89a4aefd871cdbbff2c882921713d650d91994d3150ee57d6b014d40,M,"[40, 50)","Scotland, Wales & Northern Ireland",bachelor or higher,1.76,81.5,0.0,72.8,36,0
+c60f904dbabdc6d39f26a68548c81f05036ba77930052cbe4e1bf22dd682e94f,F,"[60, 70)",Greater London,primary or secondary,1.64,71.2,8.5,225.8,4,0
+c90dd7ee2cc9b52f1200ae8a32113b7c09fd47aedf807cb7c9bc1d0e048c829c,F,"[18, 30)",Greater London,bachelor or higher,1.7,63.5,8.8,89.5,26,0
+3dbdbe73cec44c1a68852f04db7375851f4ba46e77d9e24e09b946e1fbafd1c8,M,"[50, 60)",Greater London,primary or secondary,1.94,79.7,6.1,339.1,38,0
+39b922694b2175cfb25373bc6cd4d1f87be0f90500c2176a4466e554ac9b5894,M,"[50, 60)",Midlands,primary or secondary,1.7,35.0,0.8,440.4,29,0
+2bca51fae7d94599e62720ab71b36ffb516c63f7c98a4af69b972a63e4631a94,M,"[50, 60)",Midlands,primary or secondary,1.84,77.5,0.5,428.6,45,0
+7e0349c58ce24dafd7653a78074bbbf514699a20b4f57a63e300aa0f9d6ae98d,M,"[60, 70)","Scotland, Wales & Northern Ireland",bachelor or higher,1.78,66.6,5.4,337.5,30,0
+834bb8a02c8ad8c863885d6f8a25fb86ea50b3d5aa732b4f697e3ac7338177f8,M,"[60, 70)","Scotland, Wales & Northern Ireland",bachelor or higher,1.98,84.0,5.8,458.6,17,0
+6f199c8c6ca6c28221d49b5b33e7205e5208976919dbf4979129ae725b4021e9,M,"[40, 50)",Midlands,bachelor or higher,1.89,82.9,9.0,289.0,41,0
+be09feb91271ca04cbec2364184d35d54530129dc42ba8455e3fe02a7677e340,F,"[18, 30)",Greater London,bachelor or higher,1.94,60.5,4.0,233.7,5,0
+6acccf8c82088420d59796662bfe8b8fa50f1d611d32ef7fafdcdb54aa411731,M,"[40, 50)",South of England,bachelor or higher,1.86,68.7,9.9,233.6,19,0
+b4b92680c45ede3430c88863d434544f00b30007b78d03bf4d2bc968deaf40a1,M,"[30, 40)",South of England,bachelor or higher,1.42,79.9,2.6,479.5,35,1
+12d5462f17636ed37fd971b78a0ef84885650fe7ad55fdd0610957a81198faab,M,"[30, 40)",Greater London,primary or secondary,1.49,46.8,0.1,31.6,14,0
+c00fa50a52b2f88fc7cd6321a75b980aef945526d6a1ac39265d81cd0a1481f8,F,"[18, 30)",North of England,primary or secondary,1.88,42.3,7.0,190.4,47,0
+854959683e41e8ac88da3b5e6d52e10097ab54dd7ea7b58263d4448864138478,M,"[18, 30)",Greater London,primary or secondary,1.62,54.0,8.0,446.6,33,0
+44bc691732cba3c0e1f57f7aacd8a81b0784692a056a94b7b64da7c7d21457ad,F,"[60, 70)",Midlands,bachelor or higher,1.96,86.6,1.7,477.3,16,0
+5e67d765984ec359f5319e5096e25df982c3cf69f1c59bf3f4c166fd6fdc3759,M,"[30, 40)","Scotland, Wales & Northern Ireland",bachelor or higher,1.48,98.5,0.1,17.7,41,0
+830020992bd47625df8b6aa75686a0012e4e6c62e800f9725adc6b7af8dea06a,M,"[18, 30)",South of England,primary or secondary,1.91,85.7,7.8,100.4,37,0
+2ef1c489c645fea33c91d6c089dfabdc838d31c74e682be5d8e8062b2f3a71b6,F,"[18, 30)",North of England,primary or secondary,1.43,78.5,2.2,40.9,43,0
+ebb539ae0866ddd508388f61fd22c2a552a9e2407583e17fb1a27ef3797c90f5,F,"[18, 30)",North of England,primary or secondary,1.68,66.5,9.4,108.2,5,0
+2b68fd921b7671657077226253ed7e0fc209478dc13d6161b6d9b38225deac13,M,"[18, 30)",South of England,bachelor or higher,1.95,51.1,7.4,241.9,47,0
+85158f973b2401f40217aaba399df343e019c7aad4bd4a56d19a3a5bf882cbf8,F,"[18, 30)",Midlands,primary or secondary,1.61,91.2,7.4,404.4,25,0
+5e1073bb37752d9a910e23524d2027159a8a0a0bcac2f50fb511f301aa44b3af,M,"[40, 50)",North of England,primary or secondary,1.75,61.9,1.6,185.8,24,0
+5085ce2f7178074be9c4e4c7206b55d8726f16001a19a86d8da0bc5dd38028c1,F,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.44,60.0,5.0,292.2,19,0
+eac1b81c828f29708e878de3836598178e0347c5d6bce09a7914cbc85d0f0d7a,F,"[18, 30)",South of England,primary or secondary,1.42,96.5,0.6,145.5,39,0
+4f2b38ca58d3fdc7a8ba5af56723084e059b69f71a77bef6bcf17beda0b99e12,F,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.56,38.2,4.2,229.1,32,0
+627fbe4d02afe9d5d36c6c49a595591b226ccbea8e98f4de466e0133e07bcfb4,M,"[18, 30)",Midlands,bachelor or higher,1.52,96.0,7.6,174.3,2,0
+50762516c88419f1bac3fb9a19e14df10dedf187e883923345a258807f4b1272,M,"[18, 30)",Midlands,primary or secondary,1.52,48.6,3.0,419.6,43,0
+14280b26f2154da1eb800c656f1bfffcb44bee1110ab68e16f22145e55605771,F,"[40, 50)",North of England,bachelor or higher,1.42,42.3,2.2,392.8,14,0
+a5cc21c7cf85f90ed7d1eea880f030614700f7ded6834d17628db263009a647f,M,"[30, 40)",Greater London,primary or secondary,1.74,39.7,9.9,220.8,9,0
+c148701c35f90e0ee54739c6a50f0d3713c014147615ede3a1d6c0031aabccfd,F,"[40, 50)",Greater London,primary or secondary,1.89,38.8,2.5,123.4,47,0
+f4e3864863dca4283f94e11625e32ed8b78b4e1b8a8cf422f1c348f0b34cba4e,F,"[40, 50)",South of England,primary or secondary,1.48,91.4,9.9,47.8,39,0
+fa06bf48e56bd3101410db7fbdb4248d15b7d1d6f3ed8bb99c6c1f30dfb4c7bf,F,"[50, 60)",Greater London,primary or secondary,1.85,61.3,8.8,51.1,31,0
+d70f383e6b762db1396548b24372511ff03679fe85f7f0fb5d5e6242a966ffb0,F,"[30, 40)",Greater London,bachelor or higher,1.76,65.8,6.9,7.7,26,0
+6d49847adf892d01c94cbe488246cb98a92d50e176c5ec0de938b53d2daeb541,F,"[30, 40)","Scotland, Wales & Northern Ireland",bachelor or higher,1.91,59.9,8.1,253.7,44,0
+5ff03d659b2dbf2612dab80ca1787740ae62cdcc8967a4cd57412dd46e9d238e,M,"[60, 70)",Midlands,bachelor or higher,1.85,46.6,3.3,479.3,16,0
+de381f526e9c69fae4e77de6ad44266cfe143e1cc4f258312245cdeb55b6688e,M,"[50, 60)","Scotland, Wales & Northern Ireland",primary or secondary,1.5,56.6,8.9,437.4,40,0
+933f91aa37b6063f0aebaa456998e7e4a4daa334759ea7d3b66e9ec120a80630,M,"[60, 70)",South of England,primary or secondary,1.72,93.9,5.3,119.1,21,0
+1d06bfdaa923e7158cb90f76b5b2009c29c4dd504458a4f7b8aab3c2f555b6cc,F,"[40, 50)",Greater London,primary or secondary,1.67,89.7,5.2,19.7,12,0
+6144b523edeb3d532f393caaa7d4c8018ae36177e8f0bb84519eb26c45df2102,F,"[50, 60)",North of England,bachelor or higher,1.63,65.9,5.6,237.5,13,0
+94862a4e570a51836ae3ae56eb91c24a9c36f4442466546ed62aac7ff7b57434,F,"[30, 40)",North of England,primary or secondary,1.87,42.1,2.8,0.3,14,0
+f3ca3a645076f822eda18ba25dd33c7d633cdc6c2226dc84618f47fc1c6d709b,M,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.88,58.9,3.5,78.7,20,0
+12d655f0284a74ac1d98e1bde4f3ccd9d6101d443ece31f32e20e4456e746f1a,M,"[30, 40)",Midlands,bachelor or higher,1.46,87.2,2.3,256.9,45,0
+08c5a6d994acf5978ab50b15769e453a2d3951733ca21270ca2b4a17b23b3bd6,M,"[18, 30)","Scotland, Wales & Northern Ireland",bachelor or higher,1.58,68.1,0.4,95.4,21,0
+cf6ea09ef7a3d519f5329d61b8c2165ae1dd7cc0f9bf3df339430d262214a979,F,"[60, 70)",North of England,bachelor or higher,1.76,78.3,0.6,48.9,20,0
+81060ac63dc0af059ad00be9a8e979acf2d54942b379529e83eaebcac3b5dd7d,F,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.51,95.2,0.3,367.6,34,0
+54802fcd9d9c101572adccc6e48e7b034f3d34f5630daa4669d74111942a29bd,M,"[60, 70)",Greater London,primary or secondary,1.41,52.9,4.5,362.1,27,0
+0609be01d5dc1b97311c3653c448d5e26d1334bf376c8f114dfb485d7c4c91c5,M,"[40, 50)","Scotland, Wales & Northern Ireland",bachelor or higher,1.54,86.0,1.4,70.7,30,0
+78c10f3006e1b550b7d08bece5810fda893fdd8d777eab41072a18b950c76e94,F,"[18, 30)",South of England,primary or secondary,1.94,75.7,8.7,109.0,6,0
+a642c80e595e2706c80e3f31ded6819cf70d74e36e2e195bffd1a96763bf1238,F,"[18, 30)",North of England,primary or secondary,1.74,42.6,2.2,219.6,32,0
+eb955d2e43da3b244e238285fd52b2e6f3750cd3b2031e9dc6e70c443c587369,M,"[40, 50)",North of England,bachelor or higher,1.83,53.1,7.7,322.0,24,1
+5780c02ae875a3168ad755f008ea72096940b6564058b7f00a13f52e9a69ce23,M,"[50, 60)",North of England,primary or secondary,1.42,91.8,8.8,308.4,19,0
+887e86026a1649b794997fa0a65fa8a2cdb9cff48a3d852560c81d015ff4e7bc,F,"[40, 50)",Greater London,bachelor or higher,1.46,35.5,3.9,182.2,13,0
+02bc2d4115c866dbdc7b159dac2b566377d4ac460e0468786e1dfc09955dd00a,M,"[50, 60)","Scotland, Wales & Northern Ireland",bachelor or higher,1.52,86.6,1.6,45.0,17,0
+6dbdd49905fc82d22deb6150f2d8f2c3d294450093434acc380a9766ea7beb83,F,"[18, 30)",Midlands,primary or secondary,1.96,74.4,9.0,25.7,7,0
+f54e55686a5e18c4ae0a517f3943b6a2644961a064eb456db2f7e262c129592f,F,"[18, 30)",South of England,primary or secondary,1.49,45.5,9.6,91.4,8,0
+f89d02123793542a6459b686feee1319fd0d8340c45f1921279eaca971f045b4,F,"[18, 30)",South of England,bachelor or higher,1.68,50.5,7.1,264.1,37,0
+71076d102173dfc4e85b1224f08f66400582ffe429b232e88e8587ffc1be3d99,F,"[18, 30)","Scotland, Wales & Northern Ireland",bachelor or higher,1.52,53.3,0.6,168.5,31,0
+4d1a4f2ec162bacb16ff73f690ae6409559dd3d88791d11ae9d229d79a06db5f,M,"[30, 40)",Midlands,primary or secondary,1.82,44.1,3.4,187.4,35,0
+e87cd980f20c5b206eb0c4a0212ed4d62f2d3797704139af316c2df5dafddd24,F,"[30, 40)",North of England,primary or secondary,1.44,45.2,7.8,425.5,49,0
+6471d37bac53295f857ea27cc868b8cf6fe0cf60c336014b4741e946f5fc40e9,F,"[30, 40)",North of England,primary or secondary,1.97,58.9,3.5,444.4,29,0
+25cbadf6c2d1cd5f6bf16cb749a0ff877facc8e36217986ab7778831e669bf0d,F,"[40, 50)",South of England,bachelor or higher,1.57,91.1,4.8,408.5,29,0
+6a68dd249a7daec65bc7cdd42e7a1d9af455897990c91a73afb075d6a113791a,M,"[60, 70)","Scotland, Wales & Northern Ireland",primary or secondary,1.55,66.1,4.4,421.8,42,0
+0eae96c2a112740931fe5673f5e2a76b3b7d178f3d31ca18dbc0cfdc680d5a15,F,"[60, 70)",South of England,primary or secondary,1.68,56.8,3.5,86.5,33,0
+61c65a4a3cf59905f5584e2c1bb7c94a5fb17e373787b2a7ad39b25afbc62518,M,"[40, 50)",Greater London,bachelor or higher,1.94,54.7,2.2,301.7,27,0
+5ee7fb19d736840f911a67b5dff7d36623156553df52155eff296ca1370b077e,F,"[18, 30)",Greater London,primary or secondary,1.98,47.4,0.8,154.1,30,0
+fb8d27082a6c27a4a9a9e3942ddcd9a644f702f94e3f8dfab51cf3a64e931515,F,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.6,74.7,5.1,449.9,29,0
+8dd2811e62217efaa6068abe216fd66f86fe3cbe3b75265a55634369694a02d0,M,"[60, 70)","Scotland, Wales & Northern Ireland",primary or secondary,1.67,89.6,3.8,75.3,20,0
+025c40ee13de7627aa687b0e938e71ed0b7bbab9cb78e79909586423cbaf93ad,F,"[60, 70)",South of England,bachelor or higher,1.81,94.5,6.9,0.8,46,0
+16c5f35643aad7846dca7f0290c2ae2d277145ebecbbe036b743af957c206b10,M,"[40, 50)",Greater London,primary or secondary,1.52,79.0,6.3,112.5,12,0
+4128d487d235ea23d7e4bef9165f1db1b3cdcc51e47f7625103d1f5dbc3adc37,F,"[30, 40)",North of England,bachelor or higher,1.46,82.0,2.0,110.2,19,0
+ea0a35033666e558b1ff091f152ac839727fc0addd3f016f9f534f6e1858efa0,M,"[40, 50)",South of England,primary or secondary,1.86,50.3,2.3,386.7,4,0
+485f9e361a7bf99f5f0f0bc657110bf7c96cbed307787a4e6f78b25a6f8f33cf,M,"[18, 30)",North of England,bachelor or higher,1.78,45.8,7.8,168.2,42,0
+031e1091a92496905a3c2471ea2546b02629e73824b85c5e0c9bfca343d2dd4e,F,"[30, 40)",Greater London,bachelor or higher,1.49,38.8,5.3,338.3,44,0
+087887a74b62ae77ce33c000fd4cb0522c672367b5fc40fa2486375a0a039b8b,F,"[40, 50)",North of England,primary or secondary,1.5,44.1,3.5,108.5,49,0
+400f1ea96073bb12a18dc6649c4e81e49a6e4c46a1c795a190063c143127c1bd,F,"[40, 50)",Greater London,primary or secondary,1.41,79.7,3.7,416.1,5,0
+875cd059e576a1aa307e9816bb2d91d537ca2a31abf06c53f64abc8d68ca4cf2,M,"[60, 70)",South of England,primary or secondary,1.64,38.6,7.3,31.6,18,0
+71307d5e73170102cc7deeac7b71a7083dffd01bc78dcfd57f87c82f7884915d,F,"[40, 50)",Greater London,primary or secondary,1.89,44.3,0.3,383.4,40,0
+d2f16f4bbadb1d6986f688d12b16fd9794d8e1a3b786bc2f68ca5180126c5567,M,"[60, 70)",Greater London,bachelor or higher,1.52,47.9,5.2,358.3,41,0
+2d94186d9ed5e10e78557d824d00219e218860a9543393d9fd080f5e19d02c55,M,"[18, 30)",North of England,bachelor or higher,1.51,42.1,2.5,82.3,5,0
+7485295b0a73d80e07b59d0a30bf96cd1dfad4d52c368bcdb597b3113820ac6e,F,"[18, 30)",North of England,bachelor or higher,1.78,91.4,8.0,26.9,23,0
+76605379e5b2a4736b565264eff56e64ff9e52b0bf951b888d225c8dc6e19e96,F,"[40, 50)",Midlands,primary or secondary,1.69,60.1,4.1,455.2,14,0
+f07198f0b68608db57b3c3f7ecf5326f03d497e4592c830d1d8372235029405a,F,"[60, 70)",South of England,primary or secondary,1.87,54.1,0.2,284.9,49,0
+de7efd579452d9de23ff48671e71d6778540438b71f83ec72cb73535d13e3b7d,F,"[18, 30)",Midlands,primary or secondary,1.69,60.1,7.0,420.7,8,0
+13a5b0329179e5dcee49385054ed9571f6ea12b0ef4389adcbf3a063eb753334,M,"[18, 30)","Scotland, Wales & Northern Ireland",bachelor or higher,1.5,61.3,9.0,405.1,28,1
+d4653ac1f8b24ddb8f60fe66f27b887d0bbc73843aeab53f0ad5b36478a421c3,F,"[18, 30)",South of England,bachelor or higher,1.84,76.6,1.7,493.0,26,0
+9f479538b8b9cd47adeba181cb943affa715816779ca92ee57c5b8e1e98d8988,F,"[60, 70)",Greater London,bachelor or higher,1.84,64.8,4.6,93.9,29,0
+c9b0b7eddbb282aa83d1761b26ceedd2009d4adc8343377080af9a500c721734,F,"[50, 60)",South of England,primary or secondary,1.72,85.5,8.1,98.4,33,0
+3dbea31bf2c6a7ee0e144b13e9314e482031a74cd9d9960ca7376572b371b307,M,"[40, 50)",South of England,bachelor or higher,1.69,51.6,8.1,395.3,4,0
+c838ab84d8d38528443fb951d76eac678d70565a435c44f0babbf00c0fd90cf4,F,"[40, 50)",South of England,bachelor or higher,1.98,47.5,9.3,261.6,27,0
+eb4af29281c3b1e868835308b7c5b531ce1fce9eb60f20909b097dc61ee40fd4,F,"[50, 60)","Scotland, Wales & Northern Ireland",primary or secondary,1.74,83.0,1.6,57.9,35,1
+b97b217bc0ce36a9018070b0b385f0fbfa60dcaf7de95a44587b9096863df8ad,M,"[50, 60)",Greater London,bachelor or higher,1.91,40.1,2.0,195.4,30,0
+aaf31c9105023a9abe4fb6099e625947ab0c2c889d04e30fef1a4879454db7d5,F,"[50, 60)",Greater London,bachelor or higher,1.83,71.5,7.7,286.2,45,0
+79bcdb5a59f7a2b447300718fe02adc8870d9ad60ec03e0825e835e943bbf14e,F,"[30, 40)",Greater London,primary or secondary,1.78,53.2,0.2,373.6,5,0
+350bf0dfbc861e9431b1d28d6b25c2477cb8d0022a35c4f53b087a8ef4ee783f,M,"[40, 50)",Midlands,primary or secondary,1.91,69.0,8.3,325.5,37,0
+bb84a665ccf2b1929656fcc1d86ee03dd0872deed3e638f35919a96ff00099d9,F,"[40, 50)",Greater London,bachelor or higher,1.78,52.3,7.7,268.0,7,0
+bd93521f6eb59423ed263018e2c47491e8dab0be5a546834b5fba6a8f5b87817,F,"[50, 60)",North of England,primary or secondary,1.57,68.8,1.9,186.7,11,0
+bdfcc24618d6763af9f42331036bc9146a4a231da8b444e66a4c14db6b215ac6,F,"[50, 60)",North of England,bachelor or higher,1.62,79.1,5.0,306.3,34,0
+31c958ec82c855fed8eb1d0a7d8f9dde704065ab2c795b0b1adf6170f1df138b,F,"[40, 50)",North of England,bachelor or higher,1.6,41.1,2.2,386.6,46,0
+f3bb4af0ddbe4584d0d7535b69c01b2cc8247796ecc10fe1ccb02a49dce5e1b0,F,"[60, 70)",North of England,primary or secondary,1.65,78.2,6.0,151.1,30,0
+a2cb5dbec0681a7dd968690c2e5243ad1715f3502b47e1bb62659bec8178c4eb,F,"[30, 40)",North of England,primary or secondary,1.87,57.7,5.1,173.3,12,0
+ae43e0b9f76686862b182f491b8ebaacc5a37aee2d0b773a3ecdf251fc949b8d,F,"[30, 40)",Greater London,bachelor or higher,1.65,95.6,4.7,237.0,24,0
+626e6aee428cdb28797d00b940e6b5d42548b4ea0fa47fce769189afd225063e,F,"[60, 70)",South of England,primary or secondary,1.44,40.6,4.0,293.7,10,0
+4e0d0c38bb55333bc0089173d83a3b5e62bdd39956b2cbd371e2c93c89c4b4dd,M,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.73,74.3,0.4,162.0,38,0
+0107b854339310eb7df9b0169634a01e56992303c2fd2945a230caedc6b3967b,F,"[30, 40)",North of England,primary or secondary,1.78,49.8,5.6,56.0,4,0
+982b0c358d71445876972b80efa859f5fdff216f38346369fe0dd160698ea462,F,"[40, 50)",South of England,bachelor or higher,1.45,94.8,9.2,498.9,15,0
+c3d931e416dc54d9a3f7a1a82e74174a9a721cbb505040694cf92c139a192bd3,M,"[30, 40)","Scotland, Wales & Northern Ireland",bachelor or higher,1.8,79.2,5.2,150.7,39,0
+3f2e49c5ec4639c0c2aaabaf63e83d1ca7f82731c38d86d01a7c33f9cbf2c525,F,"[50, 60)",Midlands,primary or secondary,1.86,69.1,2.2,242.5,3,0
+77eeb8c7ab8bf435ed3a56c446ac728eb2c724394f97efbb976c72d6c86bbb8c,F,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.95,72.5,1.1,103.3,43,0
+b11e11cd0b24d8d4b5a0d8809553489be4d1a528f8dfc80dec6e0f8fb0e7c085,F,"[50, 60)",Greater London,primary or secondary,1.44,53.5,9.9,371.5,31,1
+d8b93fc0125bf53001ffc16ea7972eec3e59de28447dc414db22fa993817bcb4,M,"[50, 60)",Greater London,primary or secondary,1.64,49.9,6.4,209.0,48,1
+f87d3858edf9cf7ccd9157627dc6a6f1511c68d90c1c5341cfa49ef15b465085,M,"[60, 70)","Scotland, Wales & Northern Ireland",bachelor or higher,1.83,86.9,6.8,405.3,41,0
+9e960e73cefb51c74f12ed23f0988425a0c2850b8545188f7663af1df8de7c35,M,"[30, 40)",Midlands,bachelor or higher,1.55,70.3,0.4,212.7,6,0
+0d209dab6bc166a38ad385f5c0006286cf129d68ad810dfdb5245d2dcda85627,F,"[50, 60)",North of England,primary or secondary,1.58,43.3,6.3,166.5,7,0
+7177af89e8f767bb5c82f132169183a57159219d47baa1f9071de951ad22dd32,F,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.91,42.7,6.5,122.6,30,0
+ee10e91ea888ad22a9fa5f089a7f503b5a0dd3b03653730c4009a9ee91c16209,F,"[50, 60)",North of England,bachelor or higher,1.52,60.2,1.3,274.0,32,0
+e766b3ee1f1ab321d7231d21184aea825e27f53893d6c34822c4298a20ffd304,M,"[40, 50)",North of England,bachelor or higher,1.42,37.7,4.9,346.5,21,0
+ea65933322ff6d7d56158819a5226fc88cc748ec31c44458919184e6086514c3,F,"[40, 50)",North of England,primary or secondary,1.48,76.1,5.3,407.0,48,0
+f1404cf2fa48533f1f9fa6ca87585215aa1d09e02b5646d49bbd27bfc81be721,F,"[30, 40)",Greater London,primary or secondary,1.63,71.5,0.5,114.5,41,0
+4f2e178fe9587e6f87567859b49178a50469adca2afb25f3f1b048a2380a76cb,M,"[40, 50)",Midlands,bachelor or higher,1.9,71.5,1.5,75.2,4,0
+91de530a6eaacc4dcece59e7d298982f85176647c5bb6823ee5777e804d6bc41,F,"[30, 40)",Midlands,bachelor or higher,1.74,60.9,3.0,102.5,39,0
+bfb9dd7ee36d14c6fe160f91bde14c802e30978cae03004301664c332ec11760,F,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.49,80.2,4.5,237.9,32,0
+7bd891ee1a1f97a0dcacdaa79062c65f3fed415f8eb7af90f0d85b1be7fd3b6c,F,"[50, 60)",North of England,primary or secondary,1.57,77.4,2.0,257.3,32,0
+f3e4e8dcee327d5f1e6f5b7dacf90cc42d34182562f94bf21e0904dc32501def,M,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.93,39.6,2.1,250.4,35,0
+95ce27050db3c40f8b73b4d8fc5215ff5a3115becddf74b9401e0f37ca21d1f3,M,"[40, 50)",South of England,primary or secondary,1.45,78.0,4.8,380.3,40,0
+cf1bbb0f6f21f2524ddaa35418fc91623dd7f795c052ec99975f30a6aabbbef5,F,"[50, 60)",Greater London,bachelor or higher,1.79,47.4,0.3,179.8,50,0
+5400dba6908e3a35f6992b2945f3364decb56be16f6ea54ff7743e9003e0a31f,M,"[30, 40)",South of England,primary or secondary,1.73,58.7,3.6,114.2,11,0
+31dd70e5a0b7cee095240d32d187a30a97d937ae82362b8c2e448ba306e035ec,M,"[40, 50)",South of England,primary or secondary,1.45,56.0,1.7,290.7,33,0
+7969a736414207be7032eb83375e10afe5f44a1d975da503ddbabee6a4ea3fc2,F,"[60, 70)",Greater London,bachelor or higher,1.99,59.9,4.6,234.5,16,0
+41ac4015bb1e9094646e36d6019205a3a341c86881071b8deb393b331c0830b1,F,"[30, 40)",North of England,bachelor or higher,1.59,66.9,4.0,34.9,3,0
+7b05391d3261d315b2dc7061226f047b676c25ac93c503a3fb457ebdc4ab30dd,M,"[50, 60)",Midlands,bachelor or higher,1.59,83.2,8.3,4.9,7,0
+d332268d24a919050d0831f7108846335e5a0542f30dcc7b049049b2ba5e899d,M,"[18, 30)",Midlands,bachelor or higher,1.88,44.6,1.7,56.3,36,0
+a0ec10ffd929ebe55ca0009383c6d46166d51f8a79ae6bd5715dd534aadbc0d3,F,"[40, 50)",Midlands,primary or secondary,1.83,84.8,2.1,35.1,25,0
+79cfc440a316eebbfa804b8bed8b7e3cd98ea129010a9ae50a63173adde5fd0d,F,"[50, 60)",Greater London,bachelor or higher,1.7,67.8,3.5,445.7,37,0
+7e0039f93892239d173a3ec1a3d8a658dbf7a04cb50d742d0e81a77f3d008806,F,"[50, 60)",South of England,primary or secondary,1.46,86.3,5.3,215.6,23,0
+e4e2cfca49fbf15340e4442803f1c444be9849826821c91b566174b5b598e139,F,"[40, 50)",South of England,bachelor or higher,1.98,63.6,0.4,375.4,4,0
+789943a1c6f242c77bf53a0d397f85f31c9a72aa0b274b4488253c89e08e7981,F,"[18, 30)",Greater London,primary or secondary,1.67,50.5,2.5,457.0,6,0
+b8da0d2722dda675d84997553f229db561e5925ad1d2597f83946729e2818d1f,F,"[40, 50)",Greater London,primary or secondary,1.43,78.6,7.0,172.2,41,0
+645cdf417bc60d1956322243cfc6b38a776cafef5a01d0fb282191dd7bc7de03,F,"[60, 70)",Midlands,primary or secondary,1.97,75.8,1.5,229.9,16,0
+4ce6c43805f411e0e2fdcd879d236a77e98ed6423d663bb7eb393be6f61e70fd,F,"[50, 60)",Midlands,bachelor or higher,1.96,36.7,0.4,229.3,17,0
+37d78a504016364ae6d7dc051ff937f5dbb508d4bad766012b2a770012831f54,F,"[30, 40)",North of England,primary or secondary,1.66,53.2,1.2,30.9,13,0
+f1c47be4a6090a791b9c260841c71036a5a44a0b10d6e5b90c4b4ad3ac2fa92d,M,"[30, 40)",North of England,primary or secondary,1.5,81.6,1.2,182.8,46,0
+7d167fab3bd441e9d789cc0abbf9832de32cbab55cc0d13a97c93dfe9e14235f,F,"[40, 50)",South of England,bachelor or higher,1.5,66.8,5.9,270.6,30,0
+afc4a2980d3e1ed3c9ef41bd3f235c7ae6269da96c0e8cfb7e0f7c72a15d964d,M,"[40, 50)","Scotland, Wales & Northern Ireland",bachelor or higher,1.69,46.3,7.1,267.7,23,1
+b4cccba4c5644aeddd3b2e5522f7eea2f68d0844cf79a686298942f3f9c416d2,M,"[30, 40)",Greater London,primary or secondary,1.96,82.9,9.6,57.9,12,0
+a00cba655c1fe90968c90cd95bed9c24cb3afe2814f2fe1c4093f54c031c3dc8,M,"[60, 70)",Greater London,bachelor or higher,1.98,78.8,3.9,300.1,39,0
+e215745a511001ba5e282a43c57dba94185a5fe969cfb5d5f02ecce3c44a3339,F,"[18, 30)",North of England,primary or secondary,1.54,79.3,0.7,408.1,16,0
+3c45031bd0c003955cd55dd057a33b8e9fb92a41a7a77d52da44029f4b315d92,F,"[50, 60)",North of England,bachelor or higher,2.0,49.2,0.7,115.1,12,0
+b04220e42117c0cb38c9c0887047d80773959804bbb861ebe0c965510fd4dbfe,F,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.72,78.7,1.3,265.4,31,0
+57d92b03a60425aa6b9da53adf07c44e6de54ce324efe2062a3a05f60bafb84f,M,"[50, 60)",Midlands,bachelor or higher,1.66,63.5,9.1,247.0,9,0
+428f8988b51dc84a5dfada7162bb09b1662561d89d2a8f0b930ed9701cef28fa,M,"[30, 40)",Greater London,primary or secondary,1.47,95.2,9.8,45.6,28,0
+0140bee482ca49262d115e0a3a50dfb98d156afc060713e98fc9e83e1ad1f358,M,"[18, 30)",Greater London,bachelor or higher,1.61,75.2,2.3,432.6,23,0
+76002fee5f53aef11716672795c700548ff140244ad457dcaeaace5821c36350,F,"[50, 60)",North of England,primary or secondary,1.74,40.9,4.7,418.4,12,0
+42f2d5b5ab0a8d4200b20b4c5d6b5b7d130a2463ee0cf853fabd84c0581135c8,M,"[18, 30)",Greater London,bachelor or higher,1.5,78.0,6.1,252.6,2,0
+39e786cfb8f5cd4980391a94f2af265f224a99c414e5c9b516b46e082cb025fd,M,"[50, 60)",Midlands,bachelor or higher,1.46,70.0,7.5,267.4,41,0
+b1ba0c6b167abfd86ef21ac06ce3979282ac047580820b3db42dde08b8ba9c60,F,"[18, 30)",Greater London,primary or secondary,1.48,69.0,6.6,20.6,45,0
+d604d12b05799b0c57121a0c4ab8b84479bfb6182412cf7b8cf281d08315f1d9,F,"[30, 40)",Greater London,bachelor or higher,1.85,49.0,0.7,397.5,37,0
+ffd8d4d5a2563fd113e711f59d071c28ec00bbf1bb54b9736b2e9be6c577a7d2,F,"[30, 40)","Scotland, Wales & Northern Ireland",bachelor or higher,1.88,46.7,7.3,495.5,21,1
+ede3cab8d2f1e28f6cfbcb09dac720124dcb2179b160dd6306fcb2f15b7fe344,F,"[60, 70)",Greater London,bachelor or higher,1.96,80.9,7.1,2.0,37,0
+c67861713b7fa57d633d928037a782b74f242ff7f7e50feb56296fe3ae652e5f,M,"[18, 30)",Greater London,primary or secondary,1.57,66.5,9.1,341.2,23,0
+77c85b81b23d643681702e1390840baf620f42b1ee8c01d3948177765d72ed50,F,"[30, 40)",North of England,primary or secondary,1.85,50.5,5.8,89.0,49,0
+c50a6a3e8564d89f40ac173229c64a66e76fb470f875d17d17303e650fc18658,M,"[18, 30)",Midlands,primary or secondary,1.7,78.2,0.3,338.4,44,0
+5a6295389a2d90298b56291ab60ed9f8b90fb92b8ea0eb91a67a795e1ee72a66,M,"[18, 30)",South of England,primary or secondary,1.71,39.0,7.5,27.8,42,0
+aa67b9f6c46b87cbe699e9aa38bb8bae2f86efacbe7cb2ceae6a6dc693d7be7e,M,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.91,42.3,2.2,201.0,21,0
+16aa7805e0f07a361d9c416aeed0bfa87e4ae69492da3e30edc68af6d6b0746c,M,"[30, 40)",Greater London,primary or secondary,1.49,79.9,0.6,109.1,36,0
+7868fe482e30dca43fc6c0bd150ad6ba50c9532be97478197f29d789a5b71058,M,"[50, 60)",Greater London,primary or secondary,1.56,66.6,5.9,112.3,30,0
+45fc6b66af469f13532076a1d93d32243f1c8105456a504717976d31135ae39f,M,"[30, 40)",North of England,bachelor or higher,1.64,70.9,2.3,235.4,9,0
+090b3940b795b4faf3ec7b2b2bdc5014245ceb161d50e823b316f1c4f5fcf65d,F,"[50, 60)","Scotland, Wales & Northern Ireland",primary or secondary,1.78,66.2,8.2,93.3,15,0
+290630c4176e289acf843195c71891308be1471ffefa94cd5c947be268796ed7,F,"[40, 50)","Scotland, Wales & Northern Ireland",bachelor or higher,1.86,69.5,9.6,497.6,14,0
+4577c52e9948fc40dd25eae71d057440ce4273ca0480bdd215e6b9677b0dacdf,F,"[60, 70)","Scotland, Wales & Northern Ireland",bachelor or higher,1.56,66.0,8.3,275.3,27,0
+ffb8443914815d705bc041dee8f62e8bceeec26a64976522945d1ea2cc128b6c,F,"[50, 60)",North of England,bachelor or higher,1.98,35.1,4.0,183.8,37,0
+b291529609c8f88750d89b3bce8e51719fc665a119ff7223cad1d2a9a6688410,M,"[50, 60)",North of England,primary or secondary,1.88,35.2,0.8,330.4,28,0
+0a373370d5ca4c10af2e59fa5a01a60bafc3ee2aaa77f0df7d6d937be43be707,M,"[40, 50)",South of England,primary or secondary,1.46,98.8,4.9,25.7,25,0
+77a41507e0349f5fef3bcaa643ba3bd5500ae5a6d664b67d47c3bb13536406b0,F,"[60, 70)",South of England,primary or secondary,1.48,84.2,5.4,90.8,14,0
+4719c984536d76aeec9dbf8ee9c38fb2aa4671bf1d10cc907a0a0e1bd23ebad1,F,"[30, 40)",Greater London,primary or secondary,1.73,43.3,0.5,19.7,22,0
+85ca8055b7a04327d1fc97a346f87d665deed21ea8b13521a49f128433f6f2fa,F,"[18, 30)",Midlands,primary or secondary,1.46,49.9,2.2,188.6,14,0
+aa7b35718e60ec60a4cab1bf2d1b95a3b121ed2469da534131de613b47292d87,F,"[60, 70)",South of England,bachelor or higher,1.92,78.0,1.6,233.7,37,0
+c41b004cac565dc57e81af21fe63a047e98955fda549f3c37cce078521942e45,F,"[40, 50)",Greater London,bachelor or higher,1.94,67.4,6.7,212.3,31,0
+344f367da7419553481b4b93d0afa6364dc542f7b48538ae32a08f6944da5f09,M,"[30, 40)",Midlands,primary or secondary,1.93,73.9,7.1,485.0,11,0
+035ccd5a50723083ebd2e65c3f215455be00fe38573c674957ea7fa1ce70c20b,M,"[40, 50)",North of England,bachelor or higher,1.74,49.9,2.7,138.1,7,0
+623384abcc29ab13f1e658e1f9f72329eaf84ccc05b644a35d1fce92e34a2992,F,"[60, 70)",Midlands,primary or secondary,1.62,82.7,1.3,53.4,33,0
+0d074b9c8e2bdac319635ab7d927eb43e8d37c7fefdb7c6cd842425d770fb584,M,"[18, 30)","Scotland, Wales & Northern Ireland",bachelor or higher,1.5,37.1,6.9,32.6,21,0
+c9f08461d8becbd81f76372fbf414132caefc0a131c24f2bac2b144ac2dabf17,M,"[60, 70)","Scotland, Wales & Northern Ireland",primary or secondary,1.58,67.8,3.1,306.2,29,1
+26720e773c96287f25cfa4895f886b35239dc36da5cebbe3735d627aba596316,M,"[40, 50)",North of England,primary or secondary,1.61,61.9,5.3,194.8,32,0
+1978a21b4f7bd96e87473899886fad18cf746d29eee8a03df053e83f03fc49a4,M,"[30, 40)",North of England,primary or secondary,1.95,78.2,8.3,342.1,22,0
+497431103531ff67ec52cdd7734a3ce8b9af876b34e55074e0ff5d43fc0baf43,F,"[60, 70)",Greater London,primary or secondary,1.41,38.2,6.6,431.6,47,0
+e71d8446822e8062fc12b3e21e2e2dd9249358974bb6d3313e7cb915efd2e702,F,"[30, 40)",North of England,primary or secondary,1.68,76.8,2.1,146.1,50,0
+ea6fcc9ec1c6032a86de5d2034e5767cb3327de1d8b1f2a30715198d8c4411d2,M,"[18, 30)",South of England,primary or secondary,1.42,65.0,9.3,372.3,12,0
+fcedcf82b4e7f7e9476d0ac57855999df6a03b2cac111e76fda4999a4ce70a3a,M,"[50, 60)",Greater London,bachelor or higher,1.53,55.3,8.1,310.3,46,0
+b25802ae0d12820e38d59b397ff38a1474afce1d6d84c69e34048dae7c985cde,F,"[18, 30)",Greater London,primary or secondary,1.54,97.5,9.2,132.2,13,0
+530c7da7f2041397d841561ef72cc76447aa7000bd14367de6ef795001563e77,M,"[60, 70)",Midlands,bachelor or higher,1.46,87.8,1.6,35.8,6,0
+7bf9e4143aed81e91891d7fd3e77a0ceb32bac24c39c15d39aa6dac8fb7b627b,M,"[60, 70)",Greater London,primary or secondary,1.95,96.0,5.0,325.2,50,0
+7ad55d8135bede3c0f7443db5bb4aa05cdfd33ccb19187022f5ee07419b1f2e2,M,"[18, 30)",Greater London,primary or secondary,1.45,87.2,6.6,452.9,26,1
+06eccd3de8dcdf99f12fbe7f73743aa4a7cd901c19a48df65ebf9cd9a8290a82,F,"[40, 50)",Midlands,bachelor or higher,1.55,69.2,2.9,22.8,42,0
+a8636d5ce80dfabe59d97760a997fda593ea59ed4a5c977138cfe953ba72cef0,F,"[30, 40)",North of England,bachelor or higher,1.69,73.1,3.5,18.3,34,0
+ff19dd61ded5bede068728709a90d25748192c5a05b68be93464a0bf292a7a18,M,"[30, 40)",Midlands,bachelor or higher,1.69,60.9,5.2,446.2,20,0
+aa80f7ae946ad22ec5fc37d825cfc98f21696344205f682870898afd5dca99b0,F,"[40, 50)","Scotland, Wales & Northern Ireland",bachelor or higher,1.71,73.6,5.9,199.1,8,0
+60aa4b7dd63b4129b5fd40aa0795f0a9cf2550b9af10c74f5ec2c0c4c55d453f,F,"[60, 70)",North of England,primary or secondary,1.52,89.0,5.8,37.8,49,0
+dd9d885b7561962ccd92ea7fa062e9b60112d7ed676692aa9867bb6423e82ade,F,"[40, 50)",Midlands,primary or secondary,1.62,94.5,1.5,348.6,22,0
+126c11468506784729c31412d7a9a7d2536285f665a1122098a680a862099cbb,M,"[60, 70)",North of England,primary or secondary,1.52,43.0,1.3,467.7,23,1
+59fe2d6bc3b19defc81acec68313197d0e0b4f8a1518beaa55e57637d82a4705,M,"[50, 60)",Greater London,primary or secondary,1.87,89.6,4.8,329.7,15,0
+3dcf778049ba0b998c6ac4dbbce0c6e525f6e270e3355e070b2c22c1dc553922,M,"[40, 50)",Midlands,primary or secondary,1.69,99.6,9.4,153.0,5,0
+66b58d0dd9e525db89f0839e989243ecfdd32453d233304769814e7db72894fb,M,"[30, 40)","Scotland, Wales & Northern Ireland",bachelor or higher,1.95,58.9,3.2,493.1,3,0
+fda45ffb30d02bfa9f2b6ff8be8206f115f40f2ad735fbb7a746d76483aef318,M,"[60, 70)",North of England,primary or secondary,1.96,54.2,5.8,182.9,23,0
+531fd5368d6feddf09e0e00504684ff572f97ec13dcce77ea0141a7b10446525,F,"[40, 50)",South of England,primary or secondary,1.58,76.8,5.9,194.2,7,0
+8ca1cb140615e8bf9aa043ae0dbb1da091dbba59708493bc66a72631ca99e584,F,"[30, 40)",North of England,bachelor or higher,1.95,62.5,4.9,321.2,45,0
+dd4f813cf9d76ef62c2c93bc5ae63b28d25ec333bbd1b9f922c0f81b082cc403,F,"[18, 30)",Greater London,bachelor or higher,1.61,78.0,3.5,204.1,36,0
+c3aba0f067d69da89bddc4484ac2de03457ecb6a72c129b4368054e1ebe004d0,F,"[30, 40)","Scotland, Wales & Northern Ireland",bachelor or higher,1.98,88.0,3.2,196.2,35,0
+14ee084f41bf6b32b6da588416e4ed5de61b76080e497b1850e6d664bef60305,M,"[60, 70)",North of England,primary or secondary,1.76,76.1,1.7,156.6,6,0
+6a452002ae15d28e5de706781fdf39dbd09cbd87ed1334818b0146f302644e43,F,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.91,63.3,1.3,405.9,18,0
+f7652cbaf4e14ddc879581415d775380f4f6cd6559ab9291226b86bc88aec678,M,"[30, 40)",Greater London,primary or secondary,1.93,85.7,1.2,198.4,33,0
+4e4e35813464829c3719e03deacf47e5d41d353ab0679b00ba49d4351869f35e,F,"[40, 50)",North of England,primary or secondary,1.86,60.3,0.0,414.0,38,0
+8a5ca3f52648cf0386b165922de63e9eab6c1c00bfc1297b8b7e6d73683c871d,M,"[40, 50)",Greater London,bachelor or higher,1.86,87.6,7.6,47.9,20,0
+75dd2ace5eef1b3ea22f5d086f6e853f0de792dbb1713b41d25cedf9d588781f,M,"[60, 70)",South of England,bachelor or higher,1.83,57.5,8.5,496.8,9,0
+23acd481d6ec4a11f2e99c91ef3b65cc2004aca4c3cd8245a89736bf04932da7,F,"[40, 50)",North of England,bachelor or higher,1.6,71.6,1.7,28.8,38,0
+ff10631cd16242cbda8b2abb572a5b7fa46580e60b4daa8611faf97d33c0b286,F,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.84,45.9,1.1,452.6,32,0
+0c10ec74c99ef34c15c45d86cb279f6c5371a7c1aba22334f35dcda2e10a0ab3,M,"[40, 50)",Greater London,primary or secondary,1.88,41.3,0.1,239.7,22,0
+993107d8fb4bbedf4c1acafb0c01657ec0d78039875a8b4cb7e8a9c23c5c5167,F,"[18, 30)",Greater London,bachelor or higher,1.99,36.1,7.7,200.3,36,0
+4dd90b8ec704172d7456500814d81c74b991dc4b3ce221581f2600330b65e84e,M,"[18, 30)",Midlands,primary or secondary,1.97,75.5,2.3,277.9,28,0
+27045c510018e98ec80fbf826ea11af8dfba2518b85c64faca4aa8be11a75306,F,"[18, 30)","Scotland, Wales & Northern Ireland",bachelor or higher,1.82,94.3,6.1,227.7,2,0
+69390d8b4fac4a065b55ed286d91ef5239dd0e18ebd68bab391a03c8fbc44e6f,F,"[18, 30)",Greater London,bachelor or higher,1.7,98.7,1.1,170.8,49,0
+1239b5b6868386864135fed14f6d0637f67c521806d18bd71590c841d59e0a35,M,"[50, 60)",South of England,bachelor or higher,1.86,53.0,8.9,109.5,39,0
+581c8b7c7bbe5dddde84804d14cc63c6ba896f4e9e264adc6225bdf792c0c4bb,F,"[50, 60)","Scotland, Wales & Northern Ireland",primary or secondary,1.61,82.0,5.1,65.6,47,0
+26a64c36abe2e7bada90a8fa599a2a7d3f775ad4a998d5b4dbe21e019b391b2a,M,"[50, 60)",North of England,primary or secondary,1.55,87.5,1.9,492.8,21,0
+b9456f647feeaf1a4194da3befb8426158b9ef843f4ea58d9ef0fba30897c291,F,"[60, 70)",Greater London,bachelor or higher,1.83,46.0,7.0,11.4,28,0
+e819e395d0f197e45f93166142e9885d6b86de71a70cd58407902d7e31b1b334,M,"[30, 40)",Greater London,primary or secondary,1.7,95.3,1.5,336.3,31,0
+29c256c869aa8196098c7d9887d9b5107ec40bccda9df5d26aba3ec2ec2d3d08,M,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.99,88.6,7.3,26.3,25,0
+defbb4b1162b232943fea571ffdbe3fa76468e497a7adb5a54b05b87a1e04dc7,M,"[18, 30)",North of England,bachelor or higher,1.68,72.1,4.3,91.6,2,1
+ae9b7b26b465f59a4bfbadb66b8f2f69b4a2a94eb8e6a560a266421eef1587ee,F,"[60, 70)",Midlands,primary or secondary,1.97,81.5,1.0,257.8,22,0
+e2f1076209fa797b91bcaef238c164c4b94ce485c0c18e9ad69826e2af423938,F,"[30, 40)",Greater London,primary or secondary,1.51,95.3,6.3,402.8,26,0
+769d1104cded44cfa14c8da8b7ef39f2d2fc5f1a82e25b5d3c5f2b7a10bc32f8,M,"[18, 30)",Greater London,bachelor or higher,1.73,48.3,0.5,206.1,27,0
+7345e9198283d2cec5b14f0f6ab225b35f544311bfa64d9a289c7ae970baf7d8,M,"[30, 40)",North of England,primary or secondary,1.8,85.3,5.3,99.3,37,0
+5ae3fe80372ec8e30fdaada627838651d64c53fef5befc120f6770cc5bef201d,M,"[18, 30)",Midlands,primary or secondary,1.62,40.1,0.7,82.7,32,0
+63aa68d62d9ff6a2aabd0fd45a53c490543561bc30e2864ddc894fa4b013ff0c,F,"[60, 70)",Greater London,bachelor or higher,1.83,48.1,4.9,454.2,9,0
+eaaed8c55d9aff1ab4c441ffc2bb46912fb58103cd62d9d1c16d7eab7649c7e9,M,"[18, 30)",North of England,primary or secondary,1.48,40.2,2.2,413.0,25,0
+06b0d4c4980cf58e00d1ded8e6b211781196f5e05e66a7d84d2681c63e6424ef,M,"[60, 70)",South of England,primary or secondary,1.44,84.4,5.4,259.2,38,0
+bb8fd724c00588ade2721a39c580f885b68a0a34ebebb441b85bafdfb2aa0104,M,"[30, 40)",North of England,primary or secondary,1.61,38.6,2.2,371.1,25,0
+66e7fc9c0c783f09ef66fcbab870952563f6238f874a0fa785fb3107a098cc52,F,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.4,42.7,1.5,285.8,26,0
+862e6273fa6c6f6bd8f51ae61acdd95f484489392fb80d1ac15bc72440b2d5b7,M,"[30, 40)",North of England,bachelor or higher,1.69,65.4,6.8,456.8,32,0
+b37ca099919946d5e5b514fca622622c03510aa244fac0e0ffe21a4db0429580,F,"[50, 60)",Greater London,primary or secondary,1.7,98.9,3.6,363.8,3,0
+d302364c961e37cc9add202589e0473aa1e7c083c74831a0f08194c03c39cd30,F,"[50, 60)",South of England,bachelor or higher,1.65,48.4,7.5,388.7,23,0
+871bae2622e8165b4d68dea0ce74720fea7c1969458aed0b7bdd1fd904288ad2,F,"[40, 50)",Greater London,primary or secondary,1.47,41.1,4.4,401.4,8,0
+28d159a4acd42ece3eccfce20409a8a70c3391a504664a016680483b0dbe647c,M,"[18, 30)","Scotland, Wales & Northern Ireland",primary or secondary,1.71,89.2,4.2,33.5,22,0
+1c29599eebccf90215883aac19c9e1fd0be43bf0845c6f568dabf32d3ebd4051,F,"[40, 50)",Midlands,primary or secondary,1.77,38.8,4.3,446.2,12,0
+7927cb449741756b48636ddabc9bd8ac255627592cbcf59671ab5a53bf59c71f,M,"[40, 50)",Greater London,primary or secondary,1.45,53.6,5.7,374.6,23,0
+c5ecf08737c644c605449cb9b70e055360c14dfca9267d468833beb74dac354e,F,"[60, 70)",Midlands,primary or secondary,1.92,65.9,3.8,44.6,46,0
+6d6f554305c52f41c2780a9e7025cff41f3b1681ae67ad97e6a0acdf481fba70,M,"[60, 70)",Greater London,bachelor or higher,1.86,62.7,1.7,358.0,27,0
+d75ab48bbc12ca62007815cab9a9439ed05c475fc07ba0d73b4795634ab956dc,M,"[18, 30)",Greater London,primary or secondary,1.8,99.2,7.6,342.1,6,0
+06734482467b6aea524cbfdae71045d44a8dd1c0387776a964625765f0ed5c91,M,"[40, 50)",Midlands,primary or secondary,1.63,64.9,2.0,68.3,32,0
+556b6d1a46114739707c5b1047b0e103cf89b4c62791209d7347e33a139bb130,M,"[50, 60)",Greater London,bachelor or higher,1.86,41.4,1.2,307.8,16,0
+5339d2e629634485981d0d6d93cffbebbe601e42a8a8c079d31bc982353695cd,F,"[30, 40)",South of England,bachelor or higher,1.97,42.0,9.5,75.5,22,0
+4848eb40ccead77c97dd039b155b8cbbd06a11476a2b86af66f91aba26f7206b,F,"[60, 70)",Midlands,primary or secondary,1.42,44.6,7.1,5.3,29,0
+e5feff4b5193d6b658345359eb0a090d54c600d03343d781e7c715f3799e18c5,F,"[40, 50)",Greater London,primary or secondary,1.53,35.4,9.8,319.2,4,0
+2595245645c70f5dc4e181af05441864a10dd07c959ba61a0ce0433e9335fecc,M,"[40, 50)",South of England,bachelor or higher,1.7,60.9,8.9,213.9,13,0
+4ccf46bc1e22d20fd79c922018945b514e8bc73e3af86a4bffc4ed3c71503800,M,"[50, 60)",South of England,bachelor or higher,1.79,76.5,0.3,142.9,24,1
+213a138f812ac7a5856ed5fe2cb3f87239c986c23d2dd26cb3edfd8761f3352d,F,"[50, 60)",North of England,primary or secondary,1.94,43.3,7.6,4.2,12,0
+0d46aa7fa46296a5f24300c9ed57dc012b8aaf46d1b46e55ad4c57f3fd81ea52,F,"[18, 30)",North of England,primary or secondary,1.87,37.0,6.4,202.6,15,0
+95209576cc6b680b39b6324a781a9eeac07a97e8eb9709530bb6e9684b478596,F,"[40, 50)",Midlands,bachelor or higher,1.97,37.6,4.9,173.2,21,0
+af14ccd1fbd885d1bb2ca3f3bcdd25471841e5579a194c1e62223139a7d8a7eb,F,"[18, 30)",Midlands,primary or secondary,1.79,66.8,6.3,317.6,10,0
+63b7aa76ca9bbc22e5deb3aff3eeff70f363c864d89c30a70f11f0b1cbfb8196,F,"[60, 70)",South of England,primary or secondary,1.91,60.2,0.8,282.7,33,0
+1ba5ed149cf392c35bddbe29a9842840faee0a8c54b5bd85b4a433d42db3ad24,M,"[18, 30)",North of England,bachelor or higher,2.0,85.7,1.8,92.7,18,0
+7c87010d3ce668936621bdb6a2e7000f0c549916ec0139cfa3a1e1189384ee5e,F,"[40, 50)","Scotland, Wales & Northern Ireland",bachelor or higher,1.69,84.7,5.9,265.1,28,0
+f03c8ea1416be62297a2cd44d37b571bf583d9f7dc505e7c909d453e6735e5de,F,"[30, 40)",Greater London,primary or secondary,1.88,94.8,9.0,101.3,45,0
+35027f30efa34c3c30fb9860ae8a15fbaa0c8e49a32407e4c23c050be096fc7a,M,"[50, 60)",Greater London,primary or secondary,1.49,41.8,4.0,211.8,34,0
+bd819dfd7d75d8fde0d57cdc2499daa19e0e93daeb13e6a581074c0c5ad45c0c,M,"[30, 40)",North of England,bachelor or higher,1.68,47.5,8.2,7.6,32,0
+ce3460dceaa57c4660c5da96e3f9700c7956d5868afe7c93b59a3f4f0f421277,F,"[30, 40)",North of England,primary or secondary,1.57,68.6,2.4,423.7,36,0
+5e63467442caadd43ef469e79fc1e9e0198c2343644d6e46c308f6a543633445,F,"[18, 30)",South of England,primary or secondary,1.4,77.2,3.3,489.0,37,0
+ea5b4eaa76a380d83a067d269ce2c090ba4d7fb9cc94dfaf11712281e09e4969,M,"[60, 70)",Greater London,primary or secondary,1.48,58.5,6.8,12.3,22,0
+c5e2a2e766c3d2d2aa9465b2c93bc72c3803e3cd2e1b0f9f247db9d077643210,M,"[60, 70)",Greater London,bachelor or higher,1.46,58.8,6.5,322.3,2,0
+d9432df0067bd4cbb09aa8e44648e66d81a14ea280f4e69ad82d5c9b08c85c8b,M,"[50, 60)","Scotland, Wales & Northern Ireland",bachelor or higher,1.99,65.3,3.9,417.9,5,0
+3fe2ee0fc743300258e414782bdc8abc70362d644efb6cec21049783ea9d450a,M,"[60, 70)",South of England,bachelor or higher,1.84,60.8,0.0,8.4,10,0
+3f3b14131b1c7c866d4d062dd0316d74d54c65374997f0b12d36cc3df08d0a71,F,"[40, 50)",Midlands,bachelor or higher,1.91,97.8,9.1,38.3,22,0
+5dc5daee9ee4f2d712c53e9318816774cffcd0bb1e2f5ca8609c45c09ea66f6a,M,"[30, 40)",North of England,primary or secondary,1.45,42.6,3.1,440.7,41,0
+999160c82589f9beecc6cfe8b615e61a561b8a9f8bee48863d46f098a7cf2bac,M,"[40, 50)",South of England,primary or secondary,1.56,38.5,9.6,25.8,34,0
+a9faea57b60562509b5864ac19269453f9f0340428876400de0d83069e90face,M,"[50, 60)",Greater London,bachelor or higher,1.83,50.6,8.2,369.5,7,0
+ce9dd47c813ae60c7de39b9c1695668c6fff5ea431f750015401340730170102,F,"[60, 70)",Greater London,primary or secondary,1.76,51.9,4.7,320.9,44,0
+c7831fcb1dc33d2e0ff447aba5a61c86eb796e3a4dd6233bbca96b1fd98b8f0a,F,"[30, 40)",North of England,primary or secondary,1.71,42.4,5.2,49.6,32,0
+c58534c9a2da7018f9d9092a0d020e0b3295094f6ae3bda57856ebeb052f1173,F,"[18, 30)",South of England,bachelor or higher,1.54,71.9,1.1,206.9,21,1
+55d08fb3b2ff67b3e6c99dab3effb3f1f49abb04a73183a5338854b02e63dc32,M,"[18, 30)",North of England,bachelor or higher,1.81,78.5,8.1,140.4,17,0
+bae88ff8e6440b84ac516c1bcb7c5df3033a03c237904dee2e61714735f63452,F,"[50, 60)",Greater London,bachelor or higher,1.69,84.5,9.3,217.7,11,0
+b23fed688f3ec07da2923fe799c16bc5c7d2f826e1091002e7fe105aa5c2bd7a,F,"[40, 50)",Greater London,bachelor or higher,1.95,79.8,8.0,269.6,24,0
+97dc56ea875d4faffd988f7ed031c26adc5a561542f5060bb72d973eb04db8b3,M,"[40, 50)",North of England,bachelor or higher,1.44,48.5,3.4,60.3,34,0
+95f038bf169375c03ad5357cf3b7bcdf34f46356f151fdaafb20dc55f490ff4a,M,"[18, 30)",Greater London,primary or secondary,1.71,45.0,4.1,298.4,30,0
+e2127dcff189695268e3b7d91f724557a487e13fc54d00eb9b7fee971c6f056b,M,"[60, 70)",South of England,primary or secondary,1.94,50.7,9.8,27.1,48,0
+00a586609d36c2224453cd0a7010f87419b7025dc389a5433dc281f8b222d723,M,"[40, 50)",North of England,bachelor or higher,1.48,72.0,0.6,269.0,12,0
+32048178dd866434b489e0552451a0aebecbf7318482475d70578c40b4fc80fd,F,"[50, 60)",South of England,primary or secondary,1.42,98.6,9.2,25.3,28,0
+ea0936270def864ee6894e322a8a83c2675c73baba3ea324b5af2005bfbb6ebb,F,"[50, 60)",Greater London,bachelor or higher,1.52,54.5,5.0,449.6,36,0
+1047c9c317b22c06ed0abf744edb75b1aad1b715cb637b967a511a7178f45546,F,"[50, 60)",Greater London,primary or secondary,1.56,39.6,2.3,113.4,20,0
+edc331907c80a362b6dd9743402afe90006f7c8782e3a8ec25bfc10cf98d728d,M,"[60, 70)",South of England,bachelor or higher,1.5,48.2,9.2,97.2,20,0
+87f9bf1650799f0d4d9ea1b8503eececb0ec3e59128f729bed8dea473750d51c,F,"[30, 40)",Greater London,primary or secondary,1.7,89.6,1.8,303.4,43,0
+3218c1496fe268444afa9702632dc294a9ac7f1bc1b316849ca1661a7b47f210,M,"[30, 40)",South of England,primary or secondary,1.69,49.3,7.8,200.9,3,0
+f63960a77d4c4a92c1351c43e18719e10a0d0858d23b9b411a0f57c031396992,M,"[40, 50)",South of England,bachelor or higher,1.58,60.4,9.4,214.6,46,0
+844d2af7bc96ba178fd4b7349db7c3cbfae101b2eff84f282f7e1cda310abe0a,F,"[30, 40)",Greater London,primary or secondary,1.86,86.3,5.4,212.4,39,0
+bdab37f1d818315f44669c1cefd3063dd21af13ab1522e85cf38b6b96c064d89,F,"[30, 40)",Midlands,bachelor or higher,1.68,64.6,2.7,424.5,3,0
+6ebd573afcd7306b75591b683c593665f838dd1f79b84f8e173d60c8ec03b5a0,F,"[50, 60)",South of England,bachelor or higher,1.55,94.8,7.5,37.0,34,0
+f1c397e34485a2f52cfbe2b504fd11e712659a3b174c36297a0e09c506de4be2,M,"[60, 70)",Midlands,primary or secondary,1.88,93.7,1.3,446.2,22,0
+e18fc720eccb886dd37f5f469f3e6bfe1eab26909a358d7d1a7441f3b9b7d4c6,F,"[60, 70)","Scotland, Wales & Northern Ireland",bachelor or higher,1.84,56.9,7.6,381.0,9,0
+d0551d79e98e748e831898ff7b248ed33af8a42179b035e509607d0028df47ce,F,"[50, 60)",South of England,primary or secondary,1.9,39.0,0.1,321.7,5,0
+93977746683fd7c7429d2d36b44101e185972b85db871799570232a63bf175d6,F,"[50, 60)",Midlands,primary or secondary,1.62,68.8,3.1,175.2,36,0
+8588848a3f8588a1cdef66ca8e70cca7e2fd4624c224c82fdbcd150d7d596298,F,"[60, 70)","Scotland, Wales & Northern Ireland",primary or secondary,1.72,96.3,1.4,285.4,15,0
+88d5d61836ff70ead85172adbac0dd37826536a6dab9a26bb6f43ef91bdd2248,M,"[30, 40)","Scotland, Wales & Northern Ireland",primary or secondary,1.58,75.1,2.4,226.4,31,0
+73e561b8720e034feec1dbf679a9061178f47af79f2c179467432af37015e8ea,F,"[60, 70)",Greater London,primary or secondary,1.6,63.8,4.8,179.6,41,0
+bfdd411466476b1775b5b10420d28b93704f471e59aaacd4803ab79199b7b2dc,F,"[60, 70)","Scotland, Wales & Northern Ireland",bachelor or higher,1.46,67.3,3.8,8.5,8,0
+33844a69fe3bc65d5edb61ec84018c9046749adfde2fa40ac0fd562f0557529c,F,"[60, 70)",Midlands,primary or secondary,1.74,73.1,4.4,409.5,3,0
+236faff0c0270dd22b3a589aa0d65902f6d8122e21d7878f8191ccde9ca6c45a,M,"[18, 30)","Scotland, Wales & Northern Ireland",bachelor or higher,1.85,35.2,6.7,312.1,7,0
+05f68f689a38d7847aebfaf7fcdcf0ca555c5640d53bd9eefb71d524cadebcb9,M,"[40, 50)",South of England,bachelor or higher,1.87,56.7,3.1,475.5,43,0
+033bceab53aec56ac1ca77bb7e884f699c30c300addd891e2dd7ac83d4c832af,F,"[18, 30)",South of England,primary or secondary,1.44,60.9,5.9,258.6,36,0
+61618a66e067f50f222dbf23b60324e156dfa119990ab66885e661c8ab4d0fc6,M,"[30, 40)",South of England,primary or secondary,1.74,96.0,7.5,223.4,25,0
+ebaca4db20771d197829aee2502c9515ab6abf33e3922850753407a4ae911292,F,"[18, 30)",North of England,primary or secondary,1.42,92.5,9.0,466.4,12,0
+026f96ef4458a93410ee118c2c0f48f68c5ac463e917e49a248ed6c4ee9cff09,F,"[40, 50)",North of England,primary or secondary,1.54,48.4,8.3,228.2,20,0
+91fba127e963f797bc1eed5518029cdd6ee08725e15c94ead017d675a5e02d08,M,"[30, 40)",North of England,primary or secondary,1.84,88.5,7.0,169.4,26,0
+d9730c4cc035015d8beb7b2a229f404a2b3e3596aad4c7edd7a5466c03a5ab0b,M,"[40, 50)","Scotland, Wales & Northern Ireland",bachelor or higher,1.42,58.4,9.8,129.8,9,0
+f25a2c98003474654e23f34b17346a6c2220b9389c99b40e4b58693dfd251088,M,"[40, 50)","Scotland, Wales & Northern Ireland",bachelor or higher,1.69,35.9,2.8,334.9,47,0
+f55c6a50c2d3949516359d8674682b2c49cc1ea8d3e643d4a4b6275edd2a00ce,M,"[40, 50)",North of England,bachelor or higher,1.59,40.3,3.7,28.3,29,0
+86cdde4bdda558dd9bd0f867dbb487f1c7da939f77588bd19a254a94da82d4dc,M,"[40, 50)",Midlands,primary or secondary,1.95,75.8,3.9,180.6,42,0
+7d90c7a1c84f5c072843afabfeb569f176532649960e673b99353ba912fe98b0,M,"[18, 30)",Greater London,bachelor or higher,1.42,85.8,4.0,36.4,21,0
+4e8ec98f9c1f3ebd19d9d2db95cb664fe5386daca26a7e121a4c14ca181549cc,M,"[40, 50)",North of England,bachelor or higher,1.62,63.8,3.6,376.8,38,0
+ec88d069cbcceb445f0e2b4cc82004d88048f658d12778cab60e1ec5f492e240,F,"[40, 50)",North of England,primary or secondary,1.56,88.3,4.0,265.1,4,0
+9eb27801463773f3c5c2a74495260be188261a473535ef3b2187dbbce6dd8118,M,"[18, 30)",North of England,bachelor or higher,1.86,85.1,6.1,75.0,32,0
+6bd4ef174bf820861276153937fb53d20e3f2e3e760edc53d2ce1f845ff8f8e9,M,"[18, 30)",North of England,primary or secondary,1.65,81.2,2.0,87.4,20,0
+853d3d5e5246884a1739de1ec21f5d9db75544a7108edca7b22535605f4c365c,M,"[50, 60)",Greater London,bachelor or higher,1.88,43.7,1.8,80.7,29,0
+0169352604218ef88630105cd232f555231af01f3e0d95da2e156461f62b8d96,F,"[40, 50)",North of England,primary or secondary,1.73,83.4,0.7,133.9,6,0
+85eb7cb4dd0aa20ef553626b2f4b7d446d6db369723d51984f5e689c10039f16,F,"[40, 50)",Greater London,primary or secondary,1.51,40.0,0.1,463.1,5,0
+7e541735cda4a3925ee24a068f35d44c1e285ebf93547498c78926e305eede40,M,"[40, 50)",Midlands,primary or secondary,1.69,96.2,4.4,268.2,35,0
+bb67527f8a39b2c3611b9e2c4d751d96ffc1d1929bd0ff5bf0cd2c931911d2f0,F,"[50, 60)",South of England,primary or secondary,1.8,90.9,8.4,292.2,41,0
+3b842cbe8b8e35c3455b870dd8838ed34452e42a68dfcb3bf839f133efc5fed7,F,"[40, 50)",South of England,primary or secondary,1.99,85.1,4.0,358.9,34,0
+a1a17e790ad9681ad107fb4116e735e685922f8bb485a10b8e293ce6b6ab3708,F,"[40, 50)",Greater London,primary or secondary,1.49,61.9,4.8,338.9,33,0
+51a8cafb32c2c9b4acab069aeb3b41d379ad2a56bd56c924b6c9efb922c88f04,M,"[60, 70)",Midlands,primary or secondary,1.47,81.9,0.9,484.6,3,0
+d24c1939e305e1dc5f656c528bd69009afdf2656d13b3d79b6d693adb72fb170,F,"[50, 60)",Midlands,primary or secondary,1.84,77.3,8.9,154.7,49,0
+be9904304c3aaf432281ba61be43b394bd0cea28bd7afb6b442c4e8d4b908dd8,M,"[60, 70)",Greater London,primary or secondary,1.51,95.1,4.9,371.3,43,0
+58e8ec1dc6ed7e3d17414eaf68221d6d52175e2e3693d1e9e0aa9e39e3c660b9,F,"[60, 70)",Greater London,primary or secondary,1.89,52.0,8.0,424.4,36,0
+da256de931493e2d202403c02eafe40025bf3567d92bd816487ea80542fe03b5,F,"[60, 70)",North of England,bachelor or higher,1.43,75.2,1.4,268.4,49,0
+195f43bc14edfa193edebb1d07492cbec1d9de2a08ba2a1508561973c8531d9f,F,"[50, 60)",Greater London,primary or secondary,1.93,71.9,2.0,263.0,46,0
+65bdb60bcc03c410a522bfcb6a791bb81d969017ccb76bd2ca550a90e4440226,M,"[50, 60)","Scotland, Wales & Northern Ireland",primary or secondary,1.96,74.5,3.7,317.4,46,0
+e33adfcc56ae929ee834c432a2c6d33ee0a54cd04be5b72e97cab3225e150a5f,M,"[30, 40)",Greater London,bachelor or higher,1.51,68.0,3.0,335.2,39,0
+e2c090f0af5af2a24c46e67a56d68d2900eaa2c27794012ed238c4c86d5f6882,M,"[40, 50)",Greater London,primary or secondary,1.72,54.1,7.9,359.9,38,0
+a29eb22c1c2462e8cef6a4b3c0b6040e820c183acadd1f679633192a2d756233,M,"[50, 60)",North of England,primary or secondary,1.47,79.8,6.8,355.9,31,0
+44c85a907a669cf9e9fda0784f81504f99d8ab27070d4f5695f94429ed2216db,M,"[50, 60)",North of England,bachelor or higher,1.52,86.3,3.1,73.8,27,0
+25d404204dc087bad89fe80040a6757651f3f508cc681554af9ea1ef8cec2ebf,M,"[40, 50)","Scotland, Wales & Northern Ireland",primary or secondary,1.56,81.4,5.1,141.5,26,0
+6639c390f525d95e26dcb17ef19661625b58d126e0c6542e76bacfe0435d2b96,F,"[40, 50)",Greater London,primary or secondary,1.47,66.1,2.6,202.0,9,0
+3f05b1cc412a9008b15cdabfc3017c879974d36e0f89db8f69d64a29bdd3fe81,M,"[30, 40)",South of England,bachelor or higher,1.75,87.7,1.8,338.7,19,0
+9550b0c0cc19bf849c51c13868b08b771d011e6923dc3ebe9848a833bd6b5fe2,M,"[50, 60)",North of England,bachelor or higher,1.68,68.9,4.9,147.5,15,0
+cd651ecfefe73a86aaa6d6a09ce4a5bb23cf6296086113d739ac49d1424ba6bd,M,"[30, 40)",Greater London,primary or secondary,1.88,41.7,3.8,362.5,24,0
+11954796f4a2aa3d300d414bc06114839199c1decb97a101f665f664c45e678f,M,"[60, 70)",Midlands,bachelor or higher,1.55,52.3,5.0,144.6,39,0
+94dc4ac756aa95e80bd8b886a7acada8cf257befa8945106b75c9c88b5c0c6e6,F,"[40, 50)",Greater London,bachelor or higher,1.4,76.8,4.6,397.8,36,0
+256642198a0d8a73f1bf0a4bedd5e00e10f2d1397d1c3c818be47ed977168725,F,"[40, 50)",South of England,primary or secondary,1.57,66.5,4.3,158.1,49,0
+56970994554526d1b701cf88356c66d7ee547981485588d5d51e0b2836102e91,F,"[60, 70)",Greater London,bachelor or higher,1.83,87.6,1.5,68.4,3,0
+281f1555b8ab00b38f316305d6a9ce75ed54e3b457b9e200ca6ac7f50e73c3d4,F,"[18, 30)",Greater London,bachelor or higher,1.49,81.7,1.2,231.1,20,0
+98f09896718c5ddd1681a9e14d0e8ddcb32830549cc63eadb9a105e86735d169,F,"[50, 60)",Greater London,primary or secondary,1.51,55.2,4.8,248.2,15,0
+cbbc3655a6f2b192f690b6f0fb49cfe7794c4c4400535885d900f62430d43aa9,F,"[18, 30)",Midlands,bachelor or higher,1.68,79.9,1.4,493.8,24,0
+aa696dfe3d7e5c3ed28ce11c8cd431fd2f7cde24a68133525a194d8b4d3fb0c0,M,"[60, 70)","Scotland, Wales & Northern Ireland",bachelor or higher,1.88,36.9,7.7,356.7,28,0
+57b2d5b6f9e2d0c620d1bf01a4bfa8cf68037030ec13ce3e4fe62855131a9677,M,"[50, 60)",South of England,bachelor or higher,1.68,94.2,2.3,7.0,19,1
+743e9fefe7d52c4f4e8858b4ef83c86ba8b2b09c5d4bc80e21a60f1d1782f10e,M,"[18, 30)",North of England,bachelor or higher,1.77,86.6,3.8,228.1,40,0
+1b0bcfe1b1947c455ab89f57205ffc136eb188fcb9b9a798de1bcd1facea7e04,M,"[60, 70)","Scotland, Wales & Northern Ireland",bachelor or higher,1.9,36.9,3.3,116.5,16,0
+f51a2e350876fef2aa23a784fb02949850c8c0ad5f54be08c21d4bfd90dd002a,F,"[40, 50)",Midlands,primary or secondary,1.52,91.1,8.3,305.3,14,0
+72d8f6e4589388376313adb3f53a78f8e2d7d126558fd3c6bb44587f46d91d6d,F,"[40, 50)",South of England,primary or secondary,1.96,93.3,1.8,186.0,25,0
+9efda9dd3c61662663c4afd03221ed10e419e694fc4305f5888684ffc3418312,M,"[40, 50)",South of England,primary or secondary,1.82,80.5,0.9,491.7,34,1
+62c1479c6afb6d8ce8fd17396ac869aa33b3ebbb6d4222993c895cdf40d1841b,M,"[30, 40)",Greater London,primary or secondary,1.97,35.6,6.0,70.7,27,0
+75e161e4bcd4c26e444a8fe9089f7d56b7c4e354449ed7a24832a51bf70f5ae7,M,"[60, 70)",Midlands,primary or secondary,1.75,92.6,9.6,446.4,39,0
+f55797a4f4a2a38936b039d05f7b4e93fe00ebae97ea289fb3a45f90d8246042,F,"[60, 70)",South of England,bachelor or higher,1.4,75.3,1.1,276.9,47,0
+f2d3003ab40332b85edf5225ab0bbb8ec2d5f5ba32355dcb3bd4b3699e30ebab,F,"[50, 60)",Midlands,primary or secondary,1.44,72.1,2.7,459.0,35,0
+37daaf4e0d8cdc6cad94c940088f9a652912b2ef3df41b50904238158403f809,M,"[60, 70)",Midlands,bachelor or higher,1.91,44.7,9.8,70.5,37,0
+8e7ef112cedf507d412d783ecb2d4ff585b95516e4544149d2378bca9ab97373,M,"[30, 40)",Greater London,primary or secondary,1.46,82.8,8.0,107.9,40,0
+8e170905f1c7272e8ad244ebacc5024d6d3e373f066e2c99c98317acd6f7d33c,F,"[60, 70)",Greater London,primary or secondary,1.46,65.4,4.2,489.4,10,0
+cec9a0a7512541f9af8f8534cb8d3f80a35a6c06fd054125e595e6a3e74d41b2,F,"[40, 50)",South of England,bachelor or higher,1.59,47.6,6.3,460.0,33,0
+9a47703168031b1811189d2e9b70ade082c774af1ad22c6e7805aea407fa7ed6,M,"[40, 50)",Midlands,primary or secondary,1.43,94.5,9.4,402.5,13,0
+0f09b2216a72845ca67ab2e04105515ca62d78b4344fc7c1d17c8702fc3c4b52,M,"[60, 70)",Greater London,primary or secondary,1.5,38.3,1.5,413.7,13,0
+880f1e05a3ede715d96ca83f86a960903aaa23c032f26e064fd5319d6c1451d9,F,"[40, 50)",South of England,primary or secondary,1.9,60.1,6.2,52.0,5,0
+e58ea1f967e8072e80e08a91ad80bec29cf0c41c4fc4e853fb80fd3a7003a93f,M,"[50, 60)",North of England,bachelor or higher,1.67,47.5,1.8,41.2,6,0
+66ef424f0065aca063d9c19d21cce618a5c9373f5a9a36ce3d8660646c8d266b,F,"[18, 30)",North of England,bachelor or higher,1.79,45.9,7.1,25.9,10,0
+df1fca50a3206c0fbd062d209737cfa4a3e26f63b72bebbc5002b24543733509,M,"[40, 50)",Greater London,bachelor or higher,1.92,38.4,0.3,377.0,24,0
+8785ecc1dbac336ca5ad17d56c5f40b50edbf5d99ffa52c7f7a2a8a3c63da093,F,"[40, 50)",South of England,bachelor or higher,1.95,71.9,8.1,390.3,22,0
+342293c3409d393ea8f5daaa51eb9ed775827df54a059b4de1d12c9ca757566e,M,"[60, 70)","Scotland, Wales & Northern Ireland",primary or secondary,1.81,53.1,7.2,312.2,10,0
+ddbb6d19c55a35624131e17eb7630cbd4d9226be565646ef2c8cd2eb193edb57,M,"[40, 50)",South of England,primary or secondary,1.44,77.0,6.3,26.6,9,0
+c73b7247de28eb8f85b8ea2c021b5336af4088375125af2afa0ae3637057fb45,F,"[30, 40)",North of England,primary or secondary,1.86,58.7,8.3,444.3,47,0
+10cc199ffabffc51f4772ae6d76df5804a58735f44229edff08b36d8f2eb791b,F,"[18, 30)",Greater London,bachelor or higher,1.44,86.4,8.5,24.0,35,0
+14a0ac4535107528cf1f3b73161d840fa7f53e5b9bb84ad676129a7bd63dee82,M,"[60, 70)",Greater London,primary or secondary,1.75,51.9,3.9,74.0,49,0
+8d20eb45b66a6281984cdc13905014c01cf4eb5e5525fa29c373813ca537d636,M,"[50, 60)",Midlands,primary or secondary,1.96,58.6,2.3,488.1,35,0
+9797f6ecdac6117085e51d773541341e5c0cf1baed786bc537f510a372dbcb6f,M,"[60, 70)",Midlands,primary or secondary,1.57,44.4,7.7,277.6,38,0
+6219d7232ee741255c930beca59d04611f37743bce10e0e4e7f468767826b7f4,F,"[60, 70)",South of England,bachelor or higher,1.46,39.3,2.8,338.7,44,0
+151dfd01610360647a0bef5e2b0f9c81db649af70ddc0a7a0a18c5e2f18e3ebb,F,"[40, 50)",Midlands,primary or secondary,1.46,73.3,3.0,391.7,8,0
+429c87450ecc40e9ec376ca4fbf46230010dae03621d6664e1c08214502aad47,F,"[18, 30)",Midlands,primary or secondary,1.58,46.4,7.8,76.1,20,0
+77261cd1f58086abae13626709466e779e8df749420f7f0b98143160233d8fe0,F,"[18, 30)",South of England,primary or secondary,1.45,51.2,2.5,342.8,28,0
+1371b3e4e17554c3e9f69d7b53b7e61d7e72bc4d14cb2ff63f49e8eb08aeef5b,F,"[30, 40)",South of England,primary or secondary,1.8,93.9,0.6,376.1,8,0
+392f46958fc0ca3359ce6c52fb1968b450466e320b60ffa01b2eb8f6b938a282,F,"[18, 30)",Greater London,primary or secondary,1.75,96.7,5.5,86.0,6,0
+6d3a0e3fa14079348fb23dd5fde8f684427037db8f70804a64a23bc5f528428c,M,"[50, 60)",South of England,primary or secondary,1.9,85.6,3.8,135.8,4,1
+af247a8cd7283ed52c7186e2d960fce78851830d1405d6fabd64c542b4f9e0f8,M,"[50, 60)",South of England,primary or secondary,1.5,78.3,9.7,237.4,10,0
+9d8d4d5f2f6ce875c4dc843c296e0254f7aeeec3a67d9ee5460fed914ca516e9,M,"[50, 60)","Scotland, Wales & Northern Ireland",primary or secondary,1.98,92.7,1.8,262.4,21,0
+961e70dd9c0c712f18fc07c18794ca69f4a19124b58b22e8fedfbb22d4aec0be,M,"[18, 30)",North of England,primary or secondary,1.85,56.1,7.7,336.2,35,0
+e8fc54cc1f45a480519c3da80beb885f3f7f657c6bea5513280c1664eb859465,F,"[60, 70)","Scotland, Wales & Northern Ireland",primary or secondary,2.0,94.9,0.9,55.7,35,0
+886e9851cb48093de4e78ea9521f56bdd3b9b541df410def21c23d76793ae9ab,F,"[60, 70)",South of England,bachelor or higher,1.5,75.6,4.7,430.5,35,0
+86c10deeb1b9d8c8f9fb2d2e3bb7e8edf57b0add50d7152f0046effceedc9c71,M,"[60, 70)",North of England,bachelor or higher,1.65,95.6,0.7,34.6,47,0
